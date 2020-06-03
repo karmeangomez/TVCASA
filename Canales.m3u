@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, EN VIVO ANDRES MANUEL 7AM
-http://roedor.xyz/REGIO2O2O/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
 #EXTINF:-1, 24 HORAS LA ROSA DE GUADALUPE
 https://tecnoplay.club/blu/principal.php?c=64
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="" group-title="Premium TV",MALCOLM EL DE ENMEDIO
@@ -22,43 +22,43 @@ https://tecnoplay.club/blu/principal.php?c=121&f=.m3u8
 #EXTINF:-1, TLNOVELAS
 http://roedor.xyz/REGIO2O2O/tp.php?c=83&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZTECA UNO
-http://roedor.xyz/REGIO2O2O/tp.php?c=7&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
 #EXTINF:-1, UNIVISION
 http://roedor.xyz/REGIO2O2O/mc.php?c=105&f.m3u8
 #EXTINF:-1, LAS ESTRELLAS
-http://roedor.xyz/REGIO2O2O/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=144&f.m3u8
 #EXTINF:-1, TELEMUNDO
-http://roedor.xyz/REGIO2O2O/tp.php?c=85&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=111&f.m3u8
 #EXTINF:-1, CARACOL
 https://tecnoplay.club/blu/principal.php?c=322
 #EXTINF:-1, IMAGEN TELEVISION
 http://roedor.xyz/REGIO2O2O/tp.php?c=2606&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CANAL 5 
-http://roedor.xyz/REGIO2O2O/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=145&f.m3u8
 #EXTINF:-1, AZTECA 7
-http://roedor.xyz/REGIO2O2O/tp.php?c=317&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=147&f.m3u8
 #EXTINF:-1, FOX
-http://roedor.xyz/REGIO2O2O/tp.php?c=201&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=57&f.m3u8
 #EXTINF:-1, ESTRELLA TV
 https://tecnoplay.club/blu/principal.php?c=340
 #EXTINF:-1, NU9VE
-http://roedor.xyz/REGIO2O2O/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=143&f.m3u8
 #EXTINF:-1, TUDN
-http://roedor.xyz/REGIO2O2O/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
 #EXTINF:-1, NBA TV
 http://ott.artmott.com/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, UNICABLE
-http://roedor.xyz/REGIO2O2O/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=107&f.m3u8
 #EXTINF:-1, DISTRITO COMEDIA
-http://roedor.xyz/REGIO2O2O/tp.php?c=78&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=154&f.m3u8
 #EXTINF:-1, COMEDY CENTRAL
-http://roedor.xyz/REGIO2O2O/tp.php?c=340&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=32&f.m3u8
 #EXTINF:-1, CANAL 28
 https://tecnoplay.club/blu/principal.php?c=382 
 #EXTINF:-1, FOROTV
-http://roedor.xyz/REGIO2O2O/tp.php?c=4&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=149&f.m3u8
 #EXTINF:-1, ADN 40 
-http://roedor.xyz/REGIO2O2O/tp.php?c=184&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=148&f.m3u8
 #EXTINF:-1, MILENIO
 http://roedor.xyz/REGIO2O2O/tp.php?c=1250&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, EXCELSIOR TV
@@ -67,13 +67,13 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=1449&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/REGIO2O2O/tp.php?c=2149&p=3&k=srregio&f=.m3u8 
  
 #EXTINF:-1, DISNEY CHANNEL
-http://roedor.xyz/REGIO2O2O/tp.php?c=113&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
 #EXTINF:-1, CARTOON NETWORK
-http://roedor.xyz/REGIO2O2O/tp.php?c=112&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
 #EXTINF:-1, NICKELODEON
-http://roedor.xyz/REGIO2O2O/tp.php?c=110&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
 #EXTINF:-1, NICK 2  
-http://roedor.xyz/REGIO2O2O/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=126&f.m3u8
 #EXTINF:-1, BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1, BITME
@@ -81,58 +81,58 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, NEOX
 http://www.sansat.net:25461/titipfr/mjq1E9ZaJB/14957
 #EXTINF:-1, DISNEY XD
-http://roedor.xyz/REGIO2O2O/tp.php?c=111&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=48&f.m3u8
 #EXTINF:-1, BOOMERANG
-http://roedor.xyz/REGIO2O2O/tp.php?c=115&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=153&f.m3u8
 #EXTINF:-1, DISCOVERY KIDS
-http://roedor.xyz/REGIO2O2O/tp.php?c=109&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=41&f.m3u8
 #EXTINF:-1, NICK JR
-http://roedor.xyz/REGIO2O2O/tp.php?c=117&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=125&f.m3u8
 #EXTINF:-1, DISNEY JR
-http://roedor.xyz/REGIO2O2O/tp.php?c=118&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=47&f.m3u8
 #EXTINF:-1, NICKTOONS
 http://roedor.xyz/REGIO2O2O/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TOONCAST
-http://roedor.xyz/REGIO2O2O/tp.php?c=108&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
 #EXTINF:-1, NATGEO KIDS
-http://roedor.xyz/REGIO2O2O/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=129&f.m3u8
 #EXTINF:-1, LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1, ANIMAX
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1, BABYTV 
-http://roedor.xyz/REGIO2O2O/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8 
 #EXTINF:-1, BABYFIRST
-http://roedor.xyz/REGIO2O2O/tp.php?c=1984&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=155&f.m3u8
 
 #EXTINF:-1, INVESTIGATION DISCOVERY
-http://roedor.xyz/REGIO2O2O/tp.php?c=68&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=96&f.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL
-http://roedor.xyz/REGIO2O2O/tp.php?c=86&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=39&f.m3u8
 #EXTINF:-1, ANIMAL PLANET
-http://roedor.xyz/REGIO2O2O/tp.php?c=88&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=315&f.m3u8
 #EXTINF:-1, HISTORY
 http://roedor.xyz/REGIO2O2O/mc.php?c=92&f.m3u8
 #EXTINF:-1, HISTORY 2
 http://roedor.xyz/REGIO2O2O/mc.php?c=93&f.m3u8
 #EXTINF:-1, DISCOVERY H&H
-http://roedor.xyz/REGIO2O2O/tp.php?c=96&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=40&f.m3u8
 #EXTINF:-1, TLC DISCOVERY
-http://roedor.xyz/REGIO2O2O/tp.php?c=97&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=114&f.m3u8
 #EXTINF:-1, NATGEO  
-http://roedor.xyz/REGIO2O2O/tp.php?c=91&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=128&f.m3u8
 #EXTINF:-1, NATGEO WILD
-http://roedor.xyz/REGIO2O2O/tp.php?c=92&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=127&f.m3u8
 #EXTINF:-1, DISCOVERY THEATER
-http://roedor.xyz/REGIO2O2O/tp.php?c=95&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=43&f.m3u8
 #EXTINF:-1, DISCOVERY SCIENCE  
-http://roedor.xyz/REGIO2O2O/tp.php?c=98&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=42&f.m3u8
 #EXTINF:-1, DISCOVERY CIVILIZATION
 http://roedor.xyz/REGIO2O2O/tp.php?c=99&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, DISCOVERY WORLD
-http://roedor.xyz/REGIO2O2O/tp.php?c=101&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
 #EXTINF:-1, DISCOVERY TURBO
-http://roedor.xyz/REGIO2O2O/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=44&f.m3u8
 
 #EXTINF:-1, Telehit
 https://tecnoplay.club/blu/principal.php?c=297
@@ -146,7 +146,7 @@ https://tecnoplay.club/blu/principal.php?c=356
 http://roedor.xyz/REGIO2O2O/tp.php?c=221&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HTV
 http://roedor.xyz/REGIO2O2O/mc.php?c=91&f.m3u8
-#EXTINF:-1, MTV
+
 http://roedor.xyz/REGIO2O2O/tp.php?c=212&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, MTV LIVE
 http://roedor.xyz/REGIO2O2O/tp.php?c=211&p=3&k=srregio&f=.m3u8 
@@ -171,6 +171,10 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=88&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=87&f.m3u8
 #EXTINF:-1, HBO POP
 http://roedor.xyz/REGIO2O2O/mc.php?c=134&f.m3u8
+#EXTINF:-1, HBO XTREME
+http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
+#EXTINF:-1, HBO MUNDI
+http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
 #EXTINF:-1, FOX PREMIUM ACTION
 http://roedor.xyz/REGIO2O2O/mc.php?c=58&f.m3u8
 #EXTINF:-1, FOX PREMIUM FAMILY
@@ -178,27 +182,23 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=64&f.m3u8
 #EXTINF:-1, FOX PREMIUM COMEDY 
 http://roedor.xyz/REGIO2O2O/mc.php?c=63&f.m3u8
 #EXTINF:-1, FOX PREMIUM MOVIES 
-http://roedor.xyz/REGIO2O2O/tp.php?c=146&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=67&f.m3u8
 #EXTINF:-1, FOX PREMIUM CLASSICS
 http://roedor.xyz/REGIO2O2O/mc.php?c=62&f.m3u8
 #EXTINF:-1, FOX PREMIUM SERIES
 http://roedor.xyz/REGIO2O2O/mc.php?c=69&f.m3u8
 #EXTINF:-1, FOX PREMIUM CINEMA
 http://roedor.xyz/REGIO2O2O/mc.php?c=60&f.m3u8
-#EXTINF:-1, MAX PRIME
-http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
-#EXTINF:-1, MAX
-http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
 #EXTINF:-1, TBS  
-http://roedor.xyz/REGIO2O2O/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=116&f.m3u8
 #EXTINF:-1, WARNER 
-http://roedor.xyz/REGIO2O2O/tp.php?c=205&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8 
 #EXTINF:-1, UNIVERSAL  
-http://roedor.xyz/REGIO2O2O/tp.php?c=207&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=106&f.m3u8
 #EXTINF:-1, TNT SERIES
-http://roedor.xyz/REGIO2O2O/tp.php?c=71&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=112&f.m3u8
 #EXTINF:-1, SONY  
-http://roedor.xyz/REGIO2O2O/tp.php?c=48&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=120&f.m3u8
 #EXTINF:-1, E!
 http://roedor.xyz/REGIO2O2O/tp.php?c=55&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, SYFY
@@ -210,7 +210,7 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=62&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AXN
 http://roedor.xyz/REGIO2O2O/tp.php?c=64&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, SUNDANCE 
-http://roedor.xyz/REGIO2O2O/tp.php?c=69&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=117&f.m3u8
 #EXTINF:-1, FOX LIFE
 http://roedor.xyz/REGIO2O2O/tp.php?c=77&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TRUTV
@@ -248,15 +248,15 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, Golden EDGE
 http://roedor.xyz/REGIO2O2O/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TNT 
-http://roedor.xyz/REGIO2O2O/tp.php?c=126&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=113&f.m3u8
 #EXTINF:-1, TCM
-http://roedor.xyz/REGIO2O2O/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=115&f.m3u8  
 #EXTINF:-1, SPACE
-http://roedor.xyz/REGIO2O2O/tp.php?c=129&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=119&f.m3u8
 #EXTINF:-1, AMC 
-http://roedor.xyz/REGIO2O2O/tp.php?c=131&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
-http://roedor.xyz/REGIO2O2O/tp.php?c=132&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=118&f.m3u8
 #EXTINF:-1, I SAT  
 http://roedor.xyz/REGIO2O2O/tp.php?c=135&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1, FX MOVIES
@@ -264,9 +264,9 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=138&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CINECANAL
 http://roedor.xyz/REGIO2O2O/tp.php?c=149&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CINEMAX 
-http://roedor.xyz/REGIO2O2O/tp.php?c=158&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=316&f.m3u8  
 #EXTINF:-1, PARAMOUNT
-http://roedor.xyz/REGIO2O2O/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=123&f.m3u8
 #EXTINF:-1, AZ Cinema
 http://roedor.xyz/REGIO2O2O/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 
@@ -321,11 +321,11 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=190&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, BBC
 http://roedor.xyz/REGIO2O2O/tp.php?c=191&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, Teleformula 
-http://roedor.xyz/REGIO2O2O/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=151&f.m3u8
 #EXTINF:-1, Mexiquense TV
 http://roedor.xyz/REGIO2O2O/tp.php?c=44&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, Multimedios TV
-http://roedor.xyz/REGIO2O2O/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=150&f.m3u8
 #EXTINF:-1, Once
 http://roedor.xyz/REGIO2O2O/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, Az corazon 
