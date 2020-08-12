@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, EN VIVO ANDRES MANUEL 7AM
-http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, 24 HORAS LA ROSA DE GUADALUPE
-https://tecnoplay.club/blu/principal.php?c=64
+https://tecnoplay.club/blu/dk.php?c=64
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="" group-title="Premium TV",MALCOLM EL DE ENMEDIO
 http://roedor.xyz/REGIO2O2O/mc.php?c=301&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="Premium TV",LOS SIMPSONS
@@ -14,13 +14,13 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",UN SHOW MAS
 http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="" group-title="Premium TV",CAILLOU
-https://tecnoplay.club/blu/principal.php?c=26
+https://tecnoplay.club/blu/dk.php?c=26
 #EXTINF:-1, NOVELAS PASIONES
 http://roedor.xyz/REGIO2O2O/mc.php?c=122&f.m3u8
 #EXTINF:-1, NOVELAS RCN
 https://tecnoplay.club/blu/principal.php?c=121&f=.m3u8
 #EXTINF:-1, TLNOVELAS
-http://roedor.xyz/REGIO2O2O/tp.php?c=83&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=83&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZTECA UNO
 http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
 #EXTINF:-1, UNIVISION
@@ -30,9 +30,9 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=144&f.m3u8
 #EXTINF:-1, TELEMUNDO
 http://roedor.xyz/REGIO2O2O/mc.php?c=111&f.m3u8
 #EXTINF:-1, CARACOL
-https://tecnoplay.club/blu/principal.php?c=322
+https://tecnoplay.club/blu/dk.php?c=322
 #EXTINF:-1, IMAGEN TELEVISION
-http://roedor.xyz/REGIO2O2O/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=2606&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, CANAL 5 
 http://roedor.xyz/REGIO2O2O/mc.php?c=145&f.m3u8
 #EXTINF:-1, AZTECA 7
@@ -40,9 +40,9 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=147&f.m3u8
 #EXTINF:-1, FOX
 http://roedor.xyz/REGIO2O2O/mc.php?c=57&f.m3u8
 #EXTINF:-1, ESTRELLA TV
-https://tecnoplay.club/blu/principal.php?c=340
+https://tecnoplay.club/blu/dk.php?c=340
 #EXTINF:-1, NU9VE
-http://roedor.xyz/REGIO2O2O/mc.php?c=143&f.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TUDN
 http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
 #EXTINF:-1, NBA TV
@@ -54,15 +54,15 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=154&f.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 http://roedor.xyz/REGIO2O2O/mc.php?c=32&f.m3u8
 #EXTINF:-1, CANAL 28
-https://tecnoplay.club/blu/principal.php?c=382 
+https://tecnoplay.club/blu/dk.php?c=382 
 #EXTINF:-1, FOROTV
 http://roedor.xyz/REGIO2O2O/mc.php?c=149&f.m3u8
 #EXTINF:-1, ADN 40 
 http://roedor.xyz/REGIO2O2O/mc.php?c=148&f.m3u8
 #EXTINF:-1, MILENIO
-http://roedor.xyz/REGIO2O2O/tp.php?c=1250&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/regiomx20x/tp.php?c=1250&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1, EXCELSIOR TV
-http://roedor.xyz/REGIO2O2O/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MVS TV
 http://roedor.xyz/REGIO2O2O/tp.php?c=2149&p=3&k=srregio&f=.m3u8 
  
@@ -77,7 +77,7 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=126&f.m3u8
 #EXTINF:-1, BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1, BITME
-http://roedor.xyz/regiomx20/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, NEOX
 http://www.sansat.net:25461/titipfr/mjq1E9ZaJB/14957
 #EXTINF:-1, DISNEY XD
@@ -101,7 +101,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1, ANIMAX
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1, BABYTV 
-http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8
 #EXTINF:-1, BABYFIRST
 http://roedor.xyz/REGIO2O2O/mc.php?c=155&f.m3u8
 
@@ -120,7 +120,7 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=40&f.m3u8
 #EXTINF:-1, TLC DISCOVERY
 http://roedor.xyz/REGIO2O2O/mc.php?c=114&f.m3u8
 #EXTINF:-1, NATGEO  
-http://roedor.xyz/REGIO2O2O/mc.php?c=128&f.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=131&f.m3u8
 #EXTINF:-1, NATGEO WILD
 http://roedor.xyz/REGIO2O2O/mc.php?c=127&f.m3u8
 #EXTINF:-1, DISCOVERY THEATER
@@ -128,32 +128,34 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=43&f.m3u8
 #EXTINF:-1, DISCOVERY SCIENCE  
 http://roedor.xyz/REGIO2O2O/mc.php?c=42&f.m3u8
 #EXTINF:-1, DISCOVERY CIVILIZATION
-http://roedor.xyz/REGIO2O2O/tp.php?c=99&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/regiomx20x/tp.php?c=99&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, DISCOVERY WORLD
 http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 http://roedor.xyz/REGIO2O2O/mc.php?c=44&f.m3u8
 
 #EXTINF:-1, Telehit
-https://tecnoplay.club/blu/principal.php?c=297
+https://tecnoplay.club/blu/dk.php?c=297
 #EXTINF:-1, Telehit Plus
 http://roedor.xyz/REGIO2O2O/tp.php?c=220&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, Telehit Urbano
-https://tecnoplay.club/blu/principal.php?c=296  
+https://tecnoplay.club/blu/dk.php?c=296  
 #EXTINF:-1, ULTRA FIESTA
-https://tecnoplay.club/blu/principal.php?c=356
+https://tecnoplay.club/blu/dk.php?c=356
 #EXTINF:-1, BANDAMAX
 http://roedor.xyz/REGIO2O2O/tp.php?c=221&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HTV
 http://roedor.xyz/REGIO2O2O/mc.php?c=91&f.m3u8
+#EXTINF:-1, MTV
+http://roedor.xyz/REGIO2O2O/mc.php?c=98&f.m3u8
 #EXTINF:-1, MTV LIVE
-http://roedor.xyz/REGIO2O2O/tp.php?c=211&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=133&f.m3u8
 #EXTINF:-1, MTV HITS 
-http://roedor.xyz/REGIO2O2O/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=99&f.m3u8  
 #EXTINF:-1, VH1 CLASSIC
-http://roedor.xyz/REGIO2O2O/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=103&f.m3u8
 #EXTINF:-1, VH1 
-http://roedor.xyz/REGIO2O2O/tp.php?c=217&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=104&f.m3u8
 
 #EXTINF:-1, HBO
 http://roedor.xyz/REGIO2O2O/mc.php?c=84&f.m3u8
@@ -169,10 +171,6 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=88&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=87&f.m3u8
 #EXTINF:-1, HBO POP
 http://roedor.xyz/REGIO2O2O/mc.php?c=134&f.m3u8
-#EXTINF:-1, HBO XTREME
-http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
-#EXTINF:-1, HBO MUNDI
-http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
 #EXTINF:-1, FOX PREMIUM ACTION
 http://roedor.xyz/REGIO2O2O/mc.php?c=58&f.m3u8
 #EXTINF:-1, FOX PREMIUM FAMILY
@@ -187,6 +185,10 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=62&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=69&f.m3u8
 #EXTINF:-1, FOX PREMIUM CINEMA
 http://roedor.xyz/REGIO2O2O/mc.php?c=60&f.m3u8
+#EXTINF:-1, MAX PRIME
+http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
+#EXTINF:-1, MAX
+http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
 #EXTINF:-1, TBS  
 http://roedor.xyz/REGIO2O2O/mc.php?c=116&f.m3u8
 #EXTINF:-1, WARNER 
@@ -198,47 +200,47 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=112&f.m3u8
 #EXTINF:-1, SONY  
 http://roedor.xyz/REGIO2O2O/mc.php?c=120&f.m3u8
 #EXTINF:-1, E!
-http://roedor.xyz/REGIO2O2O/tp.php?c=55&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=49&f.m3u8
 #EXTINF:-1, SYFY
 http://roedor.xyz/REGIO2O2O/tp.php?c=59&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FX 
-http://roedor.xyz/REGIO2O2O/tp.php?c=209&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8  
 #EXTINF:-1, A&E
-http://roedor.xyz/REGIO2O2O/tp.php?c=62&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=1&f.m3u8
 #EXTINF:-1, AXN
-http://roedor.xyz/REGIO2O2O/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=2&f.m3u8
 #EXTINF:-1, SUNDANCE 
 http://roedor.xyz/REGIO2O2O/mc.php?c=117&f.m3u8
 #EXTINF:-1, FOX LIFE
-http://roedor.xyz/REGIO2O2O/tp.php?c=77&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=65&f.m3u8
 #EXTINF:-1, TRUTV
-http://roedor.xyz/REGIO2O2O/tp.php?c=215&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=108&f.m3u8
 #EXTINF:-1, LIFETIME 
-http://roedor.xyz/REGIO2O2O/tp.php?c=94&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=97&f.m3u8
 #EXTINF:-1, ANTENA 3
 http://roedor.xyz/REGIO2O2O/tp.php?c=199&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, DE PELICULA 
 http://roedor.xyz/REGIO2O2O/mc.php?c=37&f.m3u8
 #EXTINF:-1, ULTRA CLASICO
-https://tecnoplay.club/blu/principal.php?c=359
+https://tecnoplay.club/blu/dk.php?c=359
 #EXTINF:-1, De Pelicula Plus
-https://tecnoplay.club/blu/principal.php?c=155|User-Agent=.Darkiptv.com  
+https://tecnoplay.club/blu/dk.php?c=155|User-Agent=.Darkiptv.com  
 #EXTINF:-1, CINE LATINO
 http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
 #EXTINF:-1, ULTRA MEX
-https://tecnoplay.club/blu/principal.php?c=351
+https://tecnoplay.club/blu/dk.php?c=351
 #EXTINF:-1, ULTRA MACHO
-https://tecnoplay.club/blu/principal.php?c=352
+https://tecnoplay.club/blu/dk.php?c=352
 #EXTINF:-1, ULTRA CINE
-https://tecnoplay.club/blu/principal.php?c=360
+https://tecnoplay.club/blu/dk.php?c=360
 #EXTINF:-1, ULTRA LUNA
-https://tecnoplay.club/blu/principal.php?c=353
+https://tecnoplay.club/blu/dk.php?c=353
 #EXTINF:-1, ULTRA FILM
-https://tecnoplay.club/blu/principal.php?c=355
+https://tecnoplay.club/blu/dk.php?c=355
 #EXTINF:-1, ULTRA FAMILIA 
-https://tecnoplay.club/blu/principal.php?c=357
+https://tecnoplay.club/blu/dk.php?c=357
 #EXTINF:-1, A3 SERIES 
-https://tecnoplay.club/blu/principal.php?c=266
+https://tecnoplay.club/blu/dk.php?c=266
 #EXTINF:-1, Golden Plus
 http://roedor.xyz/REGIO2O2O/tp.php?c=122&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, Golden
@@ -248,7 +250,7 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=124&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TNT 
 http://roedor.xyz/REGIO2O2O/mc.php?c=113&f.m3u8
 #EXTINF:-1, TCM
-http://roedor.xyz/REGIO2O2O/mc.php?c=115&f.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=115&f.m3u8
 #EXTINF:-1, SPACE
 http://roedor.xyz/REGIO2O2O/mc.php?c=119&f.m3u8
 #EXTINF:-1, AMC 
@@ -256,51 +258,51 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 http://roedor.xyz/REGIO2O2O/mc.php?c=118&f.m3u8
 #EXTINF:-1, I SAT  
-http://roedor.xyz/REGIO2O2O/tp.php?c=135&p=3&k=srregio&f=.m3u8   
+http://roedor.xyz/REGIO2O2O/mc.php?c=95&f.m3u8 
 #EXTINF:-1, FX MOVIES
 http://roedor.xyz/REGIO2O2O/tp.php?c=138&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1, CINECANAL
-http://roedor.xyz/REGIO2O2O/tp.php?c=149&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=22&f.m3u8
 #EXTINF:-1, CINEMAX 
-http://roedor.xyz/REGIO2O2O/mc.php?c=316&f.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=316&f.m3u8
 #EXTINF:-1, PARAMOUNT
 http://roedor.xyz/REGIO2O2O/mc.php?c=123&f.m3u8
 #EXTINF:-1, AZ Cinema
 http://roedor.xyz/REGIO2O2O/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, TNT SPORTS
-https://tecnoplay.club/blu/principal.php?c=333
+https://tecnoplay.club/blu/dk.php?c=333
 #EXTINF:-1, BEIN SPORTS
 #EXTINF:-1, LA LIGA TV BAR
-https://tecnoplay.club/blu/principal.php?c=380
+https://tecnoplay.club/blu/dk.php?c=380
 #EXTINF:-1, LIGA CAMPEONES
-https://tecnoplay.club/blu/principal.php?c=91
+https://tecnoplay.club/blu/dk.php?c=91
 #EXTINF:-1, LA LIGA TV 
-https://tecnoplay.club/blu/principal.php?c=93
+https://tecnoplay.club/blu/dk.php?c=93
 #EXTINF:-1, GolTv
-https://tecnoplay.club/blu/principal.php?c=384
+https://tecnoplay.club/blu/dk.php?c=384
 #EXTINF:-1, MOVISTAR DEPORTES
-https://tecnoplay.club/blu/principal.php?c=96
+https://tecnoplay.club/blu/dk.php?c=96
 #EXTINF:-1, CLARO WINSPORTS
-https://tecnoplay.club/blu/principal.php?c=223
+http://roedor.xyz/REGIO2O2O/mc.php?c=101&f.m3u8
 #EXTINF:-1, WinSports+
-https://tecnoplay.club/blu/principal.php?c=383
+https://tecnoplay.club/blu/dk.php?c=383
 #EXTINF:-1, CLARO SPORTS
 http://roedor.xyz/REGIO2O2O/tp.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, ESPN+ 
 http://roedor.xyz/REGIO2O2O/tp.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ESPN 
-http://roedor.xyz/REGIO2O2O/tp.php?c=168&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=140&f.m3u8
 #EXTINF:-1, ESPN 2
-http://roedor.xyz/REGIO2O2O/tp.php?c=169&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=141&f.m3u8
 #EXTINF:-1, ESPN 3 
-http://roedor.xyz/REGIO2O2O/tp.php?c=345&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=142&f.m3u8
 #EXTINF:-1, FOX SPORTS
-http://roedor.xyz/REGIO2O2O/tp.php?c=170&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=71&f.m3u8
 #EXTINF:-1, FOX SPORTS 2
-http://roedor.xyz/REGIO2O2O/tp.php?c=172&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=74&f.m3u8
 #EXTINF:-1, FOX SPORTS 3 
-http://roedor.xyz/REGIO2O2O/tp.php?c=178&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=75&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 1
 http://roedor.xyz/REGIO2O2O/mc.php?c=317&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 2
@@ -310,14 +312,16 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=319&f.m3u8
 #EXTINF:-1, AYM SPORTS
 http://roedor.xyz/REGIO2O2O/tp.php?c=180&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC Universo
 http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
 #EXTINF:-1, CNN
-http://roedor.xyz/REGIO2O2O/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8  
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
+http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
 #EXTINF:-1, BLOOMBERG 
-http://roedor.xyz/REGIO2O2O/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=13&f.m3u8 
 #EXTINF:-1, BBC
-http://roedor.xyz/REGIO2O2O/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+http://roedor.xyz/REGIO2O2O/mc.php?c=10&f.m3u8
 #EXTINF:-1, Teleformula 
 http://roedor.xyz/REGIO2O2O/mc.php?c=151&f.m3u8
 #EXTINF:-1, Mexiquense TV
@@ -327,9 +331,9 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=150&f.m3u8
 #EXTINF:-1, Once
 http://roedor.xyz/REGIO2O2O/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, Az corazon 
-http://roedor.xyz/REGIO2O2O/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/REGIO2O2O/mc.php?c=4&f.m3u8 
 #EXTINF:-1, AZ MUNDO
-http://roedor.xyz/REGIO2O2O/tp.php?c=84&p=3&k=srregio&f=.m3u8
+http://roedor.xyz/REGIO2O2O/mc.php?c=5&f.m3u8
 #EXTINF:-1, Az Clic
 http://roedor.xyz/REGIO2O2O/tp.php?c=11&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1, Aprende TV
@@ -341,63 +345,95 @@ http://roedor.xyz/REGIO2O2O/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TVMAS
 http://roedor.xyz/REGIO2O2O/tp.php?c=2324&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
-http://roedor.xyz/REGIO2O2O/mc.php?c=278&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
-http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
-http://roedor.xyz/REGIO2O2O/mc.php?c=281&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
-http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-http://roedor.xyz/REGIO2O2O/mc.php?c=283&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
+#EXTINF:-1 tvg-id="" tvg-name="Barnie y sus amigos" tvg-logo="" group-title="Premium TV",Barnie y sus amigos
+https://tecnoplay.club/blu/dk.php?c=23
+#EXTINF:-1 tvg-id="" tvg-name="Dora la exploradora" tvg-logo="" group-title="Premium TV",Dora la exploradora
+https://tecnoplay.club/blu/dk.php?c=24
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks" tvg-logo="" group-title="Premium TV",PJ Masks
+https://tecnoplay.club/blu/dk.php?c=25
+#EXTINF:-1 tvg-id="" tvg-name="Jorge el Curioso" tvg-logo="" group-title="Premium TV",Jorge el Curioso
+https://tecnoplay.club/xdf/dk.php?c=27
+#EXTINF:-1 tvg-id="" tvg-name="peppa pig" tvg-logo="" group-title="Premium TV",peppa pig
+https://tecnoplay.club/blu/dk.php?c=28
+#EXTINF:-1 tvg-id="" tvg-name="happy tree friends" tvg-logo="" group-title="Premium TV",happy tree friends
+https://tecnoplay.club/blu/dk.php?c=29
+#EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="Premium TV",Los picapiedras
+https://tecnoplay.club/blu/dk.php?c=30
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="Premium TV",Pantera Rosa 80s
+https://tecnoplay.club/blu/dk.php?c=32
+#EXTINF:-1 tvg-id="" tvg-name="Correcaminos" tvg-logo="" group-title="Premium TV",Correcaminos
+https://tecnoplay.club/blu/dk.php?c=33
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="Premium TV",Power Rangers
+https://tecnoplay.club/blu/dk.php?c=34
+#EXTINF:-1 tvg-id="" tvg-name="Cuentos Hermanos Grimm" tvg-logo="" group-title="Premium TV",Cuentos Hermanos Grimm
+https://tecnoplay.club/blu/dk.php?c=35
+#EXTINF:-1 tvg-id="" tvg-name="Robotech" tvg-logo="" group-title="Premium TV",Robotech
+https://tecnoplay.club/blu/dk.php?c=36
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="" group-title="Premium TV",Death Note
+https://tecnoplay.club/blu/dk.php?c=39
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="" group-title="Premium TV",CSI Miami
+https://tecnoplay.club/blu/dk.php?c=40
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="" group-title="Premium TV",Alf
+https://tecnoplay.club/blu/dk.php?c=41
+#EXTINF:-1 tvg-id="" tvg-name="X-men 90s" tvg-logo="" group-title="Premium TV",X-men 90s
+https://tecnoplay.club/blu/dk.php?c=42
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead" tvg-logo="" group-title="Premium TV",The Walking Dead
+https://tecnoplay.club/blu/dk.php?c=44
+#EXTINF:-1 tvg-id="" tvg-name="Super campeones" tvg-logo="" group-title="Premium TV",Super campeones
+https://tecnoplay.club/blu/dk.php?c=45
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" group-title="Premium TV",South Park
+https://tecnoplay.club/blu/dk.php?c=48
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="" group-title="Premium TV",Smallville
+https://tecnoplay.club/blu/dk.php?c=49
+#EXTINF:-1 tvg-id="" tvg-name="Shera" tvg-logo="" group-title="Premium TV",Shera
+https://tecnoplay.club/blu/dk.php?c=50
+#EXTINF:-1 tvg-id="" tvg-name="Señor de los cielos" tvg-logo="" group-title="Premium TV",Señor de los cielos
+https://tecnoplay.club/xdf/dk.php?c=51
+#EXTINF:-1 tvg-id="" tvg-name="Sailormoon" tvg-logo="" group-title="Premium TV",Sailormoon
+https://tecnoplay.club/blu/dk.php?c=52
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="" group-title="Premium TV",Pokemon
+https://tecnoplay.club/blu/dk.php?c=53
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="" group-title="Premium TV",Pinky y Cerebro
+https://tecnoplay.club/blu/dk.php?c=54
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar" tvg-logo="" group-title="Premium TV",Pablo Escobar
+https://tecnoplay.club/blu/dk.php?c=56
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="" group-title="Premium TV",Naruto
+https://tecnoplay.club/blu/dk.php?c=57
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="" group-title="Premium TV",Mazinger Z
+https://tecnoplay.club/blu/dk.php?c=58
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel" tvg-logo="" group-title="Premium TV",Luis Miguel
+https://tecnoplay.club/blu/dk.php?c=60
+#EXTINF:-1 tvg-id="" tvg-name="Lucha Libre AAA" tvg-logo="" group-title="Premium TV",Lucha Libre AAA
+https://tecnoplay.club/blu/dk.php?c=61
+#EXTINF:-1 tvg-id="" tvg-name="Los Thundercats" tvg-logo="" group-title="Premium TV",Los Thundercats
+https://tecnoplay.club/blu/dk.php?c=62
+#EXTINF:-1 tvg-id="" tvg-name="Heman" tvg-logo="" group-title="Premium TV",Heman
+https://tecnoplay.club/blu/dk.php?c=65
+#EXTINF:-1 tvg-id="" tvg-name="Game Of Throne" tvg-logo="" group-title="Premium TV",Game Of Throne
+https://tecnoplay.club/blu/dk.php?c=66
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="Premium TV",Futurama
+https://tecnoplay.club/blu/dk.php?c=67
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="" group-title="Premium TV",Dragon Ball Z
+https://tecnoplay.club/blu/dk.php?c=68
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="" group-title="Premium TV",Dragon Ball Super
+https://tecnoplay.club/blu/dk.php?c=69
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="" group-title="Premium TV",Dragon Ball GT
 http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
-http://roedor.xyz/REGIO2O2O/mc.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
-http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
-http://roedor.xyz/REGIO2O2O/mc.php?c=297&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
-http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
-http://roedor.xyz/REGIO2O2O/mc.php?c=302&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
-http://roedor.xyz/REGIO2O2O/mc.php?c=303&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
-http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
-http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
-http://roedor.xyz/REGIO2O2O/mc.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
-http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
-http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
-http://roedor.xyz/REGIO2O2O/mc.php?c=314&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="" group-title="Premium TV",Dragon Ball
+https://tecnoplay.club/blu/dk.php?c=71
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="" group-title="Premium TV",Dinosaurios
+https://tecnoplay.club/blu/dk.php?c=72
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el perro cobarde" tvg-logo="" group-title="Premium TV",Coraje el perro cobarde
+https://tecnoplay.club/blu/dk.php?c=73
+#EXTINF:-1 tvg-id="" tvg-name="Años Maravillosos" tvg-logo="" group-title="Premium TV",Años Maravillosos
+https://tecnoplay.club/blu/dk.php?c=74
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="Premium TV",La casa de papel
+https://tecnoplay.club/blu/dk.php?c=75
+#EXTINF:-1 tvg-id="" tvg-name="El chema" tvg-logo="" group-title="Premium TV",El chema
+https://tecnoplay.club/blu/dk.php?c=76
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="Premium TV",Caballeros del zodiaco
+https://tecnoplay.club/blu/dk.php?c=78
+#EXTINF:-1 tvg-id="" tvg-name="Breaking bad" tvg-logo="" group-title="Premium TV",Breaking bad
+https://tecnoplay.club/blu/dk.php?c=79
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="Premium TV",Bob Esponja
+http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
