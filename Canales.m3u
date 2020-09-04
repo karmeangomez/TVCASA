@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, EN VIVO ANDRES MANUEL 7AM
-http://roedor.xyz/regiomx20x/tp.php?c=25&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, 24 HORAS LA ROSA DE GUADALUPE
-https://tecnoplay.club/blu/dk.php?c=64
+#EXTINF: -1, EXATLON 
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/94507adb-35c9-415c-91b8-cbeb6fce8ed1:TUL2/variant/e199af17671fc3edf8cbfcf965eb7cbb/bandwidth/779900.m3u8
+#EXTINF: -1, EXATLON (op2)
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/34fe8b77-7eaa-4d38-babe-68e780827b41:TUL2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
 http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="Premium TV",Bob Esponja
@@ -449,3 +449,7 @@ https://tecnoplay.club/blu/dk.php?c=79
 http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="" group-title="Premium TV",CAILLOU
 https://tecnoplay.club/blu/dk.php?c=26
+#EXTINF:-1, EN VIVO ANDRES MANUEL 7AM
+http://roedor.xyz/regiomx20x/tp.php?c=25&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, 24 HORAS LA ROSA DE GUADALUPE
+https://tecnoplay.club/blu/dk.php?c=64
