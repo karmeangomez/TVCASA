@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF: -1, EXATLON 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/9bd91cfe-e73d-4055-aca2-720804df7df2:TUL2/variant/559ddcf584776d53310c8714676ecc7c/bandwidth/779900.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/e600198d-a945-4b1a-8356-4bf4e43d8e03:TUL2/variant/48bb5e84cdfb1bb813b6e8447e6d4287/bandwidth/779900.m3u8
 #EXTINF: -1, EXATLON (op2)
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/1965e3f6-c40d-4390-999f-a138f2c24b75:TUL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/62ef0f7d-e3a1-44ac-9d0c-e5f150866277:TUL2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
 http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="Premium TV",Bob Esponja
