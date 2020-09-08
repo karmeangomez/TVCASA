@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF: -1, EXATLON 1
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/058c8add-e5f8-4523-9c7b-9d8d322903a3:TUL2/variant/f4db9de5cb1f976fa5ad95e940b21329/bandwidth/732600.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/44339654-a36b-47e8-9ff8-01965cd19710:TUL2/variant/eecac84f6899438482679d9d11e71e89/bandwidth/732600.m3u8
+
 #EXTINF: -1, EXATLON 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/e600198d-a945-4b1a-8356-4bf4e43d8e03:TUL2/variant/48bb5e84cdfb1bb813b6e8447e6d4287/bandwidth/779900.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/79c7badd-0fb3-4d91-a5de-00634797fdd5:TUL2/variant/d252eb98738791ebfc1be0ae38afcec6/bandwidth/779900.m3u8
+
 #EXTINF: -1, EXATLON (op2)
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/62ef0f7d-e3a1-44ac-9d0c-e5f150866277:TUL2/master.m3u8
+https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
 http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="Premium TV",Bob Esponja
