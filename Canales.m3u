@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF: -1, EXATLON 1
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/058c8add-e5f8-4523-9c7b-9d8d322903a3:TUL2/variant/f4db9de5cb1f976fa5ad95e940b21329/bandwidth/732600.m3u8
 #EXTINF: -1, EXATLON 
 https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/e600198d-a945-4b1a-8356-4bf4e43d8e03:TUL2/variant/48bb5e84cdfb1bb813b6e8447e6d4287/bandwidth/779900.m3u8
 #EXTINF: -1, EXATLON (op2)
