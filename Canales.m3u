@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF: -1, EXATLON 1
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/44339654-a36b-47e8-9ff8-01965cd19710:TUL2/variant/eecac84f6899438482679d9d11e71e89/bandwidth/732600.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/4bdf838a-bb2a-425c-bb15-32aca3ee83d0:TUL2/variant/4db3b4bd049a48ca9234e81bdbec2796/bandwidth/732600.m3u8
 
 #EXTINF: -1, EXATLON 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/79c7badd-0fb3-4d91-a5de-00634797fdd5:TUL2/variant/d252eb98738791ebfc1be0ae38afcec6/bandwidth/779900.m3u8
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/960eceb7-6532-40cd-8bd0-d01f1f8b87a3:TUL2/variant/53fcb363b40281626eb00fb8de6aadc0/bandwidth/779900.m3u8
 
 #EXTINF: -1, EXATLON (op2)
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
