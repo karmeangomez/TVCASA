@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF: -1, EXATLON 1
+#EXTINF: -1, EXATLON TITANES VS HEROES 
 https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/ae1e24ab-84c2-4d92-ae44-b3689d25824d:TUL2/variant/5be4c78a0e61c3409968f04f843b66d7/bandwidth/732600.m3u8
 
-#EXTINF: -1, EXATLON 
+#EXTINF: -1, EXATLON HOY GANA ROJOS
 https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/ae1e24ab-84c2-4d92-ae44-b3689d25824d:TUL2/variant/a923096bd4ad164b4ad801bf980226f6/bandwidth/779900.m3u8
 
 #EXTINF: -1, EXATLON (op2)
