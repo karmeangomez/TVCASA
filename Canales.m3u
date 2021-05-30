@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/DirecTV_Go_Logo.svg", DIRECTV GO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/DirecTV_Go_Logo.svg" , DIRECTV GO
 https://ia801501.us.archive.org/35/items/directv-go-1080p/DIRECTV%20GO_1080p.ia.mp4?cnt=0
-#EXTINF:-1" tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png", RADIO DISNEY MÉXICO
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/5/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
-#EXTINF:-1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_NBA_TV.svg", NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_NBA_TV.svg" , NBA TV
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/39083
-#EXTINF:-1" tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png", RUGRATS CRECIDOS
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png" , RUGRATS CRECIDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=e4d42b6c-4c9b-11eb-ae86-0242ac110002&sid=e4d42b6c-4c9b-11eb-ae86-0242ac110002&userId=
-#EXTINF:-1" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png", WOW TV
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png", El Chavo - 24/7
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
@@ -103,7 +107,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxNjclMkYqJmV4cGlyeT0xNjE5NDY3OTYzJmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sNzcwOWU4M2Q5ZmM4OTRhMDIzNjZkM2E0OGVkNzRjYTNkYzliYzYyMDExMjJmNGE0YjVhODQ5MWU5YTVhYWJkYg==/PROFILE05.m3u8
 
 #EXTINF:-1 group-title="CANALES INFANTILES", *CANALES INFANTILES*
-#EXTINF:-1 group-title="CANALES INFANTILES", RADIO DISNEY MÉXICO
+#EXTINF:-1 group-title="CANALES INFANTILES" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2000_Favicon.svg/revision/latest?cb=20160522194014", BOOMERANG RETRO
 http://96.30.193.226:81/hls/boomerang.m3u8
@@ -114,8 +118,6 @@ https://ia601509.us.archive.org/8/items/diversion-con-los-animales-video-musical
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", BITME HD
 http://23.237.22.162:8081/live/bitme/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
-#EXTINF:-1" group-title="CANALES INFANTILES", tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg", MANE BABY TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", BOING
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/38503
 #EXTINF:-1 group-title="CANALES INFANTILES", DISNEY CHANNEL
@@ -154,8 +156,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANALES INFANTILES", BRAT TV
 https://brat-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1" group-title="CANALES INFANTILES", tvg-logo="https://ia601409.us.archive.org/5/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg", NICOLE BABY TV
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANALES INFANTILES", DREIKOTV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", PATIO TV
