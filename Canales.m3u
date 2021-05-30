@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, DIRECTV GO
 https://ia801501.us.archive.org/35/items/directv-go-1080p/DIRECTV%20GO_1080p.ia.mp4?cnt=0
+#EXTINF:-1 group-title="CANALES INFANTILES", RADIO DISNEY MÉXICO
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1, NBA TV
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/39083
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,RUGRATS CRECIDOS
@@ -15,8 +17,6 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="24/7", KIDS 24/7
 https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2011/02/Los_Tres_chiflados_005-28129-1.jpg", Los Tres Chiflados - 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:1 tvg-logo="https://i.ibb.co/DwXJDCG/logo-neo-tv.png", NEO TV DIGITAL - Peliculas 24/7
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -53,12 +53,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1783&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:0,USA Latino | TLNovelas Univision HD
-#EXTGRP:USA LATINO
-http://iptv-chafatv.ml/drgX
-#EXTINF:0,USA Latino | Galavision HD
-#EXTGRP:USA LATINO
-http://iptv-chafatv.ml/Krh0
 #EXTINF:-1 group-title="CANALES PRINCIPALES", UNIMAS
 http://iptvhd.club:8081/televall2021/619_.m3u8?token=JLQmUtPuxnzM0DgkrNNUug&expires=1620510678
 #EXTINF:-1 group-title="CANALES PRINCIPALES", PASIONES
@@ -109,6 +103,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxNjclMkYqJmV4cGlyeT0xNjE5NDY3OTYzJmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sNzcwOWU4M2Q5ZmM4OTRhMDIzNjZkM2E0OGVkNzRjYTNkYzliYzYyMDExMjJmNGE0YjVhODQ5MWU5YTVhYWJkYg==/PROFILE05.m3u8
 
 #EXTINF:-1 group-title="CANALES INFANTILES", *CANALES INFANTILES*
+#EXTINF:-1 group-title="CANALES INFANTILES", RADIO DISNEY MÉXICO
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
+#EXTINF:-1 group-title="CANALES INFANTILES", BOOMERANG RETRO
+http://96.30.193.226:81/hls/boomerang.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?TVFLIXHD
 https://ia601509.us.archive.org/8/items/diversion-con-los-animales-video-musical-con-dora-la-exploradora-bubble-guppies-nick-jr./Diversi%C3%B3n%20con%20los%20animales%20%F0%9F%90%BE%20Video%20Musical%20con%20Dora%2C%20La%20Exploradora%20%26%20Bubble%20Guppies%20_%20Nick%20Jr.%20%F0%9F%8E%A4.mp4?cnt=0
@@ -122,82 +120,36 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/3000.m3u8
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/38503
 #EXTINF:-1 group-title="CANALES INFANTILES", DISNEY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=113&format=HLSAD&f=.m3u8 
-#EXTINF:0,disney channel
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Yr3x
 #EXTINF:-1 group-title="CANALES INFANTILES", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=112&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES INFANTILES", CARTOON NETWORK HD (720p)
-http://iptv-chafatv.ml/Hr2Z
 #EXTINF:-1 group-title="CANALES INFANTILES", CARTOON NETWORK HD
 http://23.237.22.162:8081/live/la-cartoon-network-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
-#EXTINF:0,cartoon network OP3
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Hr2Z
 #EXTINF:-1 group-title="CANALES INFANTILES", NICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=110&format=HLSAD&f=.m3u8 
-#EXTINF:0,nick OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Tr54
 #EXTINF:-1 group-title="CANALES INFANTILES", NICK 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2147&format=HLSAD&f=.m3u8 
-#EXTINF:0,nick 2 OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/gr6r
 #EXTINF:-1 group-title="CANALES INFANTILES", DISNEY XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=111&format=HLSAD&f=.m3u8  
-#EXTINF:0,disney xd OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Tr4C  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=111&format=HLSAD&f=.m3u8   
 #EXTINF:-1 group-title="CANALES INFANTILES", BOOMERANG
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=115&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES INFANTILES", BOOMERANG HD
 http://23.237.22.162:8081/live/la-boomerang-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
-#EXTINF:0,boomerang OP3
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/ar0O
 #EXTINF:-1 group-title="CANALES INFANTILES", BABY TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=116&format=HLSAD&f=.m3u8 
-#EXTINF:0,baby tv OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/vrMt
 #EXTINF:-1 group-title="CANALES INFANTILES", NICK JR
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=117&format=HLSAD&f=.m3u8
-#EXTINF:0,Nick Jr OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Ltqp  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=117&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES INFANTILES", DISNEY JR
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=118&format=HLSAD&f=.m3u8 
-#EXTINF:0,disney jr OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/7r8J
-#EXTINF:-1 group-title="CANALES INFANTILES", BOOMERANG RETRO
-http://96.30.193.226:81/hls/boomerang.m3u8
 EXTINF:-1, NICKTOONS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1708&format=HLSAD&f=.m3u8 
-#EXTINF:0,nicktoons OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Stw8
 #EXTINF:-1 group-title="CANALES INFANTILES", BABY FIRST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1984&format=HLSAD&f=.m3u8  
-#EXTINF:0,baby first OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/sr12
 #EXTINF:-1 group-title="CANALES INFANTILES", NAT GEO KIDS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2373&format=HLSAD&f=.m3u8
-#EXTINF:0,natgeo kids OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/wr7L
 #EXTINF:-1 group-title="CANALES INFANTILES", DISCOVERY KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=109&format=HLSAD&f=.m3u8
-#EXTINF:0,disovery kids OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Sr99
 #EXTINF:-1 group-title="CANALES INFANTILES", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=108&format=HLSAD&f=.m3u8 
-#EXTINF:0,tooncast OP2
-#EXTGRP:Infantiles mx
-http://iptv-chafatv.ml/Ytes
 #EXTINF:-1 group-title="CANALES INFANTILES", KIDS 24 HORAS
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANALES INFANTILES", BRAT TV
@@ -208,8 +160,6 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?Play
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", PATIO TV
 https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8?TVFLIXHD
-#EXTINF:-1 group-title="CANALES INFANTILES", RADIO DISNEY MÉXICO
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 group-title="CANALES INFANTILES", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCLv
 #EXTINF:1 tvg-logo="https://i.ibb.co/f94Qxbp/Logo-Locomotion.png", LOCOMOTION OP2
@@ -258,8 +208,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=201&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=201&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFpfMpy/logo-star-channel.png" , STAR CHANNEL OP3
-http://todos.aesat.com:38953/esteban2405/71446451/55852
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", DISTRITO COMEDIA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=78&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", COMEDY CENTRAL
@@ -344,22 +292,6 @@ http://todos.aesat.com:38953/esteban2405/71446451/74401
 http://23.237.22.162:8081/live/la-HBO-2/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1, HBO SIGNATURE OP2
 http://23.237.22.162:8081/live/HBO-SIGNATURE-HD/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO
-http://iptvhd.club:8081/televall2021/558_.m3u8?token=z8ABRdH6Fd7PXYdPcfSkBA&expires=1620509920
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO 2
-http://iptvhd.club:8081/televall2021/559_.m3u8?token=-hUt4RZ5LZ5-V8CywZbBNA&expires=1620510024
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO PLUS
-http://iptvhd.club:8081/televall2021/560_.m3u8?token=6f2ybaFS9F248aw8B--eyg&expires=1620510115
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO FAMILY 
-http://iptvhd.club:8081/televall2021/561_.m3u8?token=KZeLCWebxS2XkmYmHZf68A&expires=1620510208
-#EXTINF:-1 group-title="CANALES PELICULAS",  HBO MUNDI
-http://iptvhd.club:8081/televall2021/449_.m3u8?token=q0PhRC1In27TMvk8kxi67A&expires=1620510324
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO POP
-http://iptvhd.club:8081/televall2021/717_.m3u8?token=T5dJl_cmgCK7bozYSTPm4Q&expires=1620510395
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO SIGNATURE
-http://iptvhd.club:8081/televall2021/718_.m3u8?token=pqKIS__CAqbBJjolcyEUvQ&expires=1620510471
-#EXTINF:-1 group-title="CANALES PELICULAS", HBO XTREME
-http://iptvhd.club:8081/televall2021/723_.m3u8?token=6FW1U48xcrazS2pcDnLq1w&expires=1620510542
 #EXTINF:-1 group-title="CANALES PELICULAS", A3CINE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=3112&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", TBS   
@@ -549,9 +481,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=170&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES DEPORTES", FOX SPORTS 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=172&format=HLSAD&f=.m3u8
-#EXTINF:0,LIGA MX: MEX Fox Sports 2 OP2
-#EXTGRP:LIGA MEXICANA
-http://iptv-chafatv.ml/4rkv
 #EXTINF:-1 group-title="CANALES DEPORTES", FOX SPORTS 3 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=178&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES DEPORTES", GOLF
@@ -577,6 +506,8 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 
 #EXTINF:-1 group-title="CANALES PLUTO TV", *CANALES PLUTO TV*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=07a79f8c-b055-11eb-8326-0242ac110002&sid=07a79f8c-b055-11eb-8326-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2011/02/Los_Tres_chiflados_005-28129-1.jpg", Los Tres Chiflados - 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,HISTORIAS DE ULTRATUMBA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=6bce87d6-c6d5-4b60-adfb-8673d9412544&clientModelNumber=na&deviceDNT=false&deviceId=6bce87d6-c6d5-4b60-adfb-8673d9412544&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=14c00829-5ea2-11eb-a786-0242ac110002&sid=14c00829m-5ea2-11eb-a786-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV", CINE ESTELAR - PLUTO TV
@@ -819,213 +750,6 @@ http://archive.org/download/qwerty_202001/qwerty.mkv
 http://archive.org/download/qwerty2/qwerty2.mkv
 #EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3
 http://archive.org/download/qwerty3/qwerty3.mkv
-
-#EXTINF:0,Disney JR
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/0eHr
-#EXTINF:0,Disney XD
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/PeJq
-#EXTINF:0,Distrito Comedia
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/neKO
-#EXTINF:0,bloomberg
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/XeLq
-#EXTINF:0,fox
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/TeZq
-#EXTINF:0,fox premium action
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/XeX3
-#EXTINF:0,fox premium cinema
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/DeCr
-#EXTINF:0,Fox Classic
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/geVs
-#EXTINF:0,FOX COMEDY
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/CeB1
-#EXTINF:0,Fox Family
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/3eNi
-#EXTINF:0,Fox life
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/XeMZ
-#EXTINF:0,fox premium movies
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/xe19
-#EXTINF:0,fox premium series
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Fe0M
-#EXTINF:0,fox sports 1
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/0e2W
-#EXTINF:0,fox sports 2
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/qe9f
-#EXTINF:0,FX
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/De3h
-#EXTINF:0,las estrellas
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Ae8J
-#EXTINF:0,Life Time
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/oe4G
-#EXTINF:0,mas chic
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/xe7T
-#EXTINF:0,Natgeo Kids
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Pe5d
-#EXTINF:0,natgeo wild
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Fe6Z
-#EXTINF:0,nick 2
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Brwm
-#EXTINF:0,nick jr
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/dreB
-#EXTINF:0,Nicktoons
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/3rrY
-#EXTINF:0,Paramount
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/3rt9
-#EXTINF:0,espn sec
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/MryX
-#EXTINF:0,sony
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/8ruS
-#EXTINF:0,Space
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/ori6
-#EXTINF:0,Studio Universal
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Rroe
-#EXTINF:0,Tl novelas
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/srpw
-#EXTINF:0,Tnt
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/eraO
-#EXTINF:0,Tooncast
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/yrsK
-#EXTINF:0,Universal Channel
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/Jrdd
-#EXTINF:0,warner
-#EXTGRP:Mexico SD
-http://iptv-chafatv.ml/7rfz
-
-#EXTINF:0,USA Latino | Warner Channel HD
-#EXTGRP:USA LATINO
-http://iptv-chafatv.ml/YrjK
-
-#EXTINF:0,LIGA MX: Azteca 7 HD
-#EXTGRP:LIGA MEXICANA
-http://iptv-chafatv.ml/Erlk
-#EXTINF:0,CINE | AMC
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/irzC
-#EXTINF:0,CINE | TNT SERIES
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/Hrxc
-#EXTINF:0,CINE | DE PELICULA PLUS
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/yrcw
-#EXTINF:0,CINE | FOX PREMIUM CINEMA
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/TrvD
-#EXTINF:0,CINE | HBO Xtreme
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/lrbS
-#EXTINF:0,CINE | AXN
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/Trny
-#EXTINF:0,CINE | CINECANAL
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/5rmq
-#EXTINF:0,CINE | CINEMAX
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/SrQU
-#EXTINF:0,CINE | FOX PREMIUM ACTION
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/vrWz
-#EXTINF:0,CINE | FOX
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/2rEp
-#EXTINF:0,CINE | FOX PREMIUM COMEDY
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/yrRE
-#EXTINF:0,CINE | FX
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/krT8
-#EXTINF:0,CINE | FXM
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/orY7
-#EXTINF:0,CINE | TNT
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/6rUm
-#EXTINF:0,CINE | CINEMA DINAMITA
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/mrIp
-#EXTINF:0,CINE | A&E
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/hrOa
-#EXTINF:0,CINE | FOX LIFE
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/drPb
-#EXTINF:0,CINE | STAR TVE
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/LrAy
-#EXTINF:0,CINE | CINE LATINO
-#EXTGRP:CINE SD ESP
-http://iptv-chafatv.ml/UrSP
-#EXTINF:0,axn
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/urDQ
-#EXTINF:0,az corazon
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/irFE
-#EXTINF:0,az mundo
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/9rGo
-#EXTINF:0,bitme
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/ArHo
-#EXTINF:0,comedy central
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/xrJd
-#EXTINF:0,distrito comedia
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/QrKf
-#EXTINF:0,estrella tv
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/4rLV
-#EXTINF:0,sony
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/ArZp
-#EXTINF:0,tlnovelas
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/drX8
-#EXTINF:0,tnt series
-#EXTGRP:Entretenimiento mx
-http://iptv-chafatv.ml/xrCa
-#EXTINF:0,studio universal
-#EXTGRP:Peliculas mx
-http://iptv-chafatv.ml/yrV4
-#EXTINF:0,tnt
-#EXTGRP:Peliculas mx
-http://iptv-chafatv.ml/trBJ
-#EXTINF:0,universal channel
-#EXTGRP:Peliculas mx
-http://iptv-chafatv.ml/8rNY
 #EXTINF:-1 tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png" group-title="NACIONALES", RCN TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
