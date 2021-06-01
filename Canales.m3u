@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/21/items/go_20210531/Go.png" , GOTV! HUIMANGUILLO
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/21/items/go_20210531/Go.png" , GOTV! HUIMAN
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/5/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
@@ -57,10 +57,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1783&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES PRINCIPALES", UNIMAS
-http://iptvhd.club:8081/televall2021/619_.m3u8?token=JLQmUtPuxnzM0DgkrNNUug&expires=1620510678
-#EXTINF:-1 group-title="CANALES PRINCIPALES", PASIONES
-http://iptvhd.club:8081/televall2021/662_.m3u8?token=UXVkE9Tztb8ARE7BW4jHvw&expires=1620510910
 #EXTINF:-1 group-title="CANALES PRINCIPALES", TL NOVELAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=83&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", TELEMUNDO INTERNACIONAL
@@ -106,22 +102,19 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 #EXTINF:-1 group-title="CANALES PRINCIPALES", CANAL DEL CONGRESO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2331&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 group-title="CANALES INFANTILES", *CANALES INFANTILES*
+#EXTINF:-1 tvg-logo="https://ia801401.us.archive.org/26/items/8037-b-19-d-9744-4409-9-cba-dee-2652-cb-057/8037B19D-9744-4409-9CBA-DEE2652CB057.png" , *CANALES INFANTILES*
+https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
 http://96.30.193.226:81/hls/boomerang.m3u8
-#EXTINF:-1 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" group-title="NIÑOS Y ADOLESCENTES", CANAL ASTER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/NickHits.png" , NICK HITS
 http://96.30.193.226:81/hls/canalaster.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGPnVpQm/fujitv.png" , FUJI TV
-https://fujitv.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?TVFLIXHD
 https://ia601509.us.archive.org/8/items/diversion-con-los-animales-video-musical-con-dora-la-exploradora-bubble-guppies-nick-jr./Diversi%C3%B3n%20con%20los%20animales%20%F0%9F%90%BE%20Video%20Musical%20con%20Dora%2C%20La%20Exploradora%20%26%20Bubble%20Guppies%20_%20Nick%20Jr.%20%F0%9F%8E%A4.mp4?cnt=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" , BITME  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2591&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg", BITME HD
-http://23.237.22.162:8081/live/bitme/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Boing.svg" , BOING
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/38503
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Disney_Channel#/media/Archivo:2019_Disney_Channel_logo.svg", DISNEY CHANNEL
@@ -134,19 +127,17 @@ http://23.237.22.162:8081/live/la-cartoon-network-hd/playlist.m3u8?s=832e5791601
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=110&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICK 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=2147&format=HLSAD&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" , DISNEY XD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=111&format=HLSAD&f=.m3u8   
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Boomerang_(canal_de_televisi%C3%B3n)#/media/Archivo:Boomerang_2014_logo.svg" , BOOMERANG
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=115&format=HLSAD&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" , BOOMERANG HD
-http://23.237.22.162:8081/live/la-boomerang-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" , BABY TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=116&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" , NICK JR
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=117&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES INFANTILES", DISNEY JR
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=118&format=HLSAD&f=.m3u8 
-EXTINF:-1, NICKTOONS
+EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/30/items/nicktoons_202106/kisspng-nickelodeon-television-show-logo-scandinavia-5b312cfe89c841.5159551615299494385644.png" , NICKTOONS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1708&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES INFANTILES", BABY FIRST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=1984&format=HLSAD&f=.m3u8  
@@ -346,7 +337,53 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=19275b10-4d10-11eb-a8d7-0242ac110002&sid=19275b10-4d10-11eb-a8d7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=5ff8d260-4d11-11eb-a7eb-0242ac110002&sid=5ff8d260-4d11-11eb-a7eb-0242ac110002&userId=
+#EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="GAMING Y ANIME", KANADE TV
+https://m3u-editor.com/serve/televito85/296537383
+
+#EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+
+#EXTINF:-53 tvg-logo="https://i.postimg.cc/4N1THpFQ/ANIME-ACCION.png" group-title="GAMING Y ANIME", PLUTO TV ANIME ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+
+#EXTINF:-53 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="GAMING Y ANIME", PLUTO TV ANIME CLÁSICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.4229&deviceLon=-3.6916&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=ES&serverSideAds=true&sessionID=1a94d0b4-b757-11eb-a0a6-0242ac110002&sid=1a94d0b4-b757-11eb-a0a6-0242ac110002&userId=
+
+#EXTINF:-50 tvg-logo="http://www.animeloving.net/aztv.png" group-title="GAMING Y ANIME", ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="GAMING Y ANIME", TOKUSATO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
+
+#EXTINF:-54 tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="GAMING Y ANIME", TOONIZAKI
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+
+#EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
+
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Japonés)
+https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+
+#EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH! 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
+
+#EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME", NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+
+#EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME", NARUTO 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/2jL0tvpF/ONE-PIECE.png" group-title="GAMING Y ANIME", ONE PIECE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
+
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/9MtY98G6/mundo_geek.png" group-title="GAMING Y ANIME", MUNDO GEEK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", *CANALES ENTRETENIMIENTO*
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcSjrgp5/zeemundo.png" , ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?TVFLIXHD
@@ -1112,55 +1149,6 @@ http://archive.org/download/qwerty_202001/qwerty.mkv
 http://archive.org/download/qwerty2/qwerty2.mkv
 #EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3
 http://archive.org/download/qwerty3/qwerty3.mkv
-
-#EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="GAMING Y ANIME", KANADE TV
-https://m3u-editor.com/serve/televito85/296537383
-
-#EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
-
-#EXTINF:-53 tvg-logo="https://i.postimg.cc/4N1THpFQ/ANIME-ACCION.png" group-title="GAMING Y ANIME", PLUTO TV ANIME ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-
-#EXTINF:-53 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="GAMING Y ANIME", PLUTO TV ANIME CLÁSICO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.4229&deviceLon=-3.6916&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=ES&serverSideAds=true&sessionID=1a94d0b4-b757-11eb-a0a6-0242ac110002&sid=1a94d0b4-b757-11eb-a0a6-0242ac110002&userId=
-
-#EXTINF:-50 tvg-logo="http://www.animeloving.net/aztv.png" group-title="GAMING Y ANIME", ANIME ZONE TV
-http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="GAMING Y ANIME", TOKUSATO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
-
-#EXTINF:-54 tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="GAMING Y ANIME", TOONIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-
-#EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
-
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Japonés)
-https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
-
-#EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
-
-#EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH! 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
-
-#EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME", NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-
-#EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME", NARUTO 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/2jL0tvpF/ONE-PIECE.png" group-title="GAMING Y ANIME", ONE PIECE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
-
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/9MtY98G6/mundo_geek.png" group-title="GAMING Y ANIME", MUNDO GEEK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
-
 
 
 
@@ -2229,21 +2217,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-294 tvg-logo="https://i.postimg.cc/MHH3C4bj/euronews1.png" group-title="NOTICIAS", EURONEWS EN ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
-#EXTINF:-295 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS", TVE 24H
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-
-#EXTINF:-296 tvg-logo="https://i.postimg.cc/fWHRY9VH/milenio.png" group-title="NOTICIAS", MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-297 tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS", ADN40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-
-#EXTINF:-300 tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" group-title="OTROS PAÍSES", CGTN ESPAÑOL (China)
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-301 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png" group-title="OTROS PAÍSES", DW (Alemania)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
 #EXTINF:-302 tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" group-title="OTROS PAÍSES", TV GALICIA (España)
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
@@ -2253,78 +2226,16 @@ http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 #EXTINF:-303 tvg-logo="https://i.postimg.cc/HnzQ04JW/eitb_basque.png" group-title="OTROS PAÍSES", EITB BASQUE (España)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-320 tvg-logo="https://i.postimg.cc/2SQC0ckx/arirangtv.png" group-title="OTROS PAÍSES", ARIRANG (Corea del Sur)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-321 tvg-logo="https://i.postimg.cc/dtS5zw1s/nhkworld.png" group-title="OTROS PAÍSES" ,NHK WORLD JAPAN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-340 tvg-logo="https://i.postimg.cc/WtRhkd8p/twch.png" group-title="NOTICIAS EN INGLÉS", THE WEATHER CHANNEL
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-340 tvg-logo="https://i.postimg.cc/zf5bXH2q/aljazeeraeng.png" group-title="NOTICIAS EN INGLÉS", ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/VvM0k9wL/cbsn.png" group-title="NOTICIAS EN INGLÉS", CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/MTvYkS4z/cbsn8.png" group-title="NOTICIAS EN INGLÉS", CBSN NEW YORK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826471-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9bf2-5dc4-46b3-9790-0983793deacf&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/MHwJPdPb/cbsn6.png" group-title="NOTICIAS EN INGLÉS", CBSN LOS ANGELES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826472-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b39e15-4e62-43c0-b29b-e4bedbdb9db5&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/BvZ8yBy3/cbsn3.png" group-title="NOTICIAS EN INGLÉS", CBSN CHICAGO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846042-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bac3c7b4-5aa0-43ac-919b-ab9816b340e8&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/qvsMp6n7/cbsn2.png" group-title="NOTICIAS EN INGLÉS", CBSN BOSTON
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846043-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d58fa7-5040-434a-8e22-022d5b01f4fe&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/7hRbTvYY/cbsn1.png" group-title="NOTICIAS EN INGLÉS", CBSN BAY ARENA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c848750-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=535b5fed-1187-433f-8fce-ff18b71320e5&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/zDhnT0Y2/cbsn9.png" group-title="NOTICIAS EN INGLÉS", CBSN PHILLY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84ae60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b4fa858-3cc5-48a5-9368-afdf323f3324&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/5tFcfZDS/cbsn7.png" group-title="NOTICIAS EN INGLÉS", CBSN MINESOTA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84fc80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1bd49d1-3102-4046-b6c7-6e87bbc09a6a&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/g22mbtYg/cbsn5.png" group-title="NOTICIAS EN INGLÉS", CBSN DENVER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852390-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=706b33cf-b651-4265-a932-7ae8924f5373&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/RhvV6SBB/cbsn10.png" group-title="NOTICIAS EN INGLÉS", CBSN PITTSBURGH
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852391-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50d49854-d658-4ea5-ba95-b033c2b0555c&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/G2VH4wp3/cbsn4.png" group-title="NOTICIAS EN INGLÉS", CBSN DALLAS-FT.WORTH
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/cCWMvnCL/nbcnewsnow.png" group-title="NOTICIAS EN INGLÉS", NBC NEWS NOW
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/JhW6rKWt/foxnews.png" group-title="NOTICIAS EN INGLÉS", FOX NEWS CHANNEL
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/wM522kZN/cnn.png" group-title="NOTICIAS EN INGLÉS", CNN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/jdwZyBxL/newsmaxtv.png" group-title="NOTICIAS EN INGLÉS", NEWSMAX TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/cCc7wLtM/skynews.png" group-title="NOTICIAS EN INGLÉS", SKY NEWS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd092-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4feb1fcc-d731-4cdd-bcb3-4053f6f4b8d7&userId=&serverSideAds=true
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="OTROS PAÍSES", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
-
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
-
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/BQD1j544/boliviatv.jpg" group-title="OTROS PAÍSES", BOLIVIA TV
-https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjQ0OjI5IEFNJmhhc2hfdmFsdWU9dGpDbXZnbSsrWS83aXExdDMrc1ZVUT09JnZhbGlkbWludXRlcz01MCZpZD0=
-
 
 
 #EXTINF:-1, A&E HD (211)
