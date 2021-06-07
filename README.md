@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/21/items/go_20210531/Go.png" , GOTV! HUIMAN - *ESTRENOS*
 https://archive.org/download/paw-patrol/PAW%20Patrol.mp4
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/img/peliculas/36204/1/1/36204.jpg" , EL CONJURO 3 - *ESTRENO*
-https://s2.zplayer.live/hls/,5fxct34hwgnufvsa6l7u7bwxunxqkhk2sh7lbmpe32coo5fcnvjm3lnt27hq,.urlset/master.m3u8
+http://download2326.mediafire.com/2mm2v97tnafg/524cwhfgy2xvpmb/El+conjuro+3+el+diablo+me+oblig%C3%B3+a+hacerlo+%282021%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 720 HD" tvg-logo="http://176.9.51.86:8080/images/f0407f9f685cdd1173fa7ff843c9f8f1.jpg" group-title="* ESTRENOS DE HOY *",Cruella (2021) 720 HD
 http://ui.mrzutv.net:8080/movie/mio/mio/40902.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES" , PARAMOUNT+ PRESENTA
