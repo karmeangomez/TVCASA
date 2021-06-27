@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/8/items/pink-and-purple-sporty-gradient-fitness-you-tube-icon/Pink%20and%20Purple%20Sporty%20Gradient%20Fitness%20YouTube%20Icon.png" , GOTV! HUIMAN - *ACTIVA AQUI*
-
 https://archive.org/serve/contrata/contrata.mp4 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_NBA_TV.svg" , NBA TV
 http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/39083
@@ -40,7 +39,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=27&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=1784&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS 1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=17&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" , CANAL 5 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=1785&format=HLSAD&f=.m3u8
@@ -133,7 +132,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" , CARTOON NETWORK HD
 http://23.237.22.162:8081/live/la-cartoon-network-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=oelftyrx4y4z8gm&lchId=331&format=HLSAD&f=.m3u8
+http://iptvhd.club:8081/televall2021/572_.m3u8?token=IIooIe1W2j6kjSKtDiMv8g&expires=1624822500
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICK 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
@@ -2571,9 +2570,9 @@ http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=afizzionados&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", BEIN SPORTS N
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=beines&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=directv&f=.m3u8
+http://iptvhd.club:8081/televall2021/8_.m3u8?token=h34IDgOGBCldUW0PTVuH0w&expires=1624822841
 #EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=directvplus&f=.m3u8
+http://iptvhd.club:8081/televall2021/11_.m3u8?token=hk-LPYwsmAs82wRraC17MA&expires=1624822749
 #EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=foxsportp&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TELEMUNDO INTERNACIONAL
@@ -2840,7 +2839,7 @@ http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=foxsport2mx&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=foxsport3mx&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TUDN MX
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnmx&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", TUDN US
+#EXTINF:-1  group-title="Lista TV", TUDN USA
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tudnus&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TVC DEPORTES
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tvcdep&f=.m3u8
@@ -2872,7 +2871,6 @@ http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=nickjr&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=teennick&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TOONCAST
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=tooncast&f=.m3u8
-
 
 
 
