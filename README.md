@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/11/firefox.jpg" , *ACTIVA LOS NUEVOS CANALES AQUI*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/6d488423d27c624aaa9fb76273e713e3.jpg" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
+#EXTINF:-1 tvg-logo="https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
 http://flowfhd.xyz:25461/Annabelle/12345/186788
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
 http://45.32.74.87:81/hls/projectboom.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 4", 24/7 peppa pig
+#EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/214-2141411_peppa-pig-logo-png.png" group-title="ENTRETENIMIENTO 4", 24/7 peppa pig
 http://flowfhd.xyz:25461/Annabelle/12345/182925
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/af06fbe5b6acace944b96e3ab3c9e33b.jpg" group-title="ENTRETENIMIENTO 4", 24H | Jonny Bravo
+#EXTINF:-1 tvg-logo="https://townsquare.media/site/482/files/2018/12/Bravo.png?w=1200&h=0&zc=1&s=0&a=t&q=89" group-title="ENTRETENIMIENTO 4", 24H | Jonny Bravo
 http://flowfhd.xyz:25461/Annabelle/12345/186744
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0839/5903/products/978141973839.jpg?v=1571477840" group-title="ENTRETENIMIENTO 4", 24H | Pokémon
 http://flowfhd.xyz:25461/Annabelle/12345/186770
@@ -19,7 +19,7 @@ http://flowfhd.xyz:25461/Annabelle/12345/186757
 http://flowfhd.xyz:25461/Annabelle/12345/186742
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/6fb905169f8b61a5cc883da73492b00a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Phineas & Ferb
 http://flowfhd.xyz:25461/Annabelle/12345/186751
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/0e18a7d3702ade336bc236f201d5eac2.jpg" group-title="ENTRETENIMIENTO 4", 24H | iCarly
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/a/a3/ICarly_Logo_2010.png/revision/latest?cb=20150407212809&path-prefix=de" group-title="ENTRETENIMIENTO 4", 24H | iCarly
 http://flowfhd.xyz:25461/Annabelle/12345/186731
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTIL", Nickelodeon
 http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
