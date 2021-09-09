@@ -3,8 +3,22 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
 http://flowfhd.xyz:25461/Annabelle/12345/186788
+#EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
 http://45.32.74.87:81/hls/projectboom.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/Disney_channel_original_movie_logo.png/revision/latest?cb=20141005195641" group-title="ENTRETENIMIENTO 4", 24h | Disney Movies
+http://flowfhd.xyz:25461/Annabelle/12345/186761
+
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="ENTRETENIMIENTO 4", 24H | Las Nuevas Aventuras de Winnie Pooh
+http://flowfhd.xyz:25461/Annabelle/12345/186764
+
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1e1142243b6445f33bfc0a0396c1be9a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Pocoyo
+http://flowfhd.xyz:25461/Annabelle/12345/186765
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/2fb4783a6dc0dac1fbd965e66d76b9a2.jpg" group-title="ENTRETENIMIENTO 4", 24H | Bob Sponja
+http://flowfhd.xyz:25461/Annabelle/12345/186769
 #EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/214-2141411_peppa-pig-logo-png.png" group-title="ENTRETENIMIENTO 4", 24/7 peppa pig
 http://flowfhd.xyz:25461/Annabelle/12345/182925
 #EXTINF:-1 tvg-logo="https://townsquare.media/site/482/files/2018/12/Bravo.png?w=1200&h=0&zc=1&s=0&a=t&q=89" group-title="ENTRETENIMIENTO 4", 24H | Jonny Bravo
@@ -21,6 +35,11 @@ http://flowfhd.xyz:25461/Annabelle/12345/186742
 http://flowfhd.xyz:25461/Annabelle/12345/186751
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/a/a3/ICarly_Logo_2010.png/revision/latest?cb=20150407212809&path-prefix=de" group-title="ENTRETENIMIENTO 4", 24H | iCarly
 http://flowfhd.xyz:25461/Annabelle/12345/186731
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d8e38f922f424e7caae1799fcb6efa3a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Digimon Adventure
+http://flowfhd.xyz:25461/Annabelle/12345/186754
+
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/3657e9f0f35c90cc12cc7a0fca0db559.jpg" group-title="ENTRETENIMIENTO 4", 24H | Los Caballeros del  Zodiaco
+http://flowfhd.xyz:25461/Annabelle/12345/186755
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTIL", Nickelodeon
 http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/a743f58f3adbfa365850aa510e0f2232.jpg" group-title="ENTRETENIMIENTO 4", (Sky) 24/7 Los Simpson temporada 1
@@ -51,9 +70,6 @@ http://flowfhd.xyz:25461/Annabelle/12345/186784
 #EXTINF:-1 tvg-logo="https://peliscr.files.wordpress.com/2013/06/el-chavo-del-8-volumen-1.jpg?w=1177" group-title="ENTRETENIMIENTO 4", 24H | El Chavo del 8
 http://flowfhd.xyz:25461/Annabelle/12345/186785
 
-
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_NBA_TV.svg" , NBA TV
@@ -168,9 +184,8 @@ http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/38503
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=113&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=112&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" , CARTOON NETWORK HD
-http://23.237.22.162:8081/live/la-cartoon-network-hd/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
 http://iptvhd.club:8081/televall2021/572_.m3u8?token=IIooIe1W2j6kjSKtDiMv8g&expires=1624822500
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICK 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2147&format=HLSAD&f=.m3u8 
@@ -2449,8 +2464,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*National Geographic
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*NICKELODEON
-http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
@@ -2533,11 +2546,6 @@ http://flowfhd.xyz:25461/Annabelle/12345/186752
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/09f5fc51da1841a7a97715bddc07250e.jpg" group-title="ENTRETENIMIENTO 4", 24H | Baron Rojo
 http://flowfhd.xyz:25461/Annabelle/12345/186753
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d8e38f922f424e7caae1799fcb6efa3a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Digimon Adventure
-http://flowfhd.xyz:25461/Annabelle/12345/186754
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/3657e9f0f35c90cc12cc7a0fca0db559.jpg" group-title="ENTRETENIMIENTO 4", 24H | Los Caballeros del  Zodiaco
-http://flowfhd.xyz:25461/Annabelle/12345/186755
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/a8c29df33a3a5d46a13fc383ac013322.jpg" group-title="ENTRETENIMIENTO 4", 24H | Megaman
 http://flowfhd.xyz:25461/Annabelle/12345/186756
@@ -2551,20 +2559,11 @@ http://flowfhd.xyz:25461/Annabelle/12345/186758
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR86zJLe4c4sKLR5FlIaweqZrJi8SbydgKdSg&usqp=CAU" group-title="ENTRETENIMIENTO 4", 24H | Los 3 Chiflados
 http://flowfhd.xyz:25461/Annabelle/12345/186760
 
-#EXTINF:-1 tvg-logo="https://matvracom.files.wordpress.com/2019/02/photo-03-08-2016-08-47-45.jpg?w=1100" group-title="ENTRETENIMIENTO 4", 24h | Disney Movies
-http://flowfhd.xyz:25461/Annabelle/12345/186761
-
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/a175605b3119ffab9ea13ceb3b76d905.jpg" group-title="ENTRETENIMIENTO 4", 24H | Cinema Universe
 http://flowfhd.xyz:25461/Annabelle/12345/186762
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/6dd0e1fba4a5a1a18364e8bcab61a519.jpg" group-title="ENTRETENIMIENTO 4", 24H | Dragon Ball Z
 http://flowfhd.xyz:25461/Annabelle/12345/186763
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="ENTRETENIMIENTO 4", 24H | Las Nuevas Aventuras de Winnie Pooh
-http://flowfhd.xyz:25461/Annabelle/12345/186764
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1e1142243b6445f33bfc0a0396c1be9a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Pocoyo
-http://flowfhd.xyz:25461/Annabelle/12345/186765
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/0c3174bcd086b77e1822f569dc7e79ac.jpg" group-title="ENTRETENIMIENTO 4", 24H | Mr Bean
 http://flowfhd.xyz:25461/Annabelle/12345/186766
@@ -2574,11 +2573,6 @@ http://flowfhd.xyz:25461/Annabelle/12345/186767
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/af06fbe5b6acace944b96e3ab3c9e33b.jpg" group-title="ENTRETENIMIENTO 4", 24H | Reino Infantil
 http://flowfhd.xyz:25461/Annabelle/12345/186768
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/2fb4783a6dc0dac1fbd965e66d76b9a2.jpg" group-title="ENTRETENIMIENTO 4", 24H | Bob Sponja
-http://flowfhd.xyz:25461/Annabelle/12345/186769
-
-
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/f0fe9432fd38431a0fa16a3956154606.jpg" group-title="ENTRETENIMIENTO 4", 24H | The Walking Dead
 http://flowfhd.xyz:25461/Annabelle/12345/186771
@@ -2896,8 +2890,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIL", Disney XD
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
 
-
-
 #EXTINF:-1 group-title="INFANTIL", Las Ruedas del Autobús
 https://www.youtube.com/watch?v=jmxcCw1UrwA
 
@@ -2913,7 +2905,6 @@ https://www.youtube.com/watch?v=fyuT-mzTuWM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="CULTURA", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="MUNDO", ENTRE NOSOTRAS
@@ -3040,7 +3031,6 @@ http://cecegeek@goo.gl/FDyHpL
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Sandy Wexler (2017) (2)
 http://bit.ly/MRAQCSAND
-
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Ajuste de Cuentas
 https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
