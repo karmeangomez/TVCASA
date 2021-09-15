@@ -3,18 +3,30 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
 http://flowfhd.xyz:25461/Annabelle/12345/186788
+#EXTINF:-1 tvg-id="I891.108507.schedulesdirect.org" tvg-name="MX: AFIZZIONADOS" tvg-logo="http://live.dongletv.com/stream_icons_mx/afizzionados.png" group-title="DEPORTES",MX: AFIZZIONADOS
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/1160
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Drake y Josh" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bXMVdDvRVOFr46YKf6w0ehGAd8X.jpg" group-title="24x7 SERIES",24x7: Drake y Josh
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941830
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Chespirito" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3dP7gHvGOr7SYw9woXUMijvXFO3.jpg" group-title="24x7 SERIES",24x7: Chespirito
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939729
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
 http://45.32.74.87:81/hls/projectboom.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Avatar: La leyenda de Aang" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/dQGYFOrBOZRtHdLxjZXDGzaxe99.jpg" group-title="24x7 SERIES",24x7: Avatar: La leyenda de Aang
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941523
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Avatar: La leyenda de Korra" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5ppmZN3AbBsWKesTBGSStYJR4R1.jpg" group-title="24x7 SERIES",24x7: Avatar: La leyenda de Korra
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941524
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Dragon ball" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/dRdvbzJtQWcE6OkhR1BZrmN2hXp.jpg" group-title="24x7 SERIES",24x7: Dragon ball
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941074
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Candy Candy" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uO9V1FkqLTJdAodHn9Sdg3Nwy1.jpg" group-title="24x7 SERIES",24x7: Candy Candy
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941291
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/Disney_channel_original_movie_logo.png/revision/latest?cb=20141005195641" group-title="ENTRETENIMIENTO 4", 24h | Disney Movies
 http://flowfhd.xyz:25461/Annabelle/12345/186761
-
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="ENTRETENIMIENTO 4", 24H | Las Nuevas Aventuras de Winnie Pooh
 http://flowfhd.xyz:25461/Annabelle/12345/186764
-
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1e1142243b6445f33bfc0a0396c1be9a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Pocoyo
 http://flowfhd.xyz:25461/Annabelle/12345/186765
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/2fb4783a6dc0dac1fbd965e66d76b9a2.jpg" group-title="ENTRETENIMIENTO 4", 24H | Bob Sponja
@@ -27,6 +39,10 @@ http://flowfhd.xyz:25461/Annabelle/12345/186744
 http://flowfhd.xyz:25461/Annabelle/12345/186770
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/6d1d9cb29ec32e6c90f32d281c03256d.jpg" group-title="ENTRETENIMIENTO 4", 24H | Hey Arnold
 http://flowfhd.xyz:25461/Annabelle/12345/186759
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Malcolm" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vEJX3sZZBQ2oFREyJGNtetwiV0Y.jpg" group-title="24x7 SERIES",24x7: Malcolm
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939680
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Malcolm (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vEJX3sZZBQ2oFREyJGNtetwiV0Y.jpg" group-title="24x7 SERIES",24x7: Malcolm (II)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942822
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/c3801e16f1251e3c13b3e66d7b8eb5f5.jpg" group-title="ENTRETENIMIENTO 4", 24H | Malcolm
 http://flowfhd.xyz:25461/Annabelle/12345/186757
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/ed53cb6c2b7ab6f0177988956ded6333.png" group-title="ENTRETENIMIENTO 4", 24/7 | LA FAMILIA PELUCHE
@@ -40,16 +56,6 @@ http://flowfhd.xyz:25461/Annabelle/12345/186754
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/3657e9f0f35c90cc12cc7a0fca0db559.jpg" group-title="ENTRETENIMIENTO 4", 24H | Los Caballeros del  Zodiaco
 http://flowfhd.xyz:25461/Annabelle/12345/186755
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTIL", Nickelodeon
-http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/a743f58f3adbfa365850aa510e0f2232.jpg" group-title="ENTRETENIMIENTO 4", (Sky) 24/7 Los Simpson temporada 1
-http://flowfhd.xyz:25461/Annabelle/12345/156492
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/The_Simpsons_-_The_Complete_2nd_Season.jpg/revision/latest?cb=20190725211202&path-prefix=es" group-title="ENTRETENIMIENTO 4", SKY LOS SIMPSON TEMP 2
-http://flowfhd.xyz:25461/Annabelle/12345/156493
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/a4ced0c01abbccb4d3f7f0d6943d6383.jpg" group-title="ENTRETENIMIENTO 4", SKY LOS SIMPSON TEMP 3
-http://flowfhd.xyz:25461/Annabelle/12345/156495
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/ceb9309577f34c210a57099f66be1c52.png" group-title="ENTRETENIMIENTO 4", 24H | Coraje - El Perro Cobarde
 http://flowfhd.xyz:25461/Annabelle/12345/186775
@@ -59,16 +65,15 @@ http://flowfhd.xyz:25461/Annabelle/12345/186779
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/68afd5312782d439956b58212b4f3d70.gif" group-title="ENTRETENIMIENTO 5", UNIVISION TELENOVELAS (LAT)
 http://flowfhd.xyz:25461/Annabelle/12345/180879
 #EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="ENTRETENIMIENTO 5", NOVELAS IN 5 MINUTES (LAT)
 http://flowfhd.xyz:25461/Annabelle/12345/180878
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ee5ecaed7bbe2f4f0b492f186abfa1db.jpg" group-title="ENTRETENIMIENTO 4", 24H | Chapulin Colorado
-http://flowfhd.xyz:25461/Annabelle/12345/186784
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940978
 
 #EXTINF:-1 tvg-logo="https://peliscr.files.wordpress.com/2013/06/el-chavo-del-8-volumen-1.jpg?w=1177" group-title="ENTRETENIMIENTO 4", 24H | El Chavo del 8
-http://flowfhd.xyz:25461/Annabelle/12345/186785
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939725
 
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
@@ -81,6 +86,18 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Real_Monsters_DVD_logo.png/revision/latest?cb=20160108033538" group-title="NIÑOS Y ADOLESCENTES", REAL MONSTERS
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/aLAGnSe7XCTTIXHlsbkTbtLEjG3.jpg" group-title="24x7 SERIES",24x7: Los Picapiedra
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940926
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Simpson" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24x7 SERIES",24x7: Los Simpson
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939540
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Simpson (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24x7 SERIES",24x7: Los Simpson (II)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942890
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Simpson (III)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24x7 SERIES",24x7: Los Simpson (III)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943039
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Simpson (IV)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24x7 SERIES",24x7: Los Simpson (IV)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943040
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los Simpson (V)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg" group-title="24x7 SERIES",24x7: Los Simpson (V)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943041
 #EXTINF:1 tvg-logo="https://i.ibb.co/DwXJDCG/logo-neo-tv.png", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -185,7 +202,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
-http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/1096
 http://iptvhd.club:8081/televall2021/572_.m3u8?token=IIooIe1W2j6kjSKtDiMv8g&expires=1624822500
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICK 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2147&format=HLSAD&f=.m3u8 
@@ -2071,34 +2088,9 @@ https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 10
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAhw7yrKo32vHZ68yN4RTgXUJDARnGu7BhMowGTJAdzIHASN3va-FppF9O1B5FLhbii-I&usqp=CAU" group-title="DEPORTE",Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="DEPORTE",Setanta Sports Eurasia 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s81/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="DEPORTE",Setanta Sports 2 Eurasia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s82/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png" group-title="DEPORTE", HOL | ESPN 1
 http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
@@ -2211,110 +2203,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="DEPORTES 2", LUCHA LIBRE AAA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="DEPORTES 2", IMPACT WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="DEPORTES 2", PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="DEPORTES 2", BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="DEPORTES 2", TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="DEPORTES 2", GLORY KICKBOXING TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="DEPORTES 2", FOX SPORTS AUSTRALIA
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="DEPORTES 2", FOX SPORTS USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="DEPORTES 2",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="DEPORTES 2",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="DEPORTES 2",TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="DEPORTES 2",TV Action Sports 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="DEPORTES 2", TV SPORTS USA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="DEPORTES 2", TV SPORTS ENGLAND
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="DEPORTES 2", TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="DEPORTES 2", ACTION SPORTS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="DEPORTES 2", POKER GO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 1
-https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 2
-https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 3
-https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="DEPORTES 2",  USA | STADIUM
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="DEPORTES 2", CANAL 11 INT
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png" group-title="DEPORTES 2" , ELEVEN SPORTS 1 HD
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png" group-title="DEPORTES 2" , ELEVEN SPORTS 2 HD
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="DEPORTES 2", FreeSports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="DEPORTES 2", KBP Sports
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="DEPORTES 2", MotorSport.TV
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="DEPORTES 2", Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="DEPORTES 2",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES 2", World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://mail.canlitvizle.net/upload/tv/b_sport-tv-logo_20200629095126.png" group-title="DEPORTES 2",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="DEPORTES 2", Horizon Sports
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="DEPORTES 2", Lax Sports Network TV
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987" group-title="DEPORTES 2", LN Sports
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="DEPORTES 2", MavTV
-https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="DEPORTES 2", MavTV 2
-https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFW-u8BUqbISuk2tXKdk9Itq87pjxFNpANK6oSYtgWJ_1XmYduwaSh_HytiLf_v9uZDI&usqp=CAU" group-title="DEPORTES 2",TIVIBU SPOR HD
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
@@ -2327,173 +2217,8 @@ https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="DEPORTES 3", Sports Grid 
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="DEPORTES 3",TVRI Sport HD
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 01     
-http://yassooo.com:8080/benAlaa/829293992/80031
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 02     
-http://yassooo.com:8080/benAlaa/829293992/80030
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 03     
-http://yassooo.com:8080/benAlaa/829293992/80029
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 04   
-http://yassooo.com:8080/benAlaa/829293992/80028
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 05  
-http://yassooo.com:8080/benAlaa/829293992/80027
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 06   
-http://yassooo.com:8080/benAlaa/829293992/80026
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT 07
-http://yassooo.com:8080/benAlaa/829293992/80025
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT ENGLISH 01 
-http://yassooo.com:8080/benAlaa/829293992/80024
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT ENGLISH 02
-http://yassooo.com:8080/benAlaa/829293992/80023
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT XTRA 1
-http://yassooo.com:8080/benAlaa/829293992/97375
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT XTRA 2 
-http://yassooo.com:8080/benAlaa/829293992/97374
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT PREMIUNS 01 
-http://yassooo.com:8080/benAlaa/829293992/80020
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT PREMIUNS 02 
-http://yassooo.com:8080/benAlaa/829293992/80019
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT PREMIUNS 03 
-http://yassooo.com:8080/benAlaa/829293992/80018
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT FRENCH 01 
-http://yassooo.com:8080/benAlaa/829293992/80037
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORT PREMIUNS 01 
-http://yassooo.com:8080/benAlaa/829293992/80036
-
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES 3", SPORTS NBA 
 http://yassooo.com:8080/benAlaa/829293992/80035
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*Espn 2 MX
-http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*ESPN 3 (AR)
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*Espn 3 MX
-http://balancer1.iptvmx.com:8081/tecno/Espn3.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*Espn MX
-http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*ESPN
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3", *BEIN LA LIGA
-http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3", *GOL
-http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES 3", *Fox Sports Argentina
-https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3", *BARZA TV
-http://91.126.138.141:1935/live/barza/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/REALMADRIDTVpng" group-title="DEPORTES 3", *REAl Madrid TV
-http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/EUROS1png" group-title="DEPORTES 3", *EURO SPORT 1
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3", *All Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/5r8wpecm" group-title="DEPORTES 3", *ESPN Mexico
-http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/LogoESPN2png" group-title="DEPORTES 3", *ESPN 2 Mexico
-http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/LogoESPN3png" group-title="DEPORTES 3", *ESPN 3 Mexico
-http://balancer1.iptvmx.com:8081/tecno/Espn3.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="DEPORTES 3", *ESPN 2 Argentina
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES 3", *ESPN 3
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*FOX SPORTS 2 MX
-http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*FOX SPORTS 3 (AR)
-http://195.181.163.39:8080/DEP_FOX_SPORTS_3_ARG/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*FOX SPORTS 3 MX
-http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*FOX SPORTS MX
-http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*DIRECT TV SPORT
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 3",*Afizzionados
-http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*History Channel
-http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*Las Estrellas
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*Nat Geo Wild
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*National Geographic
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*RCN
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*Star ACTION
-http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8   
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*STAR COMEDY
-http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*STAR FUN
-http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*STAR SERIES
-http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*Studio Universal
-http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*TCM
-http://balancer1.iptvmx.com:8081/tecno/TCM.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*Telemundo
-http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*TOONCAST
-http://balancer1.iptvmx.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*TUDN
-http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/7348bb2dd5d6bb9d1377dec20bce5fe5.jpg" group-title="ENTRETENIMIENTO 4", 24H | Peliculas Terror
 http://flowfhd.xyz:25461/Annabelle/12345/186781
@@ -2979,111 +2704,172 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="MUNDO", BADASS NOVELAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="INTERNACIONAL 2",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CHUCKY 2 (3)
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CHUCKY 3 (3)
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/e068ca32fb161cca61980f81630b0f79.gif" group-title="ENTRETENIMIENTO 2", AMC FHD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176405
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PIXEL (3)
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kjs3pc0yfd4u0go/Axn.jpg?dl=1" group-title="ENTRETENIMIENTO 2", AXN SERIES FHD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176385
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", TUS MASCOTAS (3)
-https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/ced03648ea53a129521a0665b7eec5b4.png" group-title="ENTRETENIMIENTO 2", CANAL 10 CANCUN  (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/175833
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CASTILLO DE ARENA (2017) (2)
-http://bit.ly/MRAQCASTI
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/fc7421241375846bb38564beccf4ca14.gif" group-title="ENTRETENIMIENTO 2", CANAL 5 HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176381
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Cuando nos Conocimos (2)
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b64c66c717d2b31f656de6dde73382fa.gif" group-title="ENTRETENIMIENTO 2", CINECANAL HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176379
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", COLOSSAL (2016) (2)
-http://bit.ly/2w5zZIw
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wpcf92jvgw68d7w/PicsArt_12-04-12.34.33.jpg?dl=1" group-title="ENTRETENIMIENTO 2", DHE (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103236
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Deadpool (2)
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/56b8430731bfd087d2d4c2689165cae4.gif" group-title="ENTRETENIMIENTO 2", DP DE PELICULA HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176373
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL CAZADOR Y LA REINA DEL HIELO (2)
-https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/827585515b0890c745027cf42d322440.png" group-title="ENTRETENIMIENTO 2", EXTREMA X (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/175832
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL DIARIO DE BRIGDGETT  2016 (2)
-https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="ENTRETENIMIENTO 2", Film And Arts (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/175826
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JURASSIC WORLD (2)
-https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u4suae492rreft7/Fx.jpg?dl=1" group-title="ENTRETENIMIENTO 2", FX (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103261
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA BELLA DURMIENTE (CLASICA) (2)
-http://bit.ly/LABELLAMOVIE
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103263
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA NOVIA DE CHUCKY (1998) (2)
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM FHD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176396
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MI VIDA A LOS 17 (2)
-http://bit.ly/2v16m9z
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE (SD)
+http://flowfhd.xyz:25461/Annabelle/12345/8416
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Sand Castle (2)
-http://cecegeek@goo.gl/FDyHpL
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE FHD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176395
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Sandy Wexler (2017) (2)
-http://bit.ly/MRAQCSAND
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b3a6dc9abcbe4d1b1cc047c7cd0d1bd0.gif" group-title="ENTRETENIMIENTO 2", GOLDEN HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176361
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Ajuste de Cuentas
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/ed60eb25c6ef2a03b6b7386a954058e4.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PLUS (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/8417
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", BLOOD IN BLOOD OUT/ VATOS LACOS
-http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/8484
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Cindy La Regia
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176360
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", El Hoyo
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/83f0ecf1ad754fd3ab0d494d13cc3325.gif" group-title="ENTRETENIMIENTO 2", HBO 2 HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176358
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", El Practicante
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103274
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL MAL DENTRO (2017)
-https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176355
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Guardianes de la Galaxia
-https://goo.gl/sFaEVq
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103281
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MATRIX
-http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176394
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Nosotros Los Nobles
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d9d20828cd93c913b186cd48c3dc44f2.gif" group-title="ENTRETENIMIENTO 2", HBO PLUS HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176415
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Parasitos
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/52cd6aee9bc388c883026310ce9fce37.gif" group-title="ENTRETENIMIENTO 2", HBO POP HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176414
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SADAKO Y KAYAKO
-https://goo.gl/iU1U32
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103286
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SAHARA
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE HD (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/176413
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SPECTRE
-https://goo.gl/3KGMLf
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", The Cloverfield Paradox
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", VER TEH POOL 2018
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Verdad o Reto
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Volver al Futuro III
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ptlggka4ysdw772/Hbo%20Xtreme.jpg?dl=1" group-title="ENTRETENIMIENTO 2", HBO XTREME (LAT)
+http://flowfhd.xyz:25461/Annabelle/12345/103290
 
 
+#EXTINF:-1 tvg-id="" tvg-name="24x7: 24" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fXf7me24JYgw0s4RX37FHAf7Fhd.jpg" group-title="24x7 SERIES",24x7: 24
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942113
+#EXTINF:-1 tvg-id="" tvg-name="24x7: ALF" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hjcOHms8vrfGdlEW3w7i6y9bNvW.jpg" group-title="24x7 SERIES",24x7: ALF
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941525
+
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940017
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang (II)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943188
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang (III)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang (III)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943223
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Bonanza" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/y2jYBuTrC62hneBRs92LwxavMoV.jpg" group-title="24x7 SERIES",24x7: Bonanza
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942242
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Bones" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1bwF1daWnsEYYjbHXiEMdS587fR.jpg" group-title="24x7 SERIES",24x7: Bones
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940581
+
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Castle" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lrGD4Jgh0Q59XEbJ0GikSlst3I8.jpg" group-title="24x7 SERIES",24x7: Castle
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941751
+
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Como conocí a tu madre" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vSE1ZIsYmEhNPSBwMajI7QXEZQm.jpg" group-title="24x7 SERIES",24x7: Como conocí a tu madre
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940481
+#EXTINF:-1 tvg-id="" tvg-name="24x7: CSI: Miami" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oWSpWkL57u9PuDkJwV5uyoWMyEb.jpg" group-title="24x7 SERIES",24x7: CSI: Miami
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941801
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Documentales" tvg-logo="" group-title="24x7 SERIES",24x7: Documentales
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942591
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Dos hombres y medio" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qxcae0nbgTgmFSqtttpVmknaMKO.jpg" group-title="24x7 SERIES",24x7: Dos hombres y medio
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939354
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24x7: El Chavo del Ocho" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24x7 SERIES",24x7: El Chavo del Ocho
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939725
+#EXTINF:-1 tvg-id="" tvg-name="24x7: El crucero del amor" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/37Wqryyfhrrn0XhXB3CCnOFradV.jpg" group-title="24x7 SERIES",24x7: El crucero del amor
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942524
+#EXTINF:-1 tvg-id="" tvg-name="24x7: El príncipe del rap en Bel Air" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/agYZXD9iChdxxv0eVHlZjeGRXaY.jpg" group-title="24x7 SERIES",24x7: El príncipe del rap en Bel Air
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941292
+#EXTINF:-1 tvg-id="" tvg-name="24x7: El show de la Pantera Rosa" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zXUpNajBJPm3oVJ7aWYyAk2wuqH.jpg" group-title="24x7 SERIES",24x7: El show de la Pantera Rosa
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940312
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Friends" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="24x7 SERIES",24x7: Friends
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940639
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Futurama" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lFzUUksqgztykLspn1jAdmNZNEl.jpg" group-title="24x7 SERIES",24x7: Futurama
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940174
+#EXTINF:-1 tvg-id="" tvg-name="24x7: House" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gJJ7hVoaLyd6dUXPhBuSnFWbtV6.jpg" group-title="24x7 SERIES",24x7: House
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940977
+#EXTINF:-1 tvg-id="" tvg-name="24x7: House (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gJJ7hVoaLyd6dUXPhBuSnFWbtV6.jpg" group-title="24x7 SERIES",24x7: House (II)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943379
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Juego de tronos" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/njcCvXNYN3LiqqsHcNIQI1QdnEk.jpg" group-title="24x7 SERIES",24x7: Juego de tronos
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940313
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La dimensión desconocida" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg" group-title="24x7 SERIES",24x7: La dimensión desconocida
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942404
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941872
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE (II)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943256
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE (III)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE (III)
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943275
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La mujer maravilla" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/tPexyOpOfE1fL9or72VfohAHxWy.jpg" group-title="24x7 SERIES",24x7: La mujer maravilla
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941293
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La niñera" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1zEdxchngKLIoHK2dEUXO8BgonA.jpg" group-title="24x7 SERIES",24x7: La niñera
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941909
+#EXTINF:-1 tvg-id="" tvg-name="24x7: La Oficina AKA The Office" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eQQjpSqRSE9H5chE8FwQs86ij4i.jpg" group-title="24x7 SERIES",24x7: La Oficina AKA The Office
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941912
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los ángeles de Charlie" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7daaY836Jwe5pGixEXP5GzGyYt2.jpg" group-title="24x7 SERIES",24x7: Los ángeles de Charlie
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942596
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Los expedientes secretos X" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3IlCDuR5eYqRO0WU9eRda5W08Rk.jpg" group-title="24x7 SERIES",24x7: Los expedientes secretos X
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940518
+
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Perdidos en el espacio" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/103NDPTpSaaBTjBivjWlO7MBqXT.jpg" group-title="24x7 SERIES",24x7: Perdidos en el espacio
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940640
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Sobrenatural" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/iLtWzaK2WKxb1YDk3E9VysMRYNA.jpg" group-title="24x7 SERIES",24x7: Sobrenatural
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940310
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Star Wars: La guerra de los clones" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/p6s2svEHHLsQ1TOw4Si54c1dD5L.jpg" group-title="24x7 SERIES",24x7: Star Wars: La guerra de los clones
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941290
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Thundercats" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ftcrZw3Xj89o1NLH4YHgAWfXbdi.jpg" group-title="24x7 SERIES",24x7: Thundercats
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940981
+#EXTINF:-1 tvg-id="" tvg-name="24x7: Tom and Jerry" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vUFQVpBPiUKArQJ2Fj44qcsyydH.jpg" group-title="24x7 SERIES",24x7: Tom and Jerry
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939720
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO", *Telemundo Internacional
 http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
@@ -3251,7 +3037,6 @@ http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
 http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", *NatGeo
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
 
@@ -3288,87 +3073,3 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", *Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/e068ca32fb161cca61980f81630b0f79.gif" group-title="ENTRETENIMIENTO 2", AMC FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176405
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kjs3pc0yfd4u0go/Axn.jpg?dl=1" group-title="ENTRETENIMIENTO 2", AXN SERIES FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176385
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/ced03648ea53a129521a0665b7eec5b4.png" group-title="ENTRETENIMIENTO 2", CANAL 10 CANCUN  (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175833
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/fc7421241375846bb38564beccf4ca14.gif" group-title="ENTRETENIMIENTO 2", CANAL 5 HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176381
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b64c66c717d2b31f656de6dde73382fa.gif" group-title="ENTRETENIMIENTO 2", CINECANAL HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176379
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wpcf92jvgw68d7w/PicsArt_12-04-12.34.33.jpg?dl=1" group-title="ENTRETENIMIENTO 2", DHE (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103236
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/56b8430731bfd087d2d4c2689165cae4.gif" group-title="ENTRETENIMIENTO 2", DP DE PELICULA HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176373
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/827585515b0890c745027cf42d322440.png" group-title="ENTRETENIMIENTO 2", EXTREMA X (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175832
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="ENTRETENIMIENTO 2", Film And Arts (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175826
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u4suae492rreft7/Fx.jpg?dl=1" group-title="ENTRETENIMIENTO 2", FX (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103261
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103263
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176396
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE (SD)
-http://flowfhd.xyz:25461/Annabelle/12345/8416
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176395
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b3a6dc9abcbe4d1b1cc047c7cd0d1bd0.gif" group-title="ENTRETENIMIENTO 2", GOLDEN HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176361
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/ed60eb25c6ef2a03b6b7386a954058e4.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PLUS (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/8417
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/8484
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176360
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/83f0ecf1ad754fd3ab0d494d13cc3325.gif" group-title="ENTRETENIMIENTO 2", HBO 2 HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176358
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103274
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176355
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103281
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176394
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d9d20828cd93c913b186cd48c3dc44f2.gif" group-title="ENTRETENIMIENTO 2", HBO PLUS HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176415
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/52cd6aee9bc388c883026310ce9fce37.gif" group-title="ENTRETENIMIENTO 2", HBO POP HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176414
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103286
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176413
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ptlggka4ysdw772/Hbo%20Xtreme.jpg?dl=1" group-title="ENTRETENIMIENTO 2", HBO XTREME (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103290
