@@ -3,12 +3,18 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
 http://flowfhd.xyz:25461/Annabelle/12345/186788
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/Disney_channel_original_movie_logo.png/revision/latest?cb=20141005195641" group-title="ENTRETENIMIENTO 4", 24h | Disney Movies
+http://flowfhd.xyz:25461/Annabelle/12345/186761
 #EXTINF:-1 tvg-id="I891.108507.schedulesdirect.org" tvg-name="MX: AFIZZIONADOS" tvg-logo="http://live.dongletv.com/stream_icons_mx/afizzionados.png" group-title="DEPORTES",MX: AFIZZIONADOS
 http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/1160
 #EXTINF:-1 tvg-id="" tvg-name="24x7: Drake y Josh" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bXMVdDvRVOFr46YKf6w0ehGAd8X.jpg" group-title="24x7 SERIES",24x7: Drake y Josh
 http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941830
 #EXTINF:-1 tvg-id="" tvg-name="24x7: Chespirito" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3dP7gHvGOr7SYw9woXUMijvXFO3.jpg" group-title="24x7 SERIES",24x7: Chespirito
 http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939729
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ee5ecaed7bbe2f4f0b492f186abfa1db.jpg" group-title="ENTRETENIMIENTO 4", 24H | Chapulin Colorado
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940978
+#EXTINF:-1 tvg-logo="https://peliscr.files.wordpress.com/2013/06/el-chavo-del-8-volumen-1.jpg?w=1177" group-title="ENTRETENIMIENTO 4", 24H | El Chavo del 8
+http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939725
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
@@ -23,8 +29,6 @@ http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941524
 http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941074
 #EXTINF:-1 tvg-id="" tvg-name="24x7: Candy Candy" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uO9V1FkqLTJdAodHn9Sdg3Nwy1.jpg" group-title="24x7 SERIES",24x7: Candy Candy
 http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941291
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/Disney_channel_original_movie_logo.png/revision/latest?cb=20141005195641" group-title="ENTRETENIMIENTO 4", 24h | Disney Movies
-http://flowfhd.xyz:25461/Annabelle/12345/186761
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/698b5e254af6858ea88637b768cd13e0.jpg" group-title="ENTRETENIMIENTO 4", 24H | Las Nuevas Aventuras de Winnie Pooh
 http://flowfhd.xyz:25461/Annabelle/12345/186764
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1e1142243b6445f33bfc0a0396c1be9a.jpg" group-title="ENTRETENIMIENTO 4", 24H | Pocoyo
@@ -69,11 +73,6 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 http://flowfhd.xyz:25461/Annabelle/12345/180879
 #EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="ENTRETENIMIENTO 5", NOVELAS IN 5 MINUTES (LAT)
 http://flowfhd.xyz:25461/Annabelle/12345/180878
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ee5ecaed7bbe2f4f0b492f186abfa1db.jpg" group-title="ENTRETENIMIENTO 4", 24H | Chapulin Colorado
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940978
-
-#EXTINF:-1 tvg-logo="https://peliscr.files.wordpress.com/2013/06/el-chavo-del-8-volumen-1.jpg?w=1177" group-title="ENTRETENIMIENTO 4", 24H | El Chavo del 8
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939725
 
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
