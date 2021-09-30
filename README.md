@@ -7,6 +7,10 @@ http://flowfhd.xyz:25461/Annabelle/12345/186788
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:-1  group-title="Lista TV", LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
 http://45.32.74.87:81/hls/projectboom.m3u8
 #EXTINF:-1 tvg-logo="http://149.56.20.138:36995/images/2520ece5572a4310e20b89d35b3e8629.jpg" group-title="ENTRETENIMIENTO 4", 24H | Los supersónicos
@@ -442,8 +446,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/9MtY98G6/mundo_geek.png" group-title="GAMING Y ANIME", MUNDO GEEK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", *CANALES ENTRETENIMIENTO*
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcSjrgp5/zeemundo.png" , ZEE MUNDO
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?TVFLIXHD
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/9BtSyV2.png",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL HD 
@@ -458,20 +460,14 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
  https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=48&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", WARNER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=52&format=HLSAD&f=.m3u8 
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", WARNER HD
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMDUlMkYqJmV4cGlyeT0xNjIwMzY3MjgzJmZuPXNoYTI1NiZ4JTNBcz04cGM1MGRuazdyd21zd2ssOTBjN2QxNzRiNDllODgzZDg3ZmQzZWFkY2JkYzVkNTY0MWQxMDQ5YmMyMzIxNGQxOWM3ODAzZGZjZGQ5MzU5Mw==/PROFILE05.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", E!
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=55&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=57&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", UNIVERSAL HD
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMDclMkYqJmV4cGlyeT0xNjE5NDg4MTIzJmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sMWEwYzZjMDNkODM0YTcyZjJiMGJlNmQ5NmY1ZTZhNzcxNmFmOGYyY2ZhYWUxY2I5MjhlMzBhNzRiNDE5MGE5MA==/PROFILE05.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", SYFY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=59&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", FX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=60&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", FX HD
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMDklMkYqJmV4cGlyeT0xNjE5NDg4Mjc1JmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sZjI1NDZkODliZTc0MGE4NGI4ZTg3ODA3NzdkZTYzODdjYjgyYzJkOGUxZWI3MjA1Y2YyYTM2Yzc1MmZmMDhjMA==/PROFILE05.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=62&format=HLSAD&f=.m3u8 
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", AXN
@@ -614,8 +610,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="CANALES CULTURALES", *CANALES CULTURALES*
-#EXTINF:-1, DMAX - SPAIN
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?TVFLIXH
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES",  DISCOVERY H&H
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=96&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", DISCOVERY ID
@@ -628,8 +622,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2378&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", HISTORY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=89&format=HLSAD&f=.m3u8 
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", H2
-http://iptvhd.club:8081/televall2021/575_.m3u8?token=koxdJkUQm3GAQ4ZQ04cY2A&expires=1619496049
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", NAT GEO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=91&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", NAT GEO WILD
@@ -654,8 +646,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2375&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", DISCOVERY TURBO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2379&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", CURIOSITY STREAM
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTk0JTJGKiZleHBpcnk9MTYxOTQ5NzM2MCZmbj1zaGEyNTYmeCUzQXM9bmVjNmtmb2FrY2NncHdtLDliM2RjNGU2YWVjYjdjNDIwMmE3OWYyMmQzODU3MDg1MTJlYjgyYWYxNTIwNTg0OGM2YjYwZGE4ODcwMWVkN2E=/PROFILE05.m3u8
 
 #EXTINF:-1 group-title="CANALES MUSICA", *CANALES MUSICA*
 #EXTINF:-1 group-title="CANALES MUSICA", CONECTA TV
@@ -695,16 +685,10 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w27591002
 
 
 #EXTINF:-1 group-title="CANALES NOTICIAS", *CANALES NOTICIAS*
-#EXTINF:-290 tvg-logo="https://i.postimg.cc/ZRnY9sKT/HISPANTV.jpg" group-title="CANALES NOTICIAS", HISPAN TV
-https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", FOROTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=19&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", FOROTV HD
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxMDQlMkYqJmV4cGlyeT0xNjE5NDk5MTQ5JmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sODAyNzUxNDg3ZTM3NmI3ZGZmOThkM2ZkNjFhYTY4OWE3YzI4Njk4MDBiZTgxYjNmOWYyNjVhNjMwODdhOGQxMg==/PROFILE05.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", ADN40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=40&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", ADN 40 HD
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyJTJGKiZleHBpcnk9MTYxOTQ5OTM4MyZmbj1zaGEyNTYmeCUzQXM9bmVjNmtmb2FrY2NncHdtLGJjY2QzZGE3ZTZjYWM2NGEzNmVlYWU0YWZjMzlkOGU2ODhhYTNjNjYwYzk5ODgwZGI5NWM3MjBmMDM0ZWJlYzg=/PROFILE05.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", CNN Ñ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=187&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", WOBI 
@@ -767,10 +751,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES DEPORTES", CLARO SPORTS HD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8
-#EXTINF:-1, EUROSPORT 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8?TVFLIXHD
-#EXTINF:-1, CLARO SPORTS
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?TVFLIXHD
 
 #EXTINF:-1 group-title="CANALES PLUTO TV", *CANALES PLUTO TV*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=07a79f8c-b055-11eb-8326-0242ac110002&sid=07a79f8c-b055-11eb-8326-0242ac110002&userId=
@@ -856,179 +836,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a0008
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1, *ON DEMAND*
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/img/peliculas/36204/1/1/36204.jpg" , EL CONJURO 3 - *ESTRENO*
-http://download2326.mediafire.com/2mm2v97tnafg/524cwhfgy2xvpmb/El+conjuro+3+el+diablo+me+oblig%C3%B3+a+hacerlo+%282021%29.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021
-http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump 
-http://ipeteve.com/REGIOFLIX100321/ForestGump.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre 
-http://ipeteve.com/REGIOFLIX100321/Sangre.por.Sangre.SrRegio.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables 
-http://ipeteve.com/REGIOFLIX100321/AmInSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga
-http://ipeteve.com/REGIOFLIX100321/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 
-http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable 
-http://ipeteve.com/REGIOFLIX100321/Honest.thief.2020.1080srregio.net.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes 
-http://ipeteve.com/REGIOFLIX100321/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL 
-http://ipeteve.com/REGIOFLIX100321/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror 
-http://ipeteve.com/REGIOFLIX100321/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020)
-http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas 
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia 
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales 
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno 
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro 
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name 
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro 
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO 
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 
-https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen 
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls 
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion 
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos 
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO   
-https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles   
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus   
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool   
-https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente  
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII   
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina 
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO  
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg",Angelitos del Trapecio (1959)
-http://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/e4BzmDB.jpg",Yo Soy Muy Macho (1953)
-http://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/gVCnp2P.jpg",El Bello Durmiente (1952)
-http://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://pics.filmaffinity.com/Ac_las_tortas-914464527-large.jpg",Aca las Tortas (1951)
-http://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/OOGQjcp.jpg",Simbad el Mareado (1950)
-http://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/lzZMzXw.jpg",La Familia Perez (1949)
-http://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.pinimg.com/736x/55/28/90/55289097b4c3f039f619362357ecdbdc--watches.jpg",Una Familia de Tantas (1949)
-http://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/JzyYqis.jpg",Los Tres Huastecos (1948)
-http://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/aOy8B0T.jpg",Nosotros - los Pobres (1948)
-http://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://imgur.com/9ZOU6Hq.jpg",Si Adelita se Fuera con Otro (1948)
-http://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg",Prometeus HD
-http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg",LA MINA
-http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg",SAHARA
-http://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://image.tmdb.org/t/p/original/8DbIeCT6eBtremXmK3ZhyuvrC74.jpg",El Padre del Ano
-http://ia601508.us.archive.org/7/items/pa32d1SRREGIO/pa32d1SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://3.bp.blogspot.com/-7-XqbhwtPAM/WsurmGFoCRI/AAAAAAAAomI/Cyd_4sTIxb4GDEBMb_-EX69DarhdQSZ0QCLcBGAs/s1600/El_Legado_del_Diablo_Poster_Teaser_JPosters.jpg",Legado del Diablo SUBTITULADA
-http://ia801508.us.archive.org/30/items/hereSRREGIO/hereSRREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://cinemaaustralia.files.wordpress.com/2017/10/jungle-cinema-australia1.jpg?w=700&h=1000",Jungle
-http://ia601501.us.archive.org/3/items/junSRREGIO/junSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81RcrC4SO6L.jpg",Uncharted Movie SUBTITULADO
-http://ia902904.us.archive.org/32/items/00subREGIO/00subREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.pinimg.com/originals/d8/5f/28/d85f28453eec8b4ab07115db5b6d6142.jpg",Emelie
-http://ia801509.us.archive.org/1/items/3033l113SRREGIO/3033l113SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://clubsieteymedio.files.wordpress.com/2018/03/1d5567129419df3aa05c81afb16e7200a045c862.jpg?w=550&h=785",Matar a Jesus
-http://ia802901.us.archive.org/31/items/m65sadf4tard6s45fjesusasadREGIO/m65sadf4tard6s45fjesusasadREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://pics.filmaffinity.com/roman-483719153-large.jpg",ROMAN
-http://ia801507.us.archive.org/9/items/00040regio/00040regio.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://www.ecartelera.com/carteles/9900/9961/007.jpg",Emoji
-http://ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg",Todo El Dinero Del Mundo
-http://ia802802.us.archive.org/24/items/70003701030003700000SRREGIOlat/70003701030003700000SRREGIOlat.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg",Terror en la Oscuridad CAST
-http://ia802803.us.archive.org/7/items/1N51D3SRREGIOcast/1N51D3SRREGIOcast.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1",The Cured
-http://ia902801.us.archive.org/17/items/th3cur3dSRREGIO/th3cur3dSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg",Sahara (2017)
-http://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg",Sand Castle (2017)
-http://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg",Sandy Wexler (2017)
-http://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg",Pet (2019)
-http://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg",La Vendedora de Rosas (1998)
-http://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg",Rodrigo D - No futuro (1990)
-http://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1",3 idiotas
-http://ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg",Anon
-http://ia902800.us.archive.org/27/items/4nSRREGIOon/4nSRREGIOon.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png",Samson
-http://ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg",15:17 Tren a Paris
-http://ia802802.us.archive.org/1/items/th3151SRREGIO/th3151SRREGIO.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox
-http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.imgur.com/30HzeQe.png",EL MAL DENTRO (2017)
-http://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.imgur.com/30HzeQe.png",Kurt Cobain: Montage of Heck
-http://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://i.imgur.com/30HzeQe.png",Varias Lat:Volver al Futuro III
-http://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg",Volver al Futuro
-http://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 2
-http://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3
-http://archive.org/download/qwerty3/qwerty3.mkv
-
-
-
-
-
-#EXTINF:-61 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
@@ -1720,9 +1527,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
@@ -1775,9 +1579,6 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-
-#EXTINF:-1  group-title="Lista TV", LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1  group-title="Lista TV", DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
@@ -2303,169 +2104,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/e068ca32fb161cca61980f81630b0f79.gif" group-title="ENTRETENIMIENTO 2", AMC FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176405
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kjs3pc0yfd4u0go/Axn.jpg?dl=1" group-title="ENTRETENIMIENTO 2", AXN SERIES FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176385
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/ced03648ea53a129521a0665b7eec5b4.png" group-title="ENTRETENIMIENTO 2", CANAL 10 CANCUN  (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175833
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/fc7421241375846bb38564beccf4ca14.gif" group-title="ENTRETENIMIENTO 2", CANAL 5 HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176381
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b64c66c717d2b31f656de6dde73382fa.gif" group-title="ENTRETENIMIENTO 2", CINECANAL HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176379
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wpcf92jvgw68d7w/PicsArt_12-04-12.34.33.jpg?dl=1" group-title="ENTRETENIMIENTO 2", DHE (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103236
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/56b8430731bfd087d2d4c2689165cae4.gif" group-title="ENTRETENIMIENTO 2", DP DE PELICULA HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176373
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/827585515b0890c745027cf42d322440.png" group-title="ENTRETENIMIENTO 2", EXTREMA X (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175832
-
-#EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="ENTRETENIMIENTO 2", Film And Arts (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/175826
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u4suae492rreft7/Fx.jpg?dl=1" group-title="ENTRETENIMIENTO 2", FX (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103261
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103263
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="ENTRETENIMIENTO 2", FXM FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176396
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE (SD)
-http://flowfhd.xyz:25461/Annabelle/12345/8416
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="ENTRETENIMIENTO 2", GOLDEN EDGE FHD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176395
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b3a6dc9abcbe4d1b1cc047c7cd0d1bd0.gif" group-title="ENTRETENIMIENTO 2", GOLDEN HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176361
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/ed60eb25c6ef2a03b6b7386a954058e4.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PLUS (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/8417
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/8484
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d8625fd20d7db6ac8f78aa0666c15704.gif" group-title="ENTRETENIMIENTO 2", GOLDEN PREMIER HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176360
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/83f0ecf1ad754fd3ab0d494d13cc3325.gif" group-title="ENTRETENIMIENTO 2", HBO 2 HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176358
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103274
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3d2c96517e54309674c16893739d96ff.gif" group-title="ENTRETENIMIENTO 2", HBO FAMILY HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176355
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103281
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/686872dcde9f05ec96a914d47f527d60.gif" group-title="ENTRETENIMIENTO 2", HBO MUNDI HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176394
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d9d20828cd93c913b186cd48c3dc44f2.gif" group-title="ENTRETENIMIENTO 2", HBO PLUS HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176415
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/52cd6aee9bc388c883026310ce9fce37.gif" group-title="ENTRETENIMIENTO 2", HBO POP HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176414
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103286
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/5f9c6df899b52140c8453dee5b98019b.gif" group-title="ENTRETENIMIENTO 2", HBO SIGNATURE HD (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/176413
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ptlggka4ysdw772/Hbo%20Xtreme.jpg?dl=1" group-title="ENTRETENIMIENTO 2", HBO XTREME (LAT)
-http://flowfhd.xyz:25461/Annabelle/12345/103290
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: 24" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/fXf7me24JYgw0s4RX37FHAf7Fhd.jpg" group-title="24x7 SERIES",24x7: 24
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942113
-#EXTINF:-1 tvg-id="" tvg-name="24x7: ALF" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hjcOHms8vrfGdlEW3w7i6y9bNvW.jpg" group-title="24x7 SERIES",24x7: ALF
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941525
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940017
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang (II)
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943188
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Big Bang (III)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/AmLAe6Hm4AqVaLX1Lsc82YnM4C2.jpg" group-title="24x7 SERIES",24x7: Big Bang (III)
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943223
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Bonanza" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/y2jYBuTrC62hneBRs92LwxavMoV.jpg" group-title="24x7 SERIES",24x7: Bonanza
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942242
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Bones" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1bwF1daWnsEYYjbHXiEMdS587fR.jpg" group-title="24x7 SERIES",24x7: Bones
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940581
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Castle" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lrGD4Jgh0Q59XEbJ0GikSlst3I8.jpg" group-title="24x7 SERIES",24x7: Castle
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941751
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Como conocí a tu madre" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vSE1ZIsYmEhNPSBwMajI7QXEZQm.jpg" group-title="24x7 SERIES",24x7: Como conocí a tu madre
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940481
-#EXTINF:-1 tvg-id="" tvg-name="24x7: CSI: Miami" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/oWSpWkL57u9PuDkJwV5uyoWMyEb.jpg" group-title="24x7 SERIES",24x7: CSI: Miami
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941801
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Documentales" tvg-logo="" group-title="24x7 SERIES",24x7: Documentales
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942591
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Dos hombres y medio" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qxcae0nbgTgmFSqtttpVmknaMKO.jpg" group-title="24x7 SERIES",24x7: Dos hombres y medio
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939354
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: El Chavo del Ocho" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24x7 SERIES",24x7: El Chavo del Ocho
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939725
-#EXTINF:-1 tvg-id="" tvg-name="24x7: El crucero del amor" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/37Wqryyfhrrn0XhXB3CCnOFradV.jpg" group-title="24x7 SERIES",24x7: El crucero del amor
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942524
-#EXTINF:-1 tvg-id="" tvg-name="24x7: El príncipe del rap en Bel Air" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/agYZXD9iChdxxv0eVHlZjeGRXaY.jpg" group-title="24x7 SERIES",24x7: El príncipe del rap en Bel Air
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941292
-#EXTINF:-1 tvg-id="" tvg-name="24x7: El show de la Pantera Rosa" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zXUpNajBJPm3oVJ7aWYyAk2wuqH.jpg" group-title="24x7 SERIES",24x7: El show de la Pantera Rosa
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940312
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Friends" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="24x7 SERIES",24x7: Friends
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940639
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Futurama" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/lFzUUksqgztykLspn1jAdmNZNEl.jpg" group-title="24x7 SERIES",24x7: Futurama
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940174
-#EXTINF:-1 tvg-id="" tvg-name="24x7: House" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gJJ7hVoaLyd6dUXPhBuSnFWbtV6.jpg" group-title="24x7 SERIES",24x7: House
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940977
-#EXTINF:-1 tvg-id="" tvg-name="24x7: House (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gJJ7hVoaLyd6dUXPhBuSnFWbtV6.jpg" group-title="24x7 SERIES",24x7: House (II)
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943379
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Juego de tronos" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/njcCvXNYN3LiqqsHcNIQI1QdnEk.jpg" group-title="24x7 SERIES",24x7: Juego de tronos
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940313
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La dimensión desconocida" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg" group-title="24x7 SERIES",24x7: La dimensión desconocida
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942404
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941872
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE (II)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE (II)
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943256
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La ley y el orden: UVE (III)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o3czDjmHuEQ2pM9g1FOYSLF1vqT.jpg" group-title="24x7 SERIES",24x7: La ley y el orden: UVE (III)
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744943275
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La mujer maravilla" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/tPexyOpOfE1fL9or72VfohAHxWy.jpg" group-title="24x7 SERIES",24x7: La mujer maravilla
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941293
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La niñera" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/1zEdxchngKLIoHK2dEUXO8BgonA.jpg" group-title="24x7 SERIES",24x7: La niñera
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941909
-#EXTINF:-1 tvg-id="" tvg-name="24x7: La Oficina AKA The Office" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eQQjpSqRSE9H5chE8FwQs86ij4i.jpg" group-title="24x7 SERIES",24x7: La Oficina AKA The Office
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941912
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Los ángeles de Charlie" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7daaY836Jwe5pGixEXP5GzGyYt2.jpg" group-title="24x7 SERIES",24x7: Los ángeles de Charlie
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744942596
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Los expedientes secretos X" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/3IlCDuR5eYqRO0WU9eRda5W08Rk.jpg" group-title="24x7 SERIES",24x7: Los expedientes secretos X
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940518
-
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Perdidos en el espacio" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/103NDPTpSaaBTjBivjWlO7MBqXT.jpg" group-title="24x7 SERIES",24x7: Perdidos en el espacio
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940640
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Sobrenatural" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/iLtWzaK2WKxb1YDk3E9VysMRYNA.jpg" group-title="24x7 SERIES",24x7: Sobrenatural
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940310
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Star Wars: La guerra de los clones" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/p6s2svEHHLsQ1TOw4Si54c1dD5L.jpg" group-title="24x7 SERIES",24x7: Star Wars: La guerra de los clones
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744941290
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Thundercats" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/ftcrZw3Xj89o1NLH4YHgAWfXbdi.jpg" group-title="24x7 SERIES",24x7: Thundercats
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744940981
-#EXTINF:-1 tvg-id="" tvg-name="24x7: Tom and Jerry" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vUFQVpBPiUKArQJ2Fj44qcsyydH.jpg" group-title="24x7 SERIES",24x7: Tom and Jerry
-http://lati.iptvlatino.cc:88/xfmzjpdw/qykm2r4y/744939720
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO", *Telemundo Internacional
 http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
 
@@ -2590,3 +2228,4 @@ https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", *Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+
