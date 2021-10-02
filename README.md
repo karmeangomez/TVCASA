@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/11/firefox.jpg" , *ACTUALIZADO 02/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
-#EXTINF:-1 tvg-logo="https://archive.org/download/elguerito/elguerito.jpg" , EL GUERITO REACCION
-https://www.youtube.com/watch?v=k3GcqcitOiw
+#EXTINF:-1 tvg-logo="https://archive.org/download/elguerito/elguerito.jpg" , ★EL GUERITO REACCION★
+https://bit.ly/3oqupu6
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="DEPORTE", RED BULL TV
@@ -174,9 +174,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
-https://bit.ly/3CZvcWU
+https://bit.ly/2ZSjf7p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK OP2
-http://usher.twitch.tv/api/channel/hls/teen920.m3u8?player=twitchweb&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teen920%22%2C%22channel_id%22%3A720276288%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1633148758%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Afalse%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3Anull%2C%22player_type%22%3Anull%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2266.225.201.2%22%2C%22version%22%3A2%7D&sig=3c67019ad77ff1d34dec95d0f5f7d09462510444
+http://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvcDzTU-zCZ_7n9SdiAJsYzu_dqvfR07HJCReO77Dua6VDUqjb4CKi0Pkr4ZBM1ZWQXPVTZO1V_ulp4FXLlFj8VSSr9CW0SgkHWtAN_CxFNQM0SWh-HihoOLkNvww-PuPgJKph6lcgpQzVHjs3rid1rt5gLQhd5vwEeJN_qQagezYai2ZSNYi5Qcw6d0TIvrMXTig44qcK3M9dmROvshWFmPz2ciuRhT3z9oMVZLgtCfeIGnrzaa5WeplMLS0t8nXtM9mESgF_lkGy-MhEu1gYksaBkaz8YAUYkenqQ_DOLULpsGYqRXogOMgDlY3KVZ5diAG67UGOS9RznN594uK1ueGora_BP_fW9MB3tMlRhqDZVZbhnLm77MKQC8eHnA-U8HCQU4ALQHU3YBiBoVvod-ehn_k5SEqbKm1G4e4hyhYcodQk-OlP2QCfQYRAQardGWbV_L19M5LkSyvTKZFZ-sY_HeWEADLZkXP1S80s0WXY_tVpxoTirSAZYEKC0WI4CUdJ4fMpX9ikrNYAU7s0ehb9LTm5LZ9ymgFdg9Sh2BosEAOCHwYGFh6CzQcTOAAwPNsGoNH6SH3kQBTRcKOd3_XR7Dhu8L8-Qb9RI7vR_kl8bqb400YduQTe9TNnht_yeqTDfoJHqaf36HzR4riKcviM_mlB-BDHkSEO2OGwuDdVR7jsL9iyv5RnEaDNZskVdQ_iUiopjbAQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICKTEEN  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
