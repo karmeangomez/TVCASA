@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/11/firefox.jpg" , *ACTUALIZADO 03/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
+#EXTINF:-1 group-title="CANALES PRINCIPALES", ALEGRIJES 115
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=829b8a9dddf51d1190a5c20653a196150a5a0b49&st.mq=2&st.mvid=1634663336671&st.ip=187.162.101.45&st.dla=on&st.exp=1633489628463&st.hls=on&_prevCmd=movieLayer&tkn=5561
+#EXTINF:-1 group-title="CANALES PRINCIPALES", ALEGRIJES 116
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=547fc9d94959c1314ec5556125f8b4a3ab3c1095&st.mq=2&st.mvid=1634881571551&st.ip=187.162.101.45&st.dla=on&st.exp=1633489793414&st.hls=on&_prevCmd=movieLayer&tkn=67
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="DEPORTE", RED BULL TV
