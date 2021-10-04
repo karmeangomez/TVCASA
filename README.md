@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/11/firefox.jpg" , *ACTUALIZADO 02/OCT/21*
+#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/11/firefox.jpg" , *ACTUALIZADO 03/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
-#EXTINF:-1 tvg-logo="https://archive.org/download/elguerito/elguerito.jpg" , ★EL GUERITO REACCION★
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633215356/ei/HI9YYb77JZCqiwSxjYfYBQ/ip/187.162.101.45/id/93719ca9c8ad3a2c/source/youtube/requiressl/yes/playback_host/r1---sn-5muxa-hxms.googlevideo.com/mh/BA/mm/31%2C26/mn/sn-5muxa-hxms%2Csn-q4flrnlz/ms/au%2Conr/mv/m/mvi/1/pl/20/hfr/1/tts_caps/1/maudio/1/initcwndbps/893750/vprv/1/go/1/mt/1633193574/fvip/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN1t2qTp34HU6Na2LDDCVgSQKsdxcTqzYid76QReyDuoCIDg5k7KXKhZ9bTcSax1iZ0rV-gc563wUqDJGWBq_xsGu/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AG3C_xAwRgIhANTamYc9LcSMIyDKXQEm6nUAgyedq81PZpF0hy-3iamzAiEArXSNsL7nI8dh8l1PM42WaTKOxPEYEviOU0tc-BSCaNY%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="DEPORTE", RED BULL TV
@@ -22,6 +20,12 @@ http://flowfhd.xyz:25461/Annabelle/12345/186757
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO KIDS - RECOMENDADO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=5ff8d260-4d11-11eb-a7eb-0242ac110002&sid=5ff8d260-4d11-11eb-a7eb-0242ac110002&userId=
+#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,NICK CLÁSICO - CARICATURAS RETRO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=709d32ad-4d0f-11eb-a8d7-0242ac110002&sid=709d32ad-4d0f-11eb-a8d7-0242ac110002&userId=
+#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO ANIME - CARICATURAS RETRO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=f18105c5-4d4a-11eb-91f7-0242ac110002&sid=f18105c5-4d4a-11eb-91f7-0242ac110002&userId=
 #EXTINF:-77 tvg-logo="https://i.postimg.cc/jdC6ZwQ7/RETRO-TV-PALMARES.png" group-title="CINE Y SERIES", RETRO TV CARICATURAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTIL", RETROCARTOONS
@@ -38,7 +42,7 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", TOONCAST - CARICATURAS RETRO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="24/7", ZONA ANIME - 24/7
+#EXTINF:-1 group-title="24/7", ZONA ANIME - 24H
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -68,10 +72,11 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40 APP
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV EN VIVO
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV - RECOMENDADO
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO
@@ -174,9 +179,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
-https://bit.ly/2ZSjf7p
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK OP2
-http://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvcDzTU-zCZ_7n9SdiAJsYzu_dqvfR07HJCReO77Dua6VDUqjb4CKi0Pkr4ZBM1ZWQXPVTZO1V_ulp4FXLlFj8VSSr9CW0SgkHWtAN_CxFNQM0SWh-HihoOLkNvww-PuPgJKph6lcgpQzVHjs3rid1rt5gLQhd5vwEeJN_qQagezYai2ZSNYi5Qcw6d0TIvrMXTig44qcK3M9dmROvshWFmPz2ciuRhT3z9oMVZLgtCfeIGnrzaa5WeplMLS0t8nXtM9mESgF_lkGy-MhEu1gYksaBkaz8YAUYkenqQ_DOLULpsGYqRXogOMgDlY3KVZ5diAG67UGOS9RznN594uK1ueGora_BP_fW9MB3tMlRhqDZVZbhnLm77MKQC8eHnA-U8HCQU4ALQHU3YBiBoVvod-ehn_k5SEqbKm1G4e4hyhYcodQk-OlP2QCfQYRAQardGWbV_L19M5LkSyvTKZFZ-sY_HeWEADLZkXP1S80s0WXY_tVpxoTirSAZYEKC0WI4CUdJ4fMpX9ikrNYAU7s0ehb9LTm5LZ9ymgFdg9Sh2BosEAOCHwYGFh6CzQcTOAAwPNsGoNH6SH3kQBTRcKOd3_XR7Dhu8L8-Qb9RI7vR_kl8bqb400YduQTe9TNnht_yeqTDfoJHqaf36HzR4riKcviM_mlB-BDHkSEO2OGwuDdVR7jsL9iyv5RnEaDNZskVdQ_iUiopjbAQ.m3u8
+http://45.225.204.7:8000/play/a018
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , NICKTEEN  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
@@ -243,8 +246,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=f677ed23-4d4c-11eb-91f7-0242ac110002&sid=f677ed23-4d4c-11eb-91f7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,BABAR BABY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=f677ed23-4d4c-11eb-91f7-0242ac110002&sid=f677ed23-4d4c-11eb-91f7-0242ac110002&userId=
-#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO ANIME
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=f18105c5-4d4a-11eb-91f7-0242ac110002&sid=f18105c5-4d4a-11eb-91f7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=083e15c9-4d20-11eb-b866-0242ac110002&sid=083e15c9-4d20-11eb-b866-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO JUNIOR
@@ -253,12 +254,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=0a538647-4d1e-11eb-a8d7-0242ac110002&sid=0a538647-4d1e-11eb-a8d7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO TEEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=2d8a5bdb-4c93-11eb-a7eb-0242ac110002&sid=2d8a5bdb-4c93-11eb-a7eb-0242ac110002&userId=
-#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,NICK CLÁSICO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=709d32ad-4d0f-11eb-a8d7-0242ac110002&sid=709d32ad-4d0f-11eb-a8d7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,EL REINO INFANTIL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=19275b10-4d10-11eb-a8d7-0242ac110002&sid=19275b10-4d10-11eb-a8d7-0242ac110002&userId=
-#EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO KIDS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=5ff8d260-4d11-11eb-a7eb-0242ac110002&sid=5ff8d260-4d11-11eb-a7eb-0242ac110002&userId=
+
 #EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -344,8 +342,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="CANALES PELICULAS", *CANALES PELICULAS*
-#EXTINF:-801 tvg-logo="https://i.postimg.cc/FsQdJYCv/flixtube.png" group-title="CINE Y SERIES", FLIXTUBE ESTRENOS
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO 3",*GOLDEN
 https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
 
@@ -1812,6 +1808,3 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5a9447_e711383b6bf14d4584413b45e55a0a0d~mv2.png/v1/fill/w_130,h_130,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20PLANO.webp" group-title="CINE Y SERIES",SAN RAFAEL TV
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DREIKOTV CANAL 24/7
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
