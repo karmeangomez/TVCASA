@@ -10,9 +10,9 @@ https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1ecf921267c068983de79e220f062fdf302abbda&st.mq=2&st.mvid=1634891139807&st.ip=187.162.101.45&st.dla=on&st.exp=1633577658030&st.hls=on&_prevCmd=movieLayer&tkn=8260
 #EXTINF:-1, KIDSPLAY - ESTRENOS
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1, ZPTV ESTRENOS
+#EXTINF:-1, ZPTV - ESTRENOS
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,GEOVISION ESTRENOS
+#EXTINF:-1,GEOVISION - ESTRENOS
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-73 tvg-logo="https://i.postimg.cc/7P2YVB8r/FMTV-1.png" group-title="CINE Y SERIES", FMTV - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
@@ -57,32 +57,29 @@ https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, 24H | CINEMA DISNEY PIXAR
 
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
-#EXTINF:-1, 24H | GARFIELD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18577
+#EXTINF:-1, 24H | MALCOLM EL DE ENMEDIO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818
+#EXTINF:-1, 24H | LOS SIMPSON HD
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29412 
 #EXTINF:-1, 24H | EL CHAVO ANIMADO
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/18576
+#EXTINF:-1, 24H | DANIEL EL TRAVIESO
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44721
+#EXTINF:-1, 24H | GARFIELD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18577
 #EXTINF:-1, 24H | DRAGON BALL SUPER
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/29406
+#EXTINF:-1, 24H | DRAGON BALL GT
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44344
 #EXTINF:-1, 24H | FUTURAMA
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/29407
 #EXTINF:-1, 24H | LOONEY TUNES
 
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/29409
 
-#EXTINF:-1, 24H | LOS SIMPSON HD
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29412 
-#EXTINF:-1, 24H | DANIEL EL TRAVIESO
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44721 
-
-
-#EXTINF:-1, 24H | MALCOLM
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818 
-#EXTINF:-1, 24H | DRAGON BALL GT
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44344
- 
 #EXTINF:-1, 24H | DUCK DODGERS
 
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/44723
@@ -95,9 +92,6 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
 
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
  
-
-
-
 #EXTINF:-1 group-title="CANALES PRINCIPALES", *CANALES PRINCIPALES*
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
