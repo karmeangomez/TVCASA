@@ -1,14 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , HOLA ANDY Y JERRY
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 04/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LeEHRv50LOE/T0HSdBsfcyI/AAAAAAAAAtk/J8IMgfMkH8M/s1600/mision-sos.jpg", MISION S.O.S - PROXIMAMENTE
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 119
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ae9ba55784150cf389e989a2790a0e5357b24f15&st.mq=2&st.mvid=1634889108191&st.ip=187.162.101.45&st.dla=on&st.exp=1633577560757&st.hls=on&_prevCmd=movieLayer&tkn=4763
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 120
+
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1ecf921267c068983de79e220f062fdf302abbda&st.mq=2&st.mvid=1634891139807&st.ip=187.162.101.45&st.dla=on&st.exp=1633577658030&st.hls=on&_prevCmd=movieLayer&tkn=8260
+#EXTINF:-1, KIDSPLAY - ESTRENOS
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, ZPTV ESTRENOS
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,GEOVISION ESTRENOS
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-73 tvg-logo="https://i.postimg.cc/7P2YVB8r/FMTV-1.png" group-title="CINE Y SERIES", FMTV - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV - RECOMENDADO
@@ -29,7 +34,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=709d32ad-4d0f-11eb-a8d7-0242ac110002&sid=709d32ad-4d0f-11eb-a8d7-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV" group-title="CANALES PLUTO TV" ,PLUTO ANIME - CARICATURAS RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=f18105c5-4d4a-11eb-91f7-0242ac110002&sid=f18105c5-4d4a-11eb-91f7-0242ac110002&userId=
-#EXTINF:-77 tvg-logo="https://i.postimg.cc/jdC6ZwQ7/RETRO-TV-PALMARES.png" group-title="CINE Y SERIES", RETRO TV CARICATURAS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdC6ZwQ7/RETRO-TV-PALMARES.png" group-title="CINE Y SERIES", RETRO TV CARICATURAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTIL", RETROCARTOONS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -47,10 +52,53 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1, CINE CLUB
+https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, 24H | CINEMA DISNEY PIXAR
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
+#EXTINF:-1, 24H | GARFIELD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18577
+#EXTINF:-1, 24H | EL CHAVO ANIMADO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18576
+#EXTINF:-1, 24H | DRAGON BALL SUPER
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29406
+#EXTINF:-1, 24H | FUTURAMA
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29407
+#EXTINF:-1, 24H | LOONEY TUNES
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29409
+
+#EXTINF:-1, 24H | LOS SIMPSON HD
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29412 
+#EXTINF:-1, 24H | DANIEL EL TRAVIESO
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44721 
+
+
+#EXTINF:-1, 24H | MALCOLM
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818 
+#EXTINF:-1, 24H | DRAGON BALL GT
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44344
+ 
+#EXTINF:-1, 24H | DUCK DODGERS
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44723
+
+#EXTINF:-1, 24H | LOS PICAPIEDRAS
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
+
+#EXTINF:-1, 24H | TOM Y JERRY
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
+ 
+
+
 
 #EXTINF:-1 group-title="CANALES PRINCIPALES", *CANALES PRINCIPALES*
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/4857557a21d9cd0998d10b3595112513.gif" group-title="ENTRETENIMIENTO 5", NEOX
-http://flowfhd.xyz:25461/Annabelle/12345/180428
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/GtXNFhFn/estrella_news.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA NEWS
@@ -148,7 +196,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" , BITME  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Boing.svg" , BOING
-http://dimapro.cz:8080/00:1A:79:16:FD:06/ziajdjjfdifjd64646/38503
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3119
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE - NIÑOS
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA NIÑOS
