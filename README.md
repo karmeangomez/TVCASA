@@ -3,8 +3,14 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H | LA CASA DE LOS FAMOSOS
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM3 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LeEHRv50LOE/T0HSdBsfcyI/AAAAAAAAAtk/J8IMgfMkH8M/s1600/mision-sos.jpg", MISION S.O.S - PROXIMAMENTE
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
