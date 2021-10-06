@@ -8,7 +8,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/index_2500_av-p.m3u8?sd=10&rebase=on
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM3 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
