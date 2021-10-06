@@ -166,19 +166,19 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Boing.svg" , BOING
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3119
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="LAT: Boing" tvg-logo="http://xtream-coders.com/x0/kids/boing.png" group-title="¦ CARICATURAS",LAT: Boing
+http://chapotv.com:8080/live/Miguel/Miguel2020/115387.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE - NIÑOS
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA NIÑOS
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Disney_Channel#/media/Archivo:2019_Disney_Channel_logo.svg", DISNEY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="INFANTIL", Disney Channel 720p
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Disney_Channel#/media/Archivo:2019_Disney_Channel_logo.svg", DISNEY CHANNEL 1080
-http://45.225.204.7:8000/play/a067
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/kids/disney_channel.png", DISNEY CHANNEL HD
+http://chapotv.com:8080/live/Miguel/Miguel2020/140612.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="LAT: Cartoon Network | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/cartoonn.png" group-title="¦ CARICATURAS",LAT: Cartoon Network | Mexico
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/kids/cartoonn.png", CARTOON NETWORK HD
 http://chapotv.com:8080/live/Miguel/Miguel2020/140608.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="¦ CARICATURAS",LAT: Nickelodeon | Mexico
 http://chapotv.com:8080/live/Miguel/Miguel2020/140610.m3u8
@@ -187,7 +187,9 @@ http://45.225.204.7:8000/play/a018
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , TEEN NICK  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8   
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8 
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="LAT: Disney XD | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/disney_xd.png" group-title="¦ CARICATURAS",LAT: Disney XD | Mexico
+http://chapotv.com:8080/live/Miguel/Miguel2020/140607.m3u8  
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Boomerang_(canal_de_televisi%C3%B3n)#/media/Archivo:Boomerang_2014_logo.svg" , BOOMERANG
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=115&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" , BABY TV 
