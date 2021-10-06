@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 06/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
-#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS KIDS - ESTRENOS 
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
+#EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM3 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
@@ -69,41 +67,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1, CINE CLUB
 https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, 24H | MALCOLM EL DE ENMEDIO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818
-#EXTINF:-1, 24H | LOS SIMPSON HD
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29412 
-#EXTINF:-1, 24H | EL CHAVO ANIMADO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18576
-#EXTINF:-1, 24H | DANIEL EL TRAVIESO
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44721
-#EXTINF:-1, 24H | GARFIELD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18577
-#EXTINF:-1, 24H | DRAGON BALL SUPER
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29406
-#EXTINF:-1, 24H | DRAGON BALL GT
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44344
-#EXTINF:-1, 24H | FUTURAMA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29407
-#EXTINF:-1, 24H | LOONEY TUNES
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29409
-
-#EXTINF:-1, 24H | DUCK DODGERS
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44723
-
-#EXTINF:-1, 24H | LOS PICAPIEDRAS
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
-
-#EXTINF:-1, 24H | TOM Y JERRY
-
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
- 
 #EXTINF:-1 group-title="CANALES PRINCIPALES", *CANALES PRINCIPALES*
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
@@ -215,8 +178,10 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
 http://45.225.204.7:8000/play/a067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK HD
-http://45.225.204.7:8000/play/a05w
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="LAT: Cartoon Network | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/cartoonn.png" group-title="¦ CARICATURAS",LAT: Cartoon Network | Mexico
+http://chapotv.com:8080/live/Miguel/Miguel2020/140608.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="¦ CARICATURAS",LAT: Nickelodeon | Mexico
+http://chapotv.com:8080/live/Miguel/Miguel2020/140610.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
 http://45.225.204.7:8000/play/a018
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , TEEN NICK  
@@ -1365,3 +1330,42 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605" group-title="ENTRETENIMIENTO 4", 24H | Cinema Disney Pixar
 http://flowfhd.xyz:25461/Annabelle/12345/186788
+
+#EXTINF:-1, 24H | CINEMA DISNEY PIXAR
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
+#EXTINF:-1, 24H | MALCOLM EL DE ENMEDIO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818
+#EXTINF:-1, 24H | LOS SIMPSON HD
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29412 
+#EXTINF:-1, 24H | EL CHAVO ANIMADO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18576
+#EXTINF:-1, 24H | DANIEL EL TRAVIESO
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44721
+#EXTINF:-1, 24H | GARFIELD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18577
+#EXTINF:-1, 24H | DRAGON BALL SUPER
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29406
+#EXTINF:-1, 24H | DRAGON BALL GT
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44344
+#EXTINF:-1, 24H | FUTURAMA
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29407
+#EXTINF:-1, 24H | LOONEY TUNES
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/29409
+
+#EXTINF:-1, 24H | DUCK DODGERS
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44723
+
+#EXTINF:-1, 24H | LOS PICAPIEDRAS
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
+
+#EXTINF:-1, 24H | TOM Y JERRY
+
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
+ 
