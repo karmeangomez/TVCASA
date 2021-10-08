@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 07/OCT/21*
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 08/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
@@ -8,7 +8,7 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
-http://chapotv.com:8080/live/Miguel/Miguel2020/107333.m3u8
+http://appleiptv.com:25461/live/1819/1819/30544.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -21,10 +21,14 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 123
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e4260c29432a6cd106f72ccff79d357811cacbfa&st.mq=2&st.mvid=1634897824479&st.ip=187.162.101.45&st.dla=on&st.exp=1633652443553&st.hls=on&_prevCmd=movieLayer&tkn=8103
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 124
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bd02ebd463a0039bbb8624ec2856665f7eee876a&st.mq=2&st.mvid=1634899856095&st.ip=187.162.101.45&st.dla=on&st.exp=1633711073615&st.hls=on&_prevCmd=movieLayer&tkn=5232
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 125
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=665f95ea9f0d2bd79a632d7bcd5704dd4e877ae4&st.mq=2&st.mvid=1634902149855&st.ip=187.162.101.45&st.dla=on&st.exp=1633711116386&st.hls=on&_prevCmd=movieLayer&tkn=7798
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 126
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e33941a4f4777c3e78993b0756f70560e38e4dae&st.mq=2&st.mvid=1634987346655&st.ip=187.162.101.45&st.dla=on&st.exp=1633711193831&st.hls=on&_prevCmd=movieLayer&tkn=9033
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 127
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0896b983f21b2d700d689e5a5b999fec9b9077b1&st.mq=2&st.mvid=1634989574879&st.ip=187.162.101.45&st.dla=on&st.exp=1633838242132&st.hls=on&_prevCmd=movieLayer&tkn=9383
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
@@ -37,8 +41,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1, d - ESTRENOS
-https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/60b56be1000ea50835fa1e63/publish/media_300.m3u8?aid=5fea09a071a9945deebf5f7c&uid=bEC607R5qQpdeK8jiTohyv7RwfrOZUQp&sid=UgJYbNWEuC8cPWp1LU3oWlXuVcr5PD2b&pid=xtcv2vXnSQ91lenSmTIXxrWsIK75RTau&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1633753772021&ot=ol9WNwwZM_SfridvY20nVg&proto=https&pz=us
 #EXTINF:-1, KIDSPLAY - ESTRENOS
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, ZPTV - ESTRENOS
@@ -70,6 +72,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", *CANALES PRINCIPALES*
+#EXTINF:-1, Univision
+
+http://appleiptv.com:25461/live/1819/1819/27211.m3u8
+
+#EXTINF:-1, Univision East
+
+http://appleiptv.com:25461/live/1819/1819/27395.m3u8
+
+#EXTINF:-1, Univision tlnovelas
+
+http://appleiptv.com:25461/live/1819/1819/27399.m3u8
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/GtXNFhFn/estrella_news.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA NEWS
