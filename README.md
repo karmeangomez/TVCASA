@@ -21,14 +21,14 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 123
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e4260c29432a6cd106f72ccff79d357811cacbfa&st.mq=2&st.mvid=1634897824479&st.ip=187.162.101.45&st.dla=on&st.exp=1633652443553&st.hls=on&_prevCmd=movieLayer&tkn=8103
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 124
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bd02ebd463a0039bbb8624ec2856665f7eee876a&st.mq=2&st.mvid=1634899856095&st.ip=187.162.101.45&st.dla=on&st.exp=1633711073615&st.hls=on&_prevCmd=movieLayer&tkn=5232
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 125
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=665f95ea9f0d2bd79a632d7bcd5704dd4e877ae4&st.mq=2&st.mvid=1634902149855&st.ip=187.162.101.45&st.dla=on&st.exp=1633711116386&st.hls=on&_prevCmd=movieLayer&tkn=7798
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 126
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e33941a4f4777c3e78993b0756f70560e38e4dae&st.mq=2&st.mvid=1634987346655&st.ip=187.162.101.45&st.dla=on&st.exp=1633711193831&st.hls=on&_prevCmd=movieLayer&tkn=9033
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 127
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e1807ac79ef4110e1b1c8607cff7a3f6eca096bc&st.mq=2&st.mvid=1634989574879&st.ip=187.162.101.45&st.dla=on&st.exp=1633919228087&st.hls=on&_prevCmd=movieLayer&tkn=905
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 128
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3144c3edc03f5285506dec66eee1ad4da2999feb&st.mq=2&st.mvid=1634992130783&st.ip=187.162.101.45&st.dla=on&st.exp=1633919317143&st.hls=on&_prevCmd=movieLayer&tkn=7913
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 129
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=06cff6168457c39fea7d8fd2b10bd48b18303d18&st.mq=2&st.mvid=1634993834719&st.ip=187.162.101.45&st.dla=on&st.exp=1633919378055&st.hls=on&_prevCmd=movieLayer&tkn=185
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 130
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bf479100042308fbf7509ba5c002ef4ecd74b33c&st.mq=2&st.mvid=1634995866335&st.ip=187.162.101.45&st.dla=on&st.exp=1633919426492&st.hls=on&_prevCmd=movieLayer&tkn=5847
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
