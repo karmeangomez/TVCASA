@@ -8,7 +8,7 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
-https://bit.ly/3oKStbj
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvQEyYZo8EYdNmNV9fTrEb9fRUxLbJkmYzevYnDDGkkhS-jD0VTCSy1S7Y4tldAwx5MFpm9yQvtQTvzbiH9ttzJPkqSma3J02s_xAvKBQFOtQyT_W2L3TxJRVGERGOhFAZCy4NRBGpOZ51gofgR9uzvLXEm2hdkeFyr5QEK3bvMIrYg9AbafnSEvJp_zB_0rOYEk7TTPiA1eIhdSnb76_ASMtiRnd3bTZZU93RPZ3NYQfwVyjBDCN0Qmk6J0JZATJJd9IAL2Xgvzm_8-C-tEu4bIV_2xx3cotlAus1-cOaHM2NRoV7l9psHyhxcyuarDS3U1o-Cyib53YXMvOHdmgKnbbgtjy6EjSPZeqkmljx0gQKpoDYOwjrduSvatrOvLf4bOdnBHY06cCh_OgJe3AC1fDoBm2z8fifI4MaoRGEh_pWQCFdGy58-BoyGy2v9I9SB7MGWceSdFBJOM5my46x6njR3fmyL_BJWqK15kjHiIzO0rBa0BKcBVUuwDDA9ZtYaVfvH7EPFaSvSAqTRUD1vuW6ApcT2DreX3UfW7UemG1IShLrUdEtwnkQvhW3fChCBIP6gNKxxSVelCIJn5FAMJza4K4R6XlUm1RjwoHFKpSTai9nrOJYFHb66vZBdooc5Ki4QR72f4ZtE3GcuIl-UQzBj_nOaQFg0AnX4cbfj-xVk6diBnAGt0913yrfEzyHUnhMzKnZZHIFAjorYv2zxhzG2RyVjaxFQs7m8GxmzoUpOZr989j8OJnfE-WTpEv-F-imuzUBry6eHbHzpgMs2keH6DWgUbKMe3XV-0SVT_ufLOu0Clix4HGD94ElNR0Qvodo-W9hoModTHCTPUx_bu-1emIAEqCWV1LXdlc3QtMjCCAg.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
