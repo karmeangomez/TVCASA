@@ -22,11 +22,11 @@ https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://photos1.blogger.com/blogger/1685/2908/1600/rev0.1.jpg", RBD
 https://ia601400.us.archive.org/16/items/no-me-importa-letra-rbd-angelique-boyer-zoraida-gome-z-amp-estefania-villareal/NO%20ME%20IMPORTA%20%28Letra%29%20RBD%20-%20ANGELIQUE%20BOYER%2C%20ZORAIDA%20GOM%C3%89Z%20%26amp%3B%20ESTEFANIA%20VILLAREAL.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 1
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=28a8f8da30a342d375f2e79e5b54776a899da85c&st.mq=2&st.mvid=2220920670744&st.ip=187.162.101.45&st.dla=on&st.exp=1634085114896&st.hls=on&_prevCmd=movieLayer&tkn=9828
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e8cd00a565757d40662314809a058dbab5606f80&st.mq=2&st.mvid=2220920670744&st.ip=187.162.101.45&st.dla=on&st.exp=1634091440287&st.hls=on&_prevCmd=movieLayer&tkn=6706
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 2
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d8877b27e39573417c5726f079b725dac79b639f&st.mq=2&st.mvid=2225097738776&st.ip=187.162.101.45&st.dla=on&st.exp=1634085239392&st.hls=on&_prevCmd=movieLayer&tkn=7550
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8239c96a9a06d5b08052785da7262c84cde8f8cc&st.mq=2&st.mvid=2225097738776&st.ip=187.162.101.45&st.dla=on&st.exp=1634091531162&st.hls=on&_prevCmd=movieLayer&tkn=5084
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 3
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9ad92ce011fff7b25496b30fd3ba8b99e9f4d6b3&st.mq=2&st.mvid=2225113860632&st.ip=187.162.101.45&st.dla=on&st.exp=1634085309384&st.hls=on&_prevCmd=movieLayer&tkn=7513
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ab24d07a8c6e06e608f483f270964e27f038fd13&st.mq=2&st.mvid=2225113860632&st.ip=187.162.101.45&st.dla=on&st.exp=1634091598463&st.hls=on&_prevCmd=movieLayer&tkn=6051
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
