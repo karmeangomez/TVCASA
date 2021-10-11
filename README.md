@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 09/OCT/21*
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 10/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
@@ -17,20 +17,16 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LeEHRv50LOE/T0HSdBsfcyI/AAAAAAAAAtk/J8IMgfMkH8M/s1600/mision-sos.jpg", MISION S.O.S - PROXIMAMENTE
-https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 131
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c9360cc71fbd2ca697677c0bda3d24a91279dcb8&st.mq=2&st.mvid=1635607055071&st.ip=187.162.101.45&st.dla=on&st.exp=1634005678588&st.hls=on&_prevCmd=movieLayer&tkn=7500
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 132
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c118e48f5d760399d44d94ada51808ad530dfc6b&st.mq=2&st.mvid=1635624684255&st.ip=187.162.101.45&st.dla=on&st.exp=1634005770465&st.hls=on&_prevCmd=movieLayer&tkn=2730
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 133
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=800a0229fb2929ea1185027a78a6568b436f43ac&st.mq=2&st.mvid=1635627895519&st.ip=187.162.101.45&st.dla=on&st.exp=1634005828676&st.hls=on&_prevCmd=movieLayer&tkn=878
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 134
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=91568b6bfe7a9079f865b9098f9ffd939cdd1983&st.mq=2&st.mvid=1635630123743&st.ip=187.162.101.45&st.dla=on&st.exp=1634005893238&st.hls=on&_prevCmd=movieLayer&tkn=3183
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS FIN
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fc50af3d0356965dd9adc9bb6752959dd481a15e&st.mq=2&st.mvid=1635634449119&st.ip=187.162.101.45&st.dla=on&st.exp=1634005966584&st.hls=on&_prevCmd=movieLayer&tkn=8921
+#EXTINF:-1 tvg-logo="https://photos1.blogger.com/blogger/1685/2908/1600/rev0.1.jpg", RBD
+https://ia601400.us.archive.org/16/items/no-me-importa-letra-rbd-angelique-boyer-zoraida-gome-z-amp-estefania-villareal/NO%20ME%20IMPORTA%20%28Letra%29%20RBD%20-%20ANGELIQUE%20BOYER%2C%20ZORAIDA%20GOM%C3%89Z%20%26amp%3B%20ESTEFANIA%20VILLAREAL.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=28a8f8da30a342d375f2e79e5b54776a899da85c&st.mq=2&st.mvid=2220920670744&st.ip=187.162.101.45&st.dla=on&st.exp=1634085114896&st.hls=on&_prevCmd=movieLayer&tkn=9828
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 2
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d8877b27e39573417c5726f079b725dac79b639f&st.mq=2&st.mvid=2225097738776&st.ip=187.162.101.45&st.dla=on&st.exp=1634085239392&st.hls=on&_prevCmd=movieLayer&tkn=7550
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 3
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9ad92ce011fff7b25496b30fd3ba8b99e9f4d6b3&st.mq=2&st.mvid=2225113860632&st.ip=187.162.101.45&st.dla=on&st.exp=1634085309384&st.hls=on&_prevCmd=movieLayer&tkn=7513
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
@@ -74,17 +70,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", *CANALES PRINCIPALES*
-#EXTINF:-1, Univision
-
-http://appleiptv.com:25461/live/1819/1819/27211.m3u8
-
-#EXTINF:-1, Univision East
-
-http://appleiptv.com:25461/live/1819/1819/27395.m3u8
-
-#EXTINF:-1, Univision tlnovelas
-
-http://appleiptv.com:25461/live/1819/1819/27399.m3u8
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/GtXNFhFn/estrella_news.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA NEWS
@@ -1389,6 +1374,5 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
 
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
  
-
- 
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LeEHRv50LOE/T0HSdBsfcyI/AAAAAAAAAtk/J8IMgfMkH8M/s1600/mision-sos.jpg", MISION S.O.S - PROXIMAMENTE
+https://bit.ly/3izvT1v
