@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 10/OCT/21*
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 11/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
@@ -21,12 +21,12 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://photos1.blogger.com/blogger/1685/2908/1600/rev0.1.jpg", RBD
 https://ia601400.us.archive.org/16/items/no-me-importa-letra-rbd-angelique-boyer-zoraida-gome-z-amp-estefania-villareal/NO%20ME%20IMPORTA%20%28Letra%29%20RBD%20-%20ANGELIQUE%20BOYER%2C%20ZORAIDA%20GOM%C3%89Z%20%26amp%3B%20ESTEFANIA%20VILLAREAL.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 1
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e8cd00a565757d40662314809a058dbab5606f80&st.mq=2&st.mvid=2220920670744&st.ip=187.162.101.45&st.dla=on&st.exp=1634091440287&st.hls=on&_prevCmd=movieLayer&tkn=6706
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 2
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8239c96a9a06d5b08052785da7262c84cde8f8cc&st.mq=2&st.mvid=2225097738776&st.ip=187.162.101.45&st.dla=on&st.exp=1634091531162&st.hls=on&_prevCmd=movieLayer&tkn=5084
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 3
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ab24d07a8c6e06e608f483f270964e27f038fd13&st.mq=2&st.mvid=2225113860632&st.ip=187.162.101.45&st.dla=on&st.exp=1634091598463&st.hls=on&_prevCmd=movieLayer&tkn=6051
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 4
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2658c826f348801baf8dc12eb2829714e0394100&st.mq=2&st.mvid=2225114647064&st.ip=187.162.101.45&st.dla=on&st.exp=1634174746931&st.hls=on&_prevCmd=movieLayer&tkn=2471
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 5
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=5f960ed86b08779c0a1c9627c6095311011b1677&st.mq=2&st.mvid=2225805462040&st.ip=187.162.101.45&st.dla=on&st.exp=1634174839421&st.hls=on&_prevCmd=movieLayer&tkn=5668
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 6
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c8e0dbf5dca16b24755e8fc03b9f6e2545725690&st.mq=2&st.mvid=2225132866072&st.ip=187.162.101.45&st.dla=on&st.exp=1634174936694&st.hls=on&_prevCmd=movieLayer&tkn=4785
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
