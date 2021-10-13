@@ -171,8 +171,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2 APP
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia801401.us.archive.org/26/items/8037-b-19-d-9744-4409-9-cba-dee-2652-cb-057/8037B19D-9744-4409-9CBA-DEE2652CB057.png" , *GUIA CANALES INFANTILES*
-https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
+#EXTINF:-1 tvg-logo="https://ia801401.us.archive.org/26/items/8037-b-19-d-9744-4409-9-cba-dee-2652-cb-057/8037B19D-9744-4409-9CBA-DEE2652CB057.png" , pocoyo
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/BhyhtOXgKHQ/live
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/ae-5-be-9-c-6-409-e-4989-a-4-c-8-d-86-d-56479-d-10/AE5BE9C6-409E-4989-A4C8-D86D56479D10.png" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" , BITME  
