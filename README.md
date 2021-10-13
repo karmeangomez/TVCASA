@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 11/OCT/21*
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , *ACTUALIZADO 12/OCT/21*
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
@@ -8,7 +8,7 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
-https://usher.ttvnw.net/api/channel/hls/tl_205llt.m3u8?playlist_include_framerate=true&allow_source=true&player_type=site&player_backend=mediaplayer&token=%7B%22adblock%22:false,%22authorization%22:%7B%22forbidden%22:false,%22reason%22:%22%22%7D,%22blackout_enabled%22:false,%22channel%22:%22tl_205llt%22,%22channel_id%22:730096157,%22chansub%22:%7B%22restricted_bitrates%22:%5B%5D,%22view_until%22:1924905600%7D,%22ci_gb%22:false,%22geoblock_reason%22:%22%22,%22device_id%22:%22W8iOJtmYD0kHeZwIdCwfhBBiNOI7g3bW%22,%22expires%22:1634085795,%22extended_history_allowed%22:false,%22game%22:%22%22,%22hide_ads%22:false,%22https_required%22:false,%22mature%22:false,%22partner%22:false,%22platform%22:%22web%22,%22player_type%22:%22site%22,%22private%22:%7B%22allowed_to_view%22:true%7D,%22privileged%22:false,%22role%22:%22%22,%22server_ads%22:true,%22show_ads%22:true,%22subscriber%22:false,%22turbo%22:false,%22user_id%22:null,%22user_ip%22:%22187.162.101.45%22,%22version%22:2%7D&sig=f49313aac2f763b1a858bd22d60caed7c4ba65ab
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvQEyYZo8EYdNmNV9fTrEb9fRUxLbJkmYzevYnDDGkkhS-jD0VTCSy1S7Y4tldAwx5MFpm9yQvtQTvzbiH9ttzJPkqSma3J02s_xAvKBQFOtQyT_W2L3TxJRVGERGOhFAZCy4NRBGpOZ51gofgR9uzvLXEm2hdkeFyr5QEK3bvMIrYg9AbafnSEvJp_zB_0rOYEk7TTPiA1eIhdSnb76_ASMtiRnd3bTZZU93RPZ3NYQfwVyjBDCN0Qmk6J0JZATJJd9IAL2Xgvzm_8-C-tEu4bIV_2xx3cotlAus1-cOaHM2NRoV7l9psHyhxcyuarDS3U1o-Cyib53YXMvOHdmgKnbbgtjy6EjSPZeqkmljx0gQKpoDYOwjrduSvatrOvLf4bOdnBHY06cCh_OgJe3AC1fDoBm2z8fifI4MaoRGEh_pWQCFdGy58-BoyGy2v9I9SB7MGWceSdFBJOM5my46x6njR3fmyL_BJWqK15kjHiIzO0rBa0BKcBVUuwDDA9ZtYaVfvH7EPFaSvSAqTRUD1vuW6ApcT2DreX3UfW7UemG1IShLrUdEtwnkQvhW3fChCBIP6gNKxxSVelCIJn5FAMJza4K4R6XlUm1RjwoHFKpSTai9nrOJYFHb66vZBdooc5Ki4QR72f4ZtE3GcuIl-UQzBj_nOaQFg0AnX4cbfj-xVk6diBnAGt0913yrfEzyHUnhMzKnZZHIFAjorYv2zxhzG2RyVjaxFQs7m8GxmzoUpOZr989j8OJnfE-WTpEv-F-imuzUBry6eHbHzpgMs2keH6DWgUbKMe3XV-0SVT_ufLOu0Clix4HGD94ElNR0Qvodo-W9hoModTHCTPUx_bu-1emIAEqCWV1LXdlc3QtMjCCAg.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -21,16 +21,24 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://photos1.blogger.com/blogger/1685/2908/1600/rev0.1.jpg", RBD
 https://ia601400.us.archive.org/16/items/no-me-importa-letra-rbd-angelique-boyer-zoraida-gome-z-amp-estefania-villareal/NO%20ME%20IMPORTA%20%28Letra%29%20RBD%20-%20ANGELIQUE%20BOYER%2C%20ZORAIDA%20GOM%C3%89Z%20%26amp%3B%20ESTEFANIA%20VILLAREAL.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 4
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1d2bedccee1cd38d9f35fc50336e7f07f26b6ada&st.mq=2&st.mvid=2225114647064&st.ip=187.162.101.45&st.dla=on&st.exp=1634176928758&st.hls=on&_prevCmd=movieLayer&tkn=3993
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 5
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ae19ff88ea5358251e37b4b0dc54766ae4ec46fa&st.mq=2&st.mvid=2225805462040&st.ip=187.162.101.45&st.dla=on&st.exp=1634177009712&st.hls=on&_prevCmd=movieLayer&tkn=8522
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 6
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=731d9484b75d499c1659ab0d1b845034fff7b7db&st.mq=2&st.mvid=2225132866072&st.ip=187.162.101.45&st.dla=on&st.exp=1634177076035&st.hls=on&_prevCmd=movieLayer&tkn=3828
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=28a8f8da30a342d375f2e79e5b54776a899da85c&st.mq=2&st.mvid=2220920670744&st.ip=187.162.101.45&st.dla=on&st.exp=1634085114896&st.hls=on&_prevCmd=movieLayer&tkn=9828
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 2
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d8877b27e39573417c5726f079b725dac79b639f&st.mq=2&st.mvid=2225097738776&st.ip=187.162.101.45&st.dla=on&st.exp=1634085239392&st.hls=on&_prevCmd=movieLayer&tkn=7550
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg", REBELDE 3
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9ad92ce011fff7b25496b30fd3ba8b99e9f4d6b3&st.mq=2&st.mvid=2225113860632&st.ip=187.162.101.45&st.dla=on&st.exp=1634085309384&st.hls=on&_prevCmd=movieLayer&tkn=7513
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
 https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
+https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
+#EXTINF:-1, NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fmex7-2.fna.fbcdn.net/v/t1.6435-9/147713841_5204326662942106_384203605562421921_n.png?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=WYQ_XMn2WBUAX_DkknN&_nc_ht=scontent.fmex7-2.fna&oh=fdcb665fcaa729fdec70eb4a472a3413&oe=618CC010" group-title="CANALES INFANTILES", DREIKOTV KIDS
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
+#EXTINF:-1, TATALTV -KIDS 
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://t4.kn3.net/taringa/7/1/3/5/6/9/maxidragon/FDD.jpg" group-title="CINE Y SERIES", RETRO TV CARICATURAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png" , RUGRATS CRECIDOS
