@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★13-OCT-21★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0a/72/f2/0a72f23f9e04c5c1ae115e9e907e0e35.png", 24H | MALCOLM
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_en_el_medio
 #EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS KIDS - ESTRENOS
@@ -32,7 +34,7 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CuwEWPNBNxLsZ4-7BQEaCp3WvCcylxmSWm_UtpWIoDraIOS0wcu6PtWOfLCjMfQaTnOR25UMyZTxji0zQj76x0iisdaOpeWdh3TJ0CT6CQKGA-_EM57KkddakNGgpgmbnpEjEN1PmABkOEVcIYC9f88oNX9T0haTSSd-UONV6kqTtdIvKlZRyy51FDNIgPW41yZaZgcO296sp6AbKGtPAgcVXZMKqd3BKKf8cA7zSV7Q-NjNIVX0s0TMdEV78RPgLaPiGD0YWe1siva5-ziIi-egggh23xIYzhGfAYM0A5nxjLTQuPqylqT_eNf2L9G_OCcX7iPteV5MkCet86qJLDDC4sWGSfOyeKOG91abYrqp8fsgb9OBQaUFBQx157zCLk-_KnoZXehOtPDW6TQKlRjNyFtc3gaXGo1v-KWy_cM8iWhxA_yxJ-g9Vq1choktzLHCqaRjxnL75HqR3-fve9wb66NbnfO5hkT01lGozNJbmKx9qI5KEbRRMe9OxsnrB-QLAIUsa3qusAs9cdBI0RcIpK_jWPZYC7AL5LUaucnQw6JMIiMeRZiJVsCTNO6u0SuxG3uDxJptFO8Cx_acq9jmmKVyn8GREwtcuLar3l4-yZjHDGRfgsOv4164rmnsCsIhig71De5AYY8O4Z051HWmwD_7wHAXzhA5DO8wA25EhN55LM2WJ0yOr5nUsazy0OqnByc1r9q1je14aYVA_z-SpA4seLUytRTuxUIhNLnATDFyjxEu58QFFfB9SQh09jvIO_p-1IxtvSQg9_ESL4p0hTpV-YHPJrrnpFfZzPMVnlhasT9XmOspyYb-bzUaDH8NQT4q-_BSweRzyyABKglldS13ZXN0LTIwhgI.m3u8
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/kdeoficial
 #EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/46-469709_sailor-moon-sailor-moon-png-logo.png", ENERGEEK
 https://tvstreaming.cl:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAz_rFFzMlzm8pgVhcVq9PxzjOmeHWGHJSykuw=s900-mo-c-c0xffffffff-rj-k-no", RETRO TV
