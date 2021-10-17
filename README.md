@@ -5,12 +5,8 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_en_el_medio
 #EXTINF:-1, TELECLASICOS - KIDS
 https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 13
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ddb6c3e6a8e4a2ba41011bd8db1755ec7a096061&st.mq=2&st.mvid=2225314728472&st.ip=187.162.101.45&st.dla=on&st.exp=1634529939984&st.hls=on&_prevCmd=movieLayer&tkn=4837
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 14
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9548a2b78a5f6b2bd12ff9eb3b0140cd5ba6504d&st.mq=2&st.mvid=2225315252760&st.ip=187.162.101.45&st.dla=on&st.exp=1634530296096&st.hls=on&_prevCmd=movieLayer&tkn=4168
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 15
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0168a1e97e459a7c85396218c3f010063dcf77cd&st.mq=2&st.mvid=2225315318296&st.ip=187.162.101.45&st.dla=on&st.exp=1634530442744&st.hls=on&_prevCmd=movieLayer&tkn=6069
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 16
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=736c51389bda7f8ceab7870a0ab8a8492d552b95&st.mq=2&st.mvid=2225484007960&st.ip=187.162.101.45&st.dla=on&st.exp=1634615844538&st.hls=on&_prevCmd=movieLayer&tkn=1130
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
