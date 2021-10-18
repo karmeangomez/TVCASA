@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★14-OCT-21★
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★17-OCT-21★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/72/f2/0a72f23f9e04c5c1ae115e9e907e0e35.png", 24H | MALCOLM
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_en_el_medio
+#EXTINF:0 tvg-logo="http://es.web.img1.acsta.net/pictures/14/06/11/10/42/410953.jpg", 24H | EL CHAVO
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/chavo_mania
 #EXTINF:-1, TELECLASICOS - KIDS
 https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 16
@@ -16,7 +18,7 @@ https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/play
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
-https://video-weaver.ord02.hls.ttvnw.net/v1/playlist/Cp8Fyf3L4dolqoKkFYC3Ip5yKkuwCpu9c7E2R7YPMEwvSkzmgnf-gLbjoH7Jmv0ukad53a8Z4bAJVwS7PbGQkHdzU-R9NO2mKWCYvQwla0TUsWN0Y_qcf52CZDkIQ79Q-g4QofIX_60YL5LssRvquHarbnjusNZ-9sa4wmGaoEreEodo_rlfgW_3yhJ0Qd1ps06E3ZpKjnqJBjvC2CgG2QxzdV5RMTyR8jJ0ZqWcIWFLRdQanKbDNMZ31XWe-MplJj1jf7ALZPd2zkhEF-Bk7WBAlveasZoqRZZ0aEq9fsHTq94Nzuz0qWWBnDy05mqB_C6D9eL59uPD-JmctSGAC0piwX6jWaTdozz2IstBXCU8oCJ5zKr0HXw736Vww8Kn9wPqmpW22UHSKgXPuOqxgEGYDnOYoeLD1AffzAvm3Ft_OysN1ZxV8kKLRBdaUBfccNZaNXLMfN8bXTFlNPgg4vmOMsG-2j7LvhyKqT9fxVnlNOzuBFsjD6gGeC2sPF4Y9DKQmtxm66vE12si3ucCWFfBFUqsjCNEyEi6hfaIsCySJ5oCqkypskNcEjLDpwIdCFA32YFZgxXA_9kXCdTjFUSVFDpKnxRfGJSZSDOZoC7Vw5-zf3LR1EkvNnoB8HxKbnef65ArX-zB6jOeo_fVujwKgk7unxsuUcPCopJuFuDWeRHmxDsQbr2dtOaWPKibFIRLheh2Hxlgq0E9lpi2zA79ixbbrLOydvcRftugesrViQdaQgVu8r4BqHo4pjTzIqfbpJERBHAdmZ3vW0dcQDULqE6H6iUW3TRdeVUhcu6Ayz1WRX3n3Mtl1zHlLXLoqd4H3P6sRTbHkkZM3M9vfFNLn4OFmMFSWuFGc9emAEQjSdUcgQKkyEhhijqYI2ZgYE4aDABZ2v6oAVwNjFemOiABKgl1cy1lYXN0LTIwiAI.m3u8
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/laestrellatv
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -32,7 +34,7 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
-https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqUE9Ixt7m_K4trzt6LazP14pCiNZMVwCfSWn3cmZoOzzn3X9PDCpg38LJ-mQqqLAOnNFPHL7L5ByAu52BWiqsK7EFZthL4E_AI2-bLj8id_q1sGQ-AR__tfeUmFSglaw2Po6K0dT0IBSQ37ID55KqtCCh0g1ogW5BICPxIQ5v3Bal2RBn3xFAcJlR95kru8Y1Rgj4qKBp0lrRcnC92mrMMhEilP-XzuH8vplqZYatdQZodogenyy7NWmFlBPGhPtsnkg4prhimFbrWzJguz12cxcI4CyamSInd1ZM5fVk7JdKjPFnyZRg7-PjzOZ7knsMKPNtjIa1tGh8dipnGnpXw3rW2M6xNHRp5fHGj3_DLVxsEOzcsDmbkR61Sis3YuFGh59AEYeBQJY785jj-1EtRK4pbcydtZRI70l4S0KMyxirnk8DA83QAASD2aTWSU0uEe3fA-wYPPj9o-J0iY-pyIXhSvcbSnfmSCn9SoAQGsWv7tp_hQb-wIPL2cZeoeU9-L0V_TaiDYeM5WKYHzdZdbz9cpGte2VB3PoIc6NjRYPZSuQHrO-KVsV36-Czn-mBYFjijiRfJN6bU4syyf8u9MkeK2n0nUX_F3z67hSdDhtdd0jsHK-SkIFJwWEnFoDXoQoMJvAUjCeEc6b_f9h_BSikBpBfw51HRwJEu3C6tSw4jAwEIJgwIFDEmt9Y2eXaxLnO1qA1uOhQ5vMaHPDaIcvD7b5HDZGgyRDqxeESTwm6tgNxsgASoJZXUtd2VzdC0yMIcC.m3u8
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/kdeoficial/live
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t39.30808-6/240671896_4268868183206707_8696199705357894832_n.png?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=hbyo2gYmUCYAX_1oQlp&_nc_ht=scontent.fmex7-1.fna&oh=e3c9f9f0633bff6042f21f6a7651d6d8&oe=616D008E", ENERGEEK
 https://tvstreaming.cl:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAz_rFFzMlzm8pgVhcVq9PxzjOmeHWGHJSykuw=s900-mo-c-c0xffffffff-rj-k-no", RETRO TV
