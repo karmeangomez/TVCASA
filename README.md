@@ -25,6 +25,10 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/laestrellatv/live
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO TV
 http://tv.televisionxinternet.com:25461/live/Gostreaming/Apoyanos/318.m3u8
+#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO 720
+http://tv.televisionxinternet.com:25461/live/Gostreaming/Apoyanos/303.m3u8
+#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO LA
+http://tv.televisionxinternet.com:25461/live/Gostreaming/Apoyanos/305.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
