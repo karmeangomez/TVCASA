@@ -15,12 +15,8 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 26
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ac3d6688f558b9f7504b53c7e2b0afe88dc6c49b&st.mq=2&st.mvid=2225754475032&st.ip=187.162.101.45&st.dla=on&st.exp=1634954442231&st.hls=on&_prevCmd=movieLayer&tkn=2929
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 27
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=853934c83d262d50d64a48425a21744c433e4aaf&st.mq=2&st.mvid=2225754540568&st.ip=187.162.101.45&st.dla=on&st.exp=1634954503105&st.hls=on&_prevCmd=movieLayer&tkn=9706
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 28
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d3a7c8c4584e7ee5ec19d28ca48d58f0f7891b2e&st.mq=2&st.mvid=2225754868248&st.ip=187.162.101.45&st.dla=on&st.exp=1634954567797&st.hls=on&_prevCmd=movieLayer&tkn=7205
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 29
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d4318cb8dbfb9dbc2185726b02b4ddb013f2b060&st.mq=2&st.mvid=2225755982360&st.ip=187.162.101.45&st.dla=on&st.exp=1635044201720&st.hls=on&_prevCmd=movieLayer&tkn=908
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO App
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/laestrellatv/live
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
