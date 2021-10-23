@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★20-OCT-21★
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★22-OCT-21★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4  
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png" , RUGRATS CRECIDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=e4d42b6c-4c9b-11eb-ae86-0242ac110002&sid=e4d42b6c-4c9b-11eb-ae86-0242ac110002&userId=
@@ -15,8 +15,12 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 30
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7d8b38e67f4e50453d4df7abc9fc4c14de431550&st.mq=2&st.mvid=2225755261464&st.ip=187.162.101.45&st.dla=on&st.exp=1635047294574&st.hls=on&_prevCmd=movieLayer&tkn=1625
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 31
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a2f7ffa64a0b27ecf2833e20976e15fe54bab437&st.mq=2&st.mvid=2237338028568&st.ip=187.162.101.45&st.dla=on&st.exp=1635126295382&st.hls=on&_prevCmd=movieLayer&tkn=9121
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 32
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8ee275481fecaedf05bcdcb94937fbcb590378d7&st.mq=2&st.mvid=2237342943768&st.ip=187.162.101.45&st.dla=on&st.exp=1635126363042&st.hls=on&_prevCmd=movieLayer&tkn=8930
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 33
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1aa50606f1305177caa49d64ad259285740269ee&st.mq=2&st.mvid=2237338159640&st.ip=187.162.101.45&st.dla=on&st.exp=1635126435376&st.hls=on&_prevCmd=movieLayer&tkn=881
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO App
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/farandulatv2/live
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
