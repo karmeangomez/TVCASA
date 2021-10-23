@@ -18,7 +18,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 30
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7d8b38e67f4e50453d4df7abc9fc4c14de431550&st.mq=2&st.mvid=2225755261464&st.ip=187.162.101.45&st.dla=on&st.exp=1635047294574&st.hls=on&_prevCmd=movieLayer&tkn=1625
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO App
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/laestrellatv/live
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/farandulatv2/live
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
