@@ -3,10 +3,8 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4  
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png" , RUGRATS CRECIDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=e4d42b6c-4c9b-11eb-ae86-0242ac110002&sid=e4d42b6c-4c9b-11eb-ae86-0242ac110002&userId=
-#EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
-https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/72/f2/0a72f23f9e04c5c1ae115e9e907e0e35.png", 24H | MALCOLM
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_en_el_medio
+#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/191-1915118_emoticoon-de-homero-simpsons-icon.png", 24H | LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://es.web.img1.acsta.net/pictures/14/06/11/10/42/410953.jpg", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
