@@ -13,12 +13,12 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 31
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a2f7ffa64a0b27ecf2833e20976e15fe54bab437&st.mq=2&st.mvid=2237338028568&st.ip=187.162.101.45&st.dla=on&st.exp=1635126295382&st.hls=on&_prevCmd=movieLayer&tkn=9121
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 32
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8ee275481fecaedf05bcdcb94937fbcb590378d7&st.mq=2&st.mvid=2237342943768&st.ip=187.162.101.45&st.dla=on&st.exp=1635126363042&st.hls=on&_prevCmd=movieLayer&tkn=8930
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 33
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1aa50606f1305177caa49d64ad259285740269ee&st.mq=2&st.mvid=2237338159640&st.ip=187.162.101.45&st.dla=on&st.exp=1635126435376&st.hls=on&_prevCmd=movieLayer&tkn=881
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 34
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=23898a29c6f09acc93e1b1a48390dc346fe87b7e&st.mq=2&st.mvid=2237343336984&st.ip=187.162.101.45&st.dla=on&st.exp=1635214964222&st.hls=on&_prevCmd=movieLayer&tkn=4437
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 35
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c73ebf44b0716ea300ce8470b79725341bd79052&st.mq=2&st.mvid=2237585951256&st.ip=187.162.101.45&st.dla=on&st.exp=1635215029929&st.hls=on&_prevCmd=movieLayer&tkn=4927
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 36
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a24979bf93b2735b714854fe641a3d6edb9e5246&st.mq=2&st.mvid=2237343599128&st.ip=187.162.101.45&st.dla=on&st.exp=1635215072960&st.hls=on&_prevCmd=movieLayer&tkn=9944
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO App
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/farandulatv2/live
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
