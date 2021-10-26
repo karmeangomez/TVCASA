@@ -8,7 +8,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e812
 #EXTINF:0 tvg-logo="http://es.web.img1.acsta.net/pictures/14/06/11/10/42/410953.jpg", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.prosportstickers.com/product_images/p/bart_simpson_slurpie_sticker__89009.png", 24H | LOS SIMPSONS
-
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL",24H | LOS SIMPSONS 2 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -37,15 +36,19 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids",Nick Clásico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsunghttps://kanade.projectboom.live/hls/kanade.m3u8&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="185" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Animé Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo", ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
+https://kanade.projectboom.live/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-2.fna.fbcdn.net/v/t1.6435-9/147713841_5204326662942106_384203605562421921_n.png?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=WYQ_XMn2WBUAX_DkknN&_nc_ht=scontent.fmex7-2.fna&oh=fdcb665fcaa729fdec70eb4a472a3413&oe=618CC010" group-title="CANALES INFANTILES", DREIKOTV KIDS
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-1,GEOVISION - RETRO
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANALES INFANTILES", TOONCAST - CARICATURAS RETRO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t39.30808-6/240671896_4268868183206707_8696199705357894832_n.png?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=hbyo2gYmUCYAX_1oQlp&_nc_ht=scontent.fmex7-1.fna&oh=e3c9f9f0633bff6042f21f6a7651d6d8&oe=616D008E", ENERGEEK
@@ -267,14 +270,11 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://brat-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1, TELECLASICOS - KIDS
 https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/kdeoficial/live
+
 #EXTINF:-1, KIDSPLAY - ESTRENOS
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, ZPTV - RETRO
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,GEOVISION - RETRO
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV - RECOMENDADO
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
