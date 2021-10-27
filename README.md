@@ -87,13 +87,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 #EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-chno="565" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Spain",Pluto TV Anime - SPAIN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" , WOW TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Estrella_TV?file=Estrella_TV_%25282020%2529.svg" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
+#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", A3SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Azteca_Uno_%282020%29.svg/revision/latest/scale-to-width-down/1000?cb=20210425072901" , AZTECA UNO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=27&format=HLSAD&f=.m3u8
