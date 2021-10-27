@@ -24,7 +24,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO APP
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_411md
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO 
-https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CqAEtOggZnhQM-mQ4O5iEXl4yNjzKgbZe08cjCInzjg-2j1qnGe0VwNFOLgPR70dCMITnSAqzlixH2WRrGw709aFGL2jEXCxBIXD2hRFiZ37GDk8mzCFnSiGCOki9WRdT_vb00nzZFkNDjGTcFPrcF1w5zyF_rn_lf8IxwqWBS6XyraHR_cCoVwjmBSiX6tP23FKRPJ7t9wLIO_j994JxXoZeJovXG-DAak-xrV-s3UtWrMu3ZeoDRcCrpQFX8Fh4xH8hz71LsLgR8V9w-m5MLLIHvGe3roPKT-0Vhs3BYHi_NE_8VCj2u5UtM5aGg0tJ6In-Uu9l8yY0miu8KnK2c0VLudDp4rm-UbE3_jqI8weYf9s99zUu8PDhAmpyeT1T3QW9UTHeyUBoJl5av9ygTOUbJdbiugtBVctmi77fEHfmRU0Sp5Y6b5K7oHdlnuE_4plnzyhDIF7Q4olv1coJHkdoiJgNvR0Ck2k3k5gK7K13UABx8DtzSQQRrwvihgGSGqBMQdsyA-ZFBOXRQdlFQYOvIVQPixy3w5HK6FyxPUnCYPHOSqUKUnyG7P6Ya8bZ5CsJVdD9_293SOh_lPJooyVuIMYj2D4PCIAv5qOwsYnY2YXx5dN0omGtBM0GZ0bDhvp92JkhiKN0NkXXG2tcLUOxzy3-MwKllL4s-jmPQuSQAmnn7Xa4FL850Gc0_HkmryuC-RL6SVJmW6SJsQxWZon2hoM_h_bn1bNCQJTEpYsIAEqCWV1LXdlc3QtMjCUAg.m3u8
+https://h3.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=97017881&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMSAzOjA2OjQwIFBNJmhhc2hfdmFsdWU9L2gzS2JCVWR1WktGMjJSUFUvSEo1UT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -45,13 +45,13 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://kanade.projectboom.live/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-2.fna.fbcdn.net/v/t1.6435-9/147713841_5204326662942106_384203605562421921_n.png?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=WYQ_XMn2WBUAX_DkknN&_nc_ht=scontent.fmex7-2.fna&oh=fdcb665fcaa729fdec70eb4a472a3413&oe=618CC010" group-title="CANALES INFANTILES", DREIKOTV KIDS
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Magic_Kids?file=Magickids95_00.png" group-title="CANALES INFANTILES", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="185" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Animé Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,GEOVISION - RETRO
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES INFANTILES", TOONCAST - CARICATURAS RETRO
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Tooncast?file=Tooncast.svg" group-title="CANALES INFANTILES", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t39.30808-6/240671896_4268868183206707_8696199705357894832_n.png?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=hbyo2gYmUCYAX_1oQlp&_nc_ht=scontent.fmex7-1.fna&oh=e3c9f9f0633bff6042f21f6a7651d6d8&oe=616D008E", ENERGEEK
 https://tvstreaming.cl:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -89,7 +89,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f00072602
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Estrella_TV?file=Estrella_TV_%25282020%2529.svg" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", A3SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
