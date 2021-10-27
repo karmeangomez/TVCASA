@@ -33,6 +33,12 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 40
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b0d52c042ce3756871075f75ec3896c03aba9f8c&st.mq=2&st.mvid=2237343861272&st.ip=187.162.101.45&st.dla=on&st.exp=1635470798229&st.hls=on&_prevCmd=movieLayer&tkn=6813
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 41
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=209813a609b658c0eeb9b374ec49047573a9b5be&st.mq=2&st.mvid=2237339273752&st.ip=187.162.101.45&st.dla=on&st.exp=1635470876514&st.hls=on&_prevCmd=movieLayer&tkn=3050
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 42
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ccd87f52412f91f005146e2b4cae77afb08ed3a4&st.mq=2&st.mvid=2237344057880&st.ip=187.162.101.45&st.dla=on&st.exp=1635470932876&st.hls=on&_prevCmd=movieLayer&tkn=72
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo", ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADETV - KIDS
