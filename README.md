@@ -4,7 +4,7 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV",Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO APP
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_332mdd
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_205llt
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO 
 https://video-edge-c2a614.dfw02.abs.hls.ttvnw.net/v1/segment/CqQFJF29VtqTFaeYKs7iyvKZFuJJHTozYKDjQ1oA1BN6t7G5fNdUmWUIPjFUaA3l2d9iTI9YgqavVHpEdfLeNHsOlKGqJaNXLx28nSsXsWOgd9ZseB3cbaKRqEKjXdlLa4N4vjrGfnAOemsFd4lxpvq_648dZWgUbRLMWqOTTfw_eMcQojZ8VS7L-7MY52VAG184MzB3gRuemKCVqsUc8Fn3obOCS4qs4TmTG5YdUAWY_iHbV1JKrJRMSSiv0EK9cMKp6WzaaXL6rUG4KKUgEGj4Br4odb_kB-DNEBjUGhsLw9G9d4kQYm_tO0TGYzEynC7B8aSN3pNzvDSDAqLzpyhRgu0QYNuetM5Yva-68MMfMp0SkULswRxqqRh5jA2ReSdhJxJgIpo2QXnF54ssRlnONLbHLt_VI-isu4lpiXKQebbgA_9eH8dCQUWk103Fsbd6Ri_WJvmezlaf7KmyJetu-15XU03QB2bMp0hA9r4acKi1aMIrLM1iMd6iXBtJtb6eYg6oNyryIFjV5mJipvUTsiaTDXtQbnxUzMGt9qszZV4aEwIaISqs4nNFXoAJRs3UcGHiuUbn37vZsrKWySKmjnvDdHwFG3BtK7LmoXE25ixefrIf3GixKttnJdurSNIPDuMFokMSoXFaCOKD04A1_8nLHSAZ8U7Br-2l7Otm1TijGWc0cCwqQBe-X5qo4N9TM2ymNgi3-2Hn4pdIkgkdloBKKYxAXfhKMbU4IajKE5yagtfaAb0wAQxHP8DQVPtm_qBrYM2-yTXT6ctOd-boeOV3cPnNslTrqTX1pKCm0bjETf9XaD0TLhbHEZjQqfSsA_vfMZzsSFdhq7ppvzqIbTRb5JRWPwW7j5bjw5ykW6bZau4qi_lEQBeA1IaV6lEasLFYzhoMvBo-x6Gh4xZyntxJIAEqCWV1LXdlc3QtMjCWAg.ts
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
@@ -186,7 +186,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="¦ CARICATURAS", nick
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
-http://tv.televisionxinternet.com:25461/live/Gostreaming/Apoyanos/35993.m3u8
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/teen920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , TEEN NICK  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/amphibia-serie/images/5/53/Disney_XD_New_Logo.png/revision/latest?cb=20190617162802&path-prefix=es" , DISNEY XD
