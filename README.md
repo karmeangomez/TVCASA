@@ -33,6 +33,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--BzctMfuJ--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1465361734/production/designs/536423_1.jpg", 24H | DRAGON BALL Z
 https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/rIebo__0JmQ/expires/1635982002991/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4543550070343/1543232358983_medium/index.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png", LATINO KIDS
+https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png", ANIMAX
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n_vq7ygt7uo/URBJ24qpOAI/AAAAAAAAXX4/Wa-N2u_HUGI/s1600/Teletoon+Retro+logo.png", TELETOONS | KIDS
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADE KIDS
 http://194.36.190.60:8080/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg", ENERGEEK KIDS
@@ -75,12 +81,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Spain",Anime Clásico - SPAIN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 49
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2cbf0c163640e1c47e6605a161d659b088e935ef&st.mq=2&st.mvid=2237341370904&st.ip=187.162.101.45&st.dla=on&st.exp=1636073692413&st.hls=on&_prevCmd=movieLayer&tkn=9908
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 50
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6f85b2fbfec22b97abd71bcf5ac7e000a9927612&st.mq=2&st.mvid=2237345106456&st.ip=187.162.101.45&st.dla=on&st.exp=1636073886731&st.hls=on&_prevCmd=movieLayer&tkn=3754
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 51
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7c6fe6cf1159fa29d69292dc98280cea11227b7a&st.mq=2&st.mvid=2237341829656&st.ip=187.162.101.45&st.dla=on&st.exp=1636074030325&st.hls=on&_prevCmd=movieLayer&tkn=8459
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
@@ -92,7 +92,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=27&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2076600.jpg" , UNIVISION
-https://vsd109.mycdn.me/hls/1492478069254.m3u8/sig/GMAVwruLwuo/expires/1636037017623/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046956801542/1492478069254_medium/index.m3u8
+https://vsd109.mycdn.me/hls/1492478069254.m3u8/sig/87_UYsdal-s/expires/1636035921168/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046956801542/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1784&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS 
@@ -278,8 +278,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAz_rFFzMlzm8pgVhcVq9PxzjOmeHWGHJSykuw=s900-mo-c-c0xffffffff-rj-k-no", RETRO TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO HD
-https://vsd128.mycdn.me/hls/1492478659078.m3u8/sig/t-OLrYH0YbM/expires/1635892587859/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/video.m3u8?p
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/9BtSyV2.png",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL HD 
@@ -730,10 +728,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d3
 
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Spain",Pluto TV Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-id="61086c41fcc1f200070af07a" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/61086c41fcc1f200070af07a/colorLogoPNG.png" group-title="Kids",Barbie, Dale un extra a tu estilo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61086c41fcc1f200070af07a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://t4.kn3.net/taringa/7/1/3/5/6/9/maxidragon/FDD.jpg" group-title="CINE Y SERIES", RETRO TV CARICATURAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
