@@ -13,6 +13,8 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS |ESTRENOS
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg", 24H | LOS SIMPSONS
@@ -72,12 +74,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a6
 #EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Spain",Anime Clásico - SPAIN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 49
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b2b3b2bc3191415c63ad427b822fa69d8c82e46&st.mq=2&st.mvid=2237341370904&st.ip=187.162.101.45&st.dla=on&st.exp=1635819068205&st.hls=on&_prevCmd=movieLayer&tkn=6607
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2cbf0c163640e1c47e6605a161d659b088e935ef&st.mq=2&st.mvid=2237341370904&st.ip=187.162.101.45&st.dla=on&st.exp=1636073692413&st.hls=on&_prevCmd=movieLayer&tkn=9908
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 50
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8af10f9f65053c2fa67bb84d433d67e18aa07cad&st.mq=2&st.mvid=2237345106456&st.ip=187.162.101.45&st.dla=on&st.exp=1635819165086&st.hls=on&_prevCmd=movieLayer&tkn=5623
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6f85b2fbfec22b97abd71bcf5ac7e000a9927612&st.mq=2&st.mvid=2237345106456&st.ip=187.162.101.45&st.dla=on&st.exp=1636073886731&st.hls=on&_prevCmd=movieLayer&tkn=3754
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 51
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a8509b89338b7e7556fdb0dd18399345ab94cce3&st.mq=2&st.mvid=2237341829656&st.ip=187.162.101.45&st.dla=on&st.exp=1635819279369&st.hls=on&_prevCmd=movieLayer&tkn=7324
-
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7c6fe6cf1159fa29d69292dc98280cea11227b7a&st.mq=2&st.mvid=2237341829656&st.ip=187.162.101.45&st.dla=on&st.exp=1636074030325&st.hls=on&_prevCmd=movieLayer&tkn=8459
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
