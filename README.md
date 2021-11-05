@@ -81,12 +81,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Spain",Anime Clásico - SPAIN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 52
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=75aa05a309d7b1c92c9ec1ac66029d8f8be73366&st.uid=580427830891&st.mq=2&st.mvid=1644964416091&st.ip=187.162.101.45&st.dla=off&st.exp=1636166203491&st.hls=on&_prevCmd=movieLayer&tkn=3629
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 53
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4d6078c56b592a99900d9d4b8f9c5784991b0b5f&st.uid=580427830891&st.mq=2&st.mvid=2237341960728&st.ip=187.162.101.45&st.dla=on&st.exp=1636166297296&st.hls=on&_prevCmd=movieLayer&tkn=1882
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 54
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=990b1fa8e94768d6358551962bbf525c2fbfe63b&st.uid=580427830891&st.mq=2&st.mvid=2237345827352&st.ip=187.162.101.45&st.dla=on&st.exp=1636166335524&st.hls=on&_prevCmd=movieLayer&tkn=560
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 55
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7e7d5f4c575be33442a2aa39c739c6928750b6a5&st.uid=580427830891&st.mq=2&st.mvid=2237342353944&st.ip=187.162.101.45&st.dla=on&st.exp=1636254802300&st.hls=on&_prevCmd=movieLayer&tkn=7936
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 56
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bacef906627be4eeab1d6f3cd2b4320871bf0a90&st.uid=580427830891&st.mq=2&st.mvid=2237346220568&st.ip=187.162.101.45&st.dla=on&st.exp=1636254896287&st.hls=on&_prevCmd=movieLayer&tkn=30
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 57
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=de49a1e4a063370eeb48e9344d656a697e091af4&st.uid=580427830891&st.mq=2&st.mvid=2237342747160&st.ip=187.162.101.45&st.dla=on&st.exp=1636254958395&st.hls=on&_prevCmd=movieLayer&tkn=5564
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
