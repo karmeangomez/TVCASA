@@ -19,6 +19,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", PLANETA KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://www.adoptionchoicesofarizona.org/wp-content/uploads/2020/03/c492cf58a1b9c7f769187fc2c006467c-1024x1024.jpg", LIKE MIKE
+https://pqdslpyuxl.peliscdn.net/server18/c6693c11a7bfe6603b4b58140b953609/EP.0.1.v0.1635453777.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--BzctMfuJ--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1465361734/production/designs/536423_1.jpg", 24H | DRAGON BALL Z
 https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/OaHZJmkzly8/expires/1636240769407/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4543550070343/1543232358983_medium/index.m3u8
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg", 24H | EL CHAVO
