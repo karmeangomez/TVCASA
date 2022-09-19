@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/PlutoTV/all.xml.gz","http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/PlutoTV/all.xml.gz","http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,"
 #EXTINF:-1 tvg-logo="https://bit.ly/3Gc1lvM" group-title="Principales", STAR★GO!
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3g73NJc" group-title="Principales", GUIA★CANALES
@@ -6,17 +6,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3g5StgA" group-title="Principales", MOVIES★STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3o9EE5o" group-title="Principales", KIDS★STAR GO!
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3gtzKMe" group-title="Principales", NUEVOS CANALES
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=2ppgfCKx9as
+https://mediacpstreamchile.com:
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="Principales",TOTALPLAY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1973&f=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/812515/screenshots/2039964/1.gumball.gif" group-title="Kids", CARTOON NETWORK WEB
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.QIDhr0olcvrWHj4eFRCpGAHaEL%26pid%3DApi&f=1" group-title="Kids",CARTOONITO WEB
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3GMUX05" group-title="Principales", DOCTOR STRANGE 2
 https://archive.org/serve/doctorstrange_202205/IMG_1541.mp4
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwgUl2Z-U7NAi9zJMTEdzSoaJ-LGyaU7TKydA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principales", TELEMUNDO USA
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tll_41xtt
-#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids", JETIX
-http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="http://img2.wikia.nocookie.net/__cb20100522133819/logopedia/images/5/55/Fox_Kids.png" group-title="Kids", FOX KIDS
-http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3eqb1HG" group-title="Kids", ACS KIDS
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
@@ -57,8 +55,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=hkc2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3nyZVp8" group-title="Principales" , LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://bit.ly/3AWtqWN" group-title="Deportes", AFIZZIONADOS
-http://clubtv.link/21fb/lista2.php?c=3193&f=.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3CAt5IM" group-title="Principales", IMAGEN TV HD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3CAt5IM" group-title="Principales", IMAGEN TV 
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/2188f3bbdbb08e268f77e21776499edf.png" group-title="Principales" , CANAL 5 HD 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/2188f3bbdbb08e268f77e21776499edf.png" group-title="Principales", CANAL 5
@@ -91,10 +91,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="935" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Principales",Badass novelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://bit.ly/3CAt5IM" group-title="Principales", IMAGEN TV HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3CAt5IM" group-title="Principales", IMAGEN TV 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png" group-title="Principales", NU9VE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png" group-title="Principales", NU9VE HD
@@ -131,12 +127,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&s=hkc
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/logotipo-tvc-networks.png" group-title="Principales", TVC
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://bit.ly/3DGjbXo" group-title="Principales", ONCE
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="Principales", ONCE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3DGjbXo" group-title="Principales", ONCE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="Principales", ONCE HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",ONCE FHD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=25&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.canaldelcongreso.gob.mx/assets/img/noticias_old/canalogo.jpg" group-title="Principales", CANAL DEL CONGRESO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2331&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/mx-teleformula-1728.jpg" group-title="Principales", TELEFORMULA 
@@ -877,3 +871,360 @@ https://ia601408.us.archive.org/17/items/chucky-1x-07/Chucky%20-%201x07.mp4
 https://ia601504.us.archive.org/13/items/chuckycap-8480p/Chuckycap8480p.mp4  
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://vignette3.wikia.nocookie.net/doblaje/images/8/8c/Letras_explicitas_poster.jpg/revision/latest?cb=20150926033831&path-prefix=es" group-title="Principales",Letras Explicitas
 https://pelisloadtop.com/server14/fec540cfc266cbc2f555be9cbd5c9851/EP.0.1.v0.1635491306.720.m3u8
+
+*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Videos Chistosos
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Videos Chistosos 2
+https://linear-49.frequency.stream/dist/localnow/49/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Noticias Univision 24/7
+https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", EuroNews
+https://linear-255.frequency.stream/dist/localnow/255/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Bein Sports Xtra
+https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", ATV+
+https://linear-258.frequency.stream/dist/localnow/258/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", TN23
+https://linear-259.frequency.stream/dist/localnow/259/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Vivo Play
+https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", My Time Movies
+https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Nuestra Vision
+https://linear-262.frequency.stream/dist/localnow/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Level Up - Games
+https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Foro TV
+https://linear-300.frequency.stream/dist/localnow/300/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Amores Verdaderos
+https://linear-305.frequency.stream/dist/localnow/305/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Aqui y Ahora
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 1
+https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 2
+https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 3
+https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", JaJaJa (XH Derbez)
+https://linear-310.frequency.stream/dist/localnow/310/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Familia P. Luche
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Durmiendo con mi Jefe
+https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", El Privilegio de Mandar
+https://linear-313.frequency.stream/dist/localnow/313/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Vecinos
+https://linear-314.frequency.stream/dist/localnow/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Crónicas
+https://linear-315.frequency.stream/dist/localnow/315/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cuidado con el Angel
+https://linear-316.frequency.stream/dist/localnow/316/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Del Mercado al Plato
+https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Soy tu Dueña
+https://linear-318.frequency.stream/dist/localnow/318/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Alegrijes y Rebujos
+https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Amigas y Rivales
+https://linear-320.frequency.stream/dist/localnow/320/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Tres Veces Ana
+https://linear-321.frequency.stream/dist/localnow/321/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Clase 406
+https://linear-322.frequency.stream/dist/localnow/322/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Héroes del Norte
+https://linear-323.frequency.stream/dist/localnow/323/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Teresa
+https://linear-324.frequency.stream/dist/localnow/324/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Corazón Salvaje
+https://linear-325.frequency.stream/dist/localnow/325/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Juana la Virgen
+https://linear-327.frequency.stream/dist/localnow/327/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", María Mercedes
+https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Que Bonito Amor 
+https://linear-329.frequency.stream/dist/localnow/329/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", ViX 
+https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Muchachitas
+https://linear-331.frequency.stream/dist/localnow/331/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Muchachitas como Tu 
+https://linear-332.frequency.stream/dist/localnow/332/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Mi Gorda Bella 
+https://linear-334.frequency.stream/dist/localnow/334/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Rebelde
+https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Papa a toda Madre 
+https://linear-336.frequency.stream/dist/localnow/336/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Sortilegio
+https://linear-337.frequency.stream/dist/localnow/337/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Triunfo del Amor
+https://linear-338.frequency.stream/dist/localnow/338/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Soy tu Dueña 
+https://linear-339.frequency.stream/dist/localnow/339/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", 40 y 20
+https://linear-340.frequency.stream/dist/localnow/340/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Como dice El Dicho
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Teresa
+https://linear-342.frequency.stream/dist/localnow/342/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Promesa
+https://linear-343.frequency.stream/dist/localnow/343/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/localnow/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Selecc10n
+https://linear-345.frequency.stream/dist/localnow/345/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Lo que Diga el Corazon, Niche
+https://linear-346.frequency.stream/dist/localnow/346/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Afizzionados
+https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Kids
+https://linear-355.frequency.stream/dist/localnow/355/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Zona TUDN
+https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", ViX TUDN
+https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Zona Futbol
+https://linear-374.frequency.stream/374/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", CNN Colombia
+https://linear-358.frequency.stream/dist/localnow/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Club - PrendeTV
+https://linear-192.frequency.stream/dist/localnow/192/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Club - Vix
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Lo Mejor de la Liga MX - PrendeTV
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Romance - PrendeTV
+https://linear-194.frequency.stream/dist/localnow/194/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas en Familia - PrendeTV
+https://linear-195.frequency.stream/dist/localnow/195/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Oro - PrendeTV
+https://linear-196.frequency.stream/dist/localnow/196/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Oro - Vix
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", RCN Mas
+https://linear-286.frequency.stream/dist/localnow/286/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Foro TV
+https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", N+ Media
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Las Estrellas
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Las Estrellas -1
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Las Estrellas -2
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Canal 5
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Nu9ve
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", BitMe 
+https://linear-401.frequency.stream:443/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Golden
+https://linear-409.frequency.stream/409/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Golden Edge
+https://linear-407.frequency.stream:443/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Golden Plus 
+https://linear-410.frequency.stream:443/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Golden Premier
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Afizzionados 
+https://linear-348.frequency.stream:443/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Adrenalina Sports
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Telehit Musica Plus 
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Telehit Musica 
+https://linear-418.frequency.stream:443/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Telehit 
+https://linear-417.frequency.stream:443/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Bandamax
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TL Novelas
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Unicable
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Distrito Comedia
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", De Pelicula Plus
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", De Pelicula
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Univision Miami
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Lo Mas Vixto
+https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Novelas Vix
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", Deportes Vix
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 1
+https://linear-347.frequency.stream/347/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 2
+https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 3
+https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 4
+https://linear-365.frequency.stream/365/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 5
+https://linear-372.frequency.stream/372/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 6
+https://linear-373.frequency.stream/373/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 7
+https://linear-375.frequency.stream/375/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 8
+https://linear-376.frequency.stream/376/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 9
+https://linear-377.frequency.stream/377/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 10
+https://linear-378.frequency.stream/378/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 11
+https://linear-379.frequency.stream/379/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 12
+https://linear-380.frequency.stream/380/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 13
+https://linear-381.frequency.stream/381/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 14
+https://linear-383.frequency.stream/383/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 15
+https://linear-384.frequency.stream/384/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 16
+https://linear-385.frequency.stream/385/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 17
+https://linear-386.frequency.stream/386/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO", HBO
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29336
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO", HBO2
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29335
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="HBO", HBO Family
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29338
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO", HBO Plus
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29341
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29343
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO", HBO POP
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29359
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO", HBO Xtreme
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29337
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="HBO", HBOMAX
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29342
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="HBO", HBOMAX
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/29342
